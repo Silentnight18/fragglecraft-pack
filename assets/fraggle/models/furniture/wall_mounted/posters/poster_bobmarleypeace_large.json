@@ -1,0 +1,6 @@
+{
+	"parent": "fraggle:furniture/wall_mounted/poster_24x32_large",
+	"textures": {
+		"poster_texture": "fraggle:furniture/wall_mounted/bobmarleypeaceposter"
+	}
+}

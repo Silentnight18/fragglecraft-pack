@@ -1,0 +1,6 @@
+{
+	"parent": "fraggle:furniture/wall_mounted/poster_16x16_large",
+	"textures": {
+		"poster_texture": "minecraft:painting/sunset"
+	}
+}

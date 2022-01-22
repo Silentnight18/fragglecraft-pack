@@ -1,0 +1,6 @@
+{
+	"parent": "fraggle:furniture/lights/lamppost_base",
+	"textures": {
+		"lamppost_candle": "fraggle:furniture/lights/lamppost_candle_off"
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "fraggle:furniture/lights/desk_lamp"
+	},
+	"elements": [
+		{
+			"name": "lamp",
+			"from": [3.78002, 0, 5.78002],
+			"to": [11.78002, 1, 13.78002],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.78002, 0.5, 9.78002]},
+			"faces": {
+				"north": {"uv": [9, 0, 13, 0.5], "texture": "#0"},
+				"east": {"uv": [9, 1, 13, 1.5], "texture": "#0"},
+				"south": {"uv": [9, 2, 13, 2.5], "texture": "#0"},
+				"west": {"uv": [0, 9, 4, 9.5], "texture": "#0"},
+				"up": {"uv": [4, 4, 0, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [4, 4.5, 0, 8.5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "lamp",
+			"from": [6.78002, 1, 11.78002],
+			"to": [8.78002, 7, 12.78002],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.78002, 1, 11.78002]},
+			"faces": {
+				"north": {"uv": [4.5, 5, 5.5, 8], "texture": "#0"},
+				"east": {"uv": [9.5, 6.5, 10, 9.5], "texture": "#0"},
+				"south": {"uv": [6, 5, 7, 8], "texture": "#0"},
+				"west": {"uv": [9.5, 3, 10, 6], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.5, 1], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 0.5, 1], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "lamp",
+			"from": [6.78002, 6.16059, 14],
+			"to": [8.78002, 12.16059, 15],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7.78002, 6.16059, 15]},
+			"faces": {
+				"north": {"uv": [4.5, 8.5, 5.5, 11.5], "texture": "#0"},
+				"east": {"uv": [1, 10, 1.5, 13], "texture": "#0"},
+				"south": {"uv": [6, 8.5, 7, 11.5], "texture": "#0"},
+				"west": {"uv": [0, 10, 0.5, 13], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.5, 1], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 0.5, 1], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "lamp",
+			"from": [6.53002, 5.91059, 14.04289],
+			"to": [9.03002, 6.41059, 14.54289],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7.78002, 6.16059, 14.29289]},
+			"faces": {
+				"north": {"uv": [10.5, 3, 11, 3.5], "texture": "#0"},
+				"east": {"uv": [11.5, 3, 12, 3.5], "texture": "#0"},
+				"south": {"uv": [10.5, 3, 11, 3.5], "texture": "#0"},
+				"west": {"uv": [10.5, 3, 11, 3.5], "texture": "#0"},
+				"up": {"uv": [10.5, 3, 11, 3.5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [10.5, 3, 11, 3.5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "lamp",
+			"from": [5.78002, 12.16059, 13],
+			"to": [9.78002, 16.16059, 16],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7.78002, 6.16059, 15]},
+			"faces": {
+				"north": {"uv": [4.5, 0, 6.5, 2], "texture": "#0"},
+				"east": {"uv": [7, 2.5, 8.5, 4.5], "texture": "#0"},
+				"south": {"uv": [4.5, 2.5, 6.5, 4.5], "texture": "#0"},
+				"west": {"uv": [7, 0, 8.5, 2], "texture": "#0"},
+				"up": {"uv": [9, 7, 7.5, 5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [9, 7.5, 7.5, 9.5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "lamp",
+			"from": [6.78002, 12.66059, 15.5],
+			"to": [8.78002, 14.66059, 16.5],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7.78002, 6.16059, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"east": {"uv": [7.5, 10, 8, 11], "texture": "#0"},
+				"south": {"uv": [2, 10, 3, 11], "texture": "#0"},
+				"west": {"uv": [3.5, 10, 4, 11], "texture": "#0"},
+				"up": {"uv": [9, 11, 8.5, 10], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [10, 10, 9.5, 11], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [80, 0, 0],
+			"translation": [0, 4.5, 0.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [80, 0, 0],
+			"translation": [0, 4.5, 0.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [11, 0, 0],
+			"translation": [0, 4.5, 0.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [11, 0, 0],
+			"translation": [0, 4.5, 0.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 1.25, 0]
+		},
+		"gui": {
+			"rotation": [9.25, 139.25, 0],
+			"translation": [0, 1.5, 0]
+		},
+		"head": {
+			"translation": [0, 14.5, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -4.5, -21],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "lAmP",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

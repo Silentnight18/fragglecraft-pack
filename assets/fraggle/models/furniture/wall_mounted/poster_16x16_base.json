@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "fraggle:furniture/wall_mounted/poster_frame",
+		"1": "#poster_texture"
+	},
+	"elements": [
+		{
+			"from": [0, 4, 0],
+			"to": [16, 20, 0.05],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 16], "texture": "#1"},
+				"east": {"uv": [1.25, 1.25, 1.275, 13.25], "texture": "#0"},
+				"south": {"uv": [0, 0, 12, 16], "texture": "#0"},
+				"west": {"uv": [10.25, 1.25, 10.275, 13.25], "texture": "#0"},
+				"up": {"uv": [1.25, 0.25, 10.25, 0.275], "texture": "#0"},
+				"down": {"uv": [1, 14.975, 10, 15], "texture": "#0"}
+			}
+		}
+	]
+}

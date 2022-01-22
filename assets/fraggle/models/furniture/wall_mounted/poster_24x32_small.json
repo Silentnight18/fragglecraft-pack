@@ -1,0 +1,9 @@
+{
+	"parent": "fraggle:furniture/wall_mounted/poster_24x32_base",
+	"display": {
+		"fixed": {
+			"translation": [0, -8, 31.75],
+			"scale": [2, 2, 4]
+		}
+	}
+}

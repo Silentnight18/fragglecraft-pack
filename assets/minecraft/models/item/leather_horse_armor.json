@@ -1,0 +1,52 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+	"overrides": [				
+		{ "predicate": { "custom_model_data": 1}, "model": "fraggle:furniture/seats/couch" },		
+		{ "predicate": { "custom_model_data": 2}, "model": "fraggle:furniture/seats/pillow" },		
+		{ "predicate": { "custom_model_data": 3}, "model": "fraggle:furniture/seats/stool" },
+		
+		
+		{ "predicate": { "custom_model_data": 7}, "model": "fraggle:furniture/lights/lamppost_off" },		
+		{ "predicate": { "custom_model_data": 8}, "model": "fraggle:furniture/lights/lamppost_on" },		
+		
+		{ "predicate": { "custom_model_data": 9}, "model": "fraggle:furniture/lights/floor_lamp" },		
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:furniture/lights/desk_lamp" },
+		
+		
+		{ "predicate": { "custom_model_data": 11}, "model": "fraggle:furniture/tables/side_table" },	
+		
+		
+		{ "predicate": { "custom_model_data": 14}, "model": "fraggle:furniture/carpets/carpet_vanilla" },		
+		{ "predicate": { "custom_model_data": 15}, "model": "fraggle:furniture/carpets/carpet_sample" },
+		
+		
+		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:furniture/wall_mounted/posters/poster_bobmarleypeace_small" },		
+		{ "predicate": { "custom_model_data": 21}, "model": "fraggle:furniture/wall_mounted/posters/poster_bobmarleypeace_medium" },		
+		{ "predicate": { "custom_model_data": 22}, "model": "fraggle:furniture/wall_mounted/posters/poster_bobmarleypeace_large" },		
+		
+		{ "predicate": { "custom_model_data": 23}, "model": "fraggle:furniture/wall_mounted/posters/poster_testpainting_small" },		
+		{ "predicate": { "custom_model_data": 24}, "model": "fraggle:furniture/wall_mounted/posters/poster_testpainting_medium" },		
+		{ "predicate": { "custom_model_data": 25}, "model": "fraggle:furniture/wall_mounted/posters/poster_testpainting_large" },	
+		
+		
+		{ "predicate": { "custom_model_data": 30}, "model": "fraggle:furniture/plushes/chonk_bear" },		
+		{ "predicate": { "custom_model_data": 31}, "model": "fraggle:furniture/plushes/baby_enderdragon" },
+
+		
+		{ "predicate": { "custom_model_data": 40}, "model": "fraggle:furniture/trash_cans/trash_can" },
+		{ "predicate": { "custom_model_data": 41}, "model": "fraggle:furniture/trash_cans/trash_can_open" },		
+		
+		
+		{ "predicate": { "custom_model_data": 42}, "model": "fraggle:furniture/blocks/16block" },		
+		{ "predicate": { "custom_model_data": 43}, "model": "fraggle:furniture/blocks/8block" },
+		
+		
+		{ "predicate": { "custom_model_data": 50}, "model": "fraggle:furniture/dye" },		
+		
+		
+		{ "predicate": { "custom_model_data": 5000}, "model": "minecraft:item/leather_horse_armor" }
+	]
+}
