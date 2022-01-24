@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:skills/mining/ores/onyx_ore"
+    "layer0": "fraggle:skills/mining/ores/raw/raw_onyx"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:skills/mining/ores/raw/raw_titanium"
+    "layer0": "fraggle:skills/mining/ingots/titanium_ingot"
   }
 }
