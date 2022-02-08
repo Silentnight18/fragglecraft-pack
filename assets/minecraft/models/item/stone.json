@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/stone",
+	"overrides": [					
+		{ "predicate": { "custom_model_data": 1000}, "model": "fraggle:block/vanilla/bedrock" },
+		{ "predicate": { "custom_model_data": 1001}, "model": "fraggle:block/vanilla/half_bedrock" },
+		{ "predicate": { "custom_model_data": 1002}, "model": "fraggle:block/vanilla/triple_bedrock" }
+	]
+}

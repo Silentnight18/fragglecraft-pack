@@ -47,6 +47,11 @@
 		{ "predicate": { "custom_model_data": 50}, "model": "fraggle:furniture/dye" },		
 		
 		
+		{ "predicate": { "custom_model_data": 4000}, "model": "fraggle:skills/woodcutting/trees/small_tree_test" },	
+		{ "predicate": { "custom_model_data": 4001}, "model": "fraggle:skills/woodcutting/trees/small_tree_test2" },	
+		{ "predicate": { "custom_model_data": 4002}, "model": "fraggle:skills/woodcutting/trees/small_tree_test3" },	
+		
+		
 		{ "predicate": { "custom_model_data": 5000}, "model": "minecraft:item/leather_horse_armor" }
 	]
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "fraggle:block/base_models/basic/cube_all",
+  "textures": {
+    "all": "minecraft:block/bedrock"
+  }
+}
