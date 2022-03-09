@@ -43,17 +43,21 @@
 		{ "predicate": { "custom_model_data": 42}, "model": "fraggle:furniture/blocks/16block" },		
 		{ "predicate": { "custom_model_data": 43}, "model": "fraggle:furniture/blocks/8block" },
 		
-		{ "predicate": { "custom_model_data": 44}, "model": "fraggle:furniture/misc_sort_later/large_speaker" },	
+		{ "predicate": { "custom_model_data": 44}, "model": "fraggle:furniture/misc_sort_later/gem_table" },
+		
+		{ "predicate": { "custom_model_data": 45}, "model": "fraggle:furniture/misc_sort_later/large_speaker" },	
 				
 		{ "predicate": { "custom_model_data": 50}, "model": "fraggle:furniture/dye" },
 		
 		
 		
-		
-		
+			
+
 		{ "predicate": { "custom_model_data": 4000}, "model": "fraggle:skills/woodcutting/trees/small_tree_test" },	
-		{ "predicate": { "custom_model_data": 4001}, "model": "fraggle:skills/woodcutting/trees/small_tree_test2" },	
-		{ "predicate": { "custom_model_data": 4002}, "model": "fraggle:skills/woodcutting/trees/small_tree_test3" },	
+		{ "predicate": { "custom_model_data": 4001}, "model": "fraggle:skills/woodcutting/trees/tree_stump" },
+		
+		{ "predicate": { "custom_model_data": 4002}, "model": "fraggle:skills/woodcutting/trees/small_tree_test2" },			
+		{ "predicate": { "custom_model_data": 4004}, "model": "fraggle:skills/woodcutting/trees/small_tree_test3" },	
 		
 		
 		{ "predicate": { "custom_model_data": 5000}, "model": "minecraft:item/leather_horse_armor" }
