@@ -43,8 +43,12 @@
 		{ "predicate": { "custom_model_data": 42}, "model": "fraggle:furniture/blocks/16block" },		
 		{ "predicate": { "custom_model_data": 43}, "model": "fraggle:furniture/blocks/8block" },
 		
+		{ "predicate": { "custom_model_data": 44}, "model": "fraggle:furniture/misc_sort_later/large_speaker" },	
+				
+		{ "predicate": { "custom_model_data": 50}, "model": "fraggle:furniture/dye" },
 		
-		{ "predicate": { "custom_model_data": 50}, "model": "fraggle:furniture/dye" },		
+		
+		
 		
 		
 		{ "predicate": { "custom_model_data": 4000}, "model": "fraggle:skills/woodcutting/trees/small_tree_test" },	
