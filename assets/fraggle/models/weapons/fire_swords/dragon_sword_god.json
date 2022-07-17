@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "fraggle:extra/fun/dragon_sword_god"
+  },
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [180, 0, 0],
+			"translation": [0, 0, 0],
+			"scale": [3.86, 3.86, 3.86]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [180, 0, 0],
+			"translation": [0, 0, 0],
+			"scale": [3.86, 3.86, 3.86]
+		},
+		"head": {
+			"rotation": [180, 0, 180],
+			"translation": [-4.5, -14.75, 7.75],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, 0, -3],
+			"scale": [4, 4, 4]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -4.5, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

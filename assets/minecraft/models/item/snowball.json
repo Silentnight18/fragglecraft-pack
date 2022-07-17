@@ -1,0 +1,18 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/snowball"
+    },
+	"overrides": [		
+		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/snowball" },
+		{ "predicate": { "custom_model_data": 5}, "model": "fraggle:extra/fun/pokeball_empty" },
+		{ "predicate": { "custom_model_data": 6}, "model": "fraggle:extra/fun/pokeball_filled" },
+		{ "predicate": { "custom_model_data": 7}, "model": "fraggle:extra/fun/greatball_empty" },
+		{ "predicate": { "custom_model_data": 8}, "model": "fraggle:extra/fun/greatball_filled" },
+		{ "predicate": { "custom_model_data": 9}, "model": "fraggle:extra/fun/netherball_empty" },
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:extra/fun/netherball_filled" },
+		{ "predicate": { "custom_model_data": 11}, "model": "fraggle:extra/fun/tameball_empty" },
+		{ "predicate": { "custom_model_data": 12}, "model": "fraggle:extra/fun/tameball_filled" },
+		{ "predicate": { "custom_model_data": 15}, "model": "minecraft:item/snowball" }
+	]
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/blaze_rod"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 3}, "model": "minecraft:item/blaze_rod" },
+		{ "predicate": { "custom_model_data": 5}, "model": "fraggle:extra/fun/dragon_key" },
+
+		{ "predicate": { "custom_model_data": 1000}, "model": "minecraft:item/blaze_rod" }
+	]
+}
