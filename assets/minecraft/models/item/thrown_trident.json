@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "minecraft:item/netherite_axe"
+		"layer0": "minecraft:item/thrown_trident"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "fraggle:weapons/fire_swords/arcanite_reaper" },
@@ -13,9 +13,11 @@
 		{ "predicate": { "custom_model_data": 7}, "model": "fraggle:weapons/fire_swords/dagger_36" },
 		{ "predicate": { "custom_model_data": 8}, "model": "fraggle:weapons/fire_swords/dagger_39" },
 		{ "predicate": { "custom_model_data": 9}, "model": "fraggle:weapons/fire_swords/dagger_40" },
-		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:weapons/fire_swords/dagger_39" },
-
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:weapons/fire_swords/dagger_36" },
+		{ "predicate": { "custom_model_data": 11}, "model": "fraggle:weapons/fire_swords/cosmo_blade" },
 		
-		{ "predicate": { "custom_model_data": 20}, "model": "minecraft:item/netherite_axe" }
+		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:weapons/tridents/kraken_left_tentacle" },
+		{ "predicate": { "custom_model_data": 21}, "model": "fraggle:weapons/tridents/kraken_right_tentacle" },
+		{ "predicate": { "custom_model_data": 22}, "model": "minecraft:item/thrown_trident" }
 	]
 }

@@ -13,8 +13,9 @@
 		{ "predicate": { "custom_model_data": 7}, "model": "fraggle:weapons/fire_swords/dagger_36" },
 		{ "predicate": { "custom_model_data": 8}, "model": "fraggle:weapons/fire_swords/dagger_39" },
 		{ "predicate": { "custom_model_data": 9}, "model": "fraggle:weapons/fire_swords/dagger_40" },
-		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:weapons/fire_swords/dagger_36" },
-		{ "predicate": { "custom_model_data": 11}, "model": "fraggle:weapons/fire_swords/cosmo_blade" },
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:weapons/fire_swords/dragon_sword_basic" },
+		{ "predicate": { "custom_model_data": 11}, "model": "fraggle:weapons/fire_swords/dragon_sword_god" },
+		
 		
 		{ "predicate": { "custom_model_data": 20}, "model": "minecraft:item/netherite_sword" }
 	]
