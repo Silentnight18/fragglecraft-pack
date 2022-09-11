@@ -31,6 +31,8 @@
 		{ "predicate": { "custom_model_data": 24}, "model": "fraggle:furniture/wall_mounted/posters/poster_testpainting_medium" },		
 		{ "predicate": { "custom_model_data": 25}, "model": "fraggle:furniture/wall_mounted/posters/poster_testpainting_large" },	
 		
+		{ "predicate": { "custom_model_data": 26}, "model": "fraggle:furniture/wall_mounted/posters/poster_asui_small" },
+		{ "predicate": { "custom_model_data": 27}, "model": "fraggle:furniture/wall_mounted/posters/poster_todoroki_small" },	
 		
 		{ "predicate": { "custom_model_data": 30}, "model": "fraggle:furniture/plushes/chonk_bear" },		
 		{ "predicate": { "custom_model_data": 31}, "model": "fraggle:furniture/plushes/baby_enderdragon" },
@@ -50,7 +52,7 @@
 		{ "predicate": { "custom_model_data": 50}, "model": "fraggle:furniture/dye" },
 		
 		
-		
+		{ "predicate": { "custom_model_data": 100}, "model": "fraggle:hats/crown/tint_crown" },
 			
 
 		{ "predicate": { "custom_model_data": 4000}, "model": "fraggle:skills/woodcutting/trees/small_tree_test" },	

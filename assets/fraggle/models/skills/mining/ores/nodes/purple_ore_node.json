@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "fraggle:skills/mining/ores/nodes/purple_ore_node"
-  }
-}

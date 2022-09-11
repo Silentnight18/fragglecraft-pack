@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/redstone"
+    },
+	"overrides": [		
+		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/redstone" },
+			
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:extra/fun/dragon_dust" },
+		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:extra/fun/kraken_dust"}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "fraggle:furniture/wall_mounted/poster_16x16_small",
+	"textures": {
+		"poster_texture": "fraggle:furniture/wall_mounted/todorokiposter"
+	}
+}
