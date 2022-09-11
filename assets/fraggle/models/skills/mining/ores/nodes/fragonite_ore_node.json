@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "fraggle:skills/mining/ores/nodes/fragonite_ore_node"
-  }
-}

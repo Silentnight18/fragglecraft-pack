@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/glass_bottle"
+    },
+	"overrides": [		
+		{ "predicate": {"custom_model_data": 0}, "model": "minecraft:item/glass_bottle" },
+		{"predicate": {"custom_model_data":10}, "model": "fraggle:extra/fun/level_vial_empty"},
+		{"predicate": {"custom_model_data":11}, "model": "fraggle:extra/fun/level_vial_filled"}
+	]
+}

@@ -7,6 +7,53 @@
 		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/paper" },
 			
 		{ "predicate": { "custom_model_data": 1}, "model": "fraggle:ui/font_button_invisible" },
-		{ "predicate": { "custom_model_data": 2}, "model": "minecraft:item/paper" }
+		{ "predicate": { "custom_model_data": 2}, "model": "minecraft:item/paper" },
+
+
+		{ "predicate": { "custom_model_data": 100 }, "model": "fraggle:hats/crown/iron_crown" },
+		{ "predicate": { "custom_model_data": 101 }, "model": "fraggle:hats/crown/gold_crown" },
+		{ "predicate": { "custom_model_data": 102 }, "model": "fraggle:hats/crown/emerald_crown" },
+		{ "predicate": { "custom_model_data": 103 }, "model": "fraggle:hats/crown/diamond_crown" },
+		{ "predicate": { "custom_model_data": 104 }, "model": "fraggle:hats/crown/amethyst_crown" },
+		{ "predicate": { "custom_model_data": 105 }, "model": "fraggle:hats/crown/ruby_crown" },
+		{ "predicate": { "custom_model_data": 106 }, "model": "fraggle:hats/crown/sapphire_crown" },
+		{ "predicate": { "custom_model_data": 107 }, "model": "fraggle:hats/crown/prismatic_crown" },
+		{ "predicate": { "custom_model_data": 108 }, "model": "fraggle:hats/crown/obsidian_crown" },
+		{ "predicate": { "custom_model_data": 109 }, "model": "fraggle:hats/crown/gilded_blackstone_crown" },
+		{ "predicate": { "custom_model_data": 110 }, "model": "fraggle:hats/crown/netherite_crown" },
+		{ "predicate": { "custom_model_data": 111 }, "model": "fraggle:hats/crown/ender_crown" },
+
+		{ "predicate": { "custom_model_data": 112 }, "model": "fraggle:hats/barbell" },
+		{ "predicate": { "custom_model_data": 113 }, "model": "fraggle:hats/witch_hat_tilted" },
+		{ "predicate": { "custom_model_data": 114 }, "model": "fraggle:hats/devil_horns" },
+
+		{"predicate": {"custom_model_data":115}, "model": "fraggle:hats/cat_ears_hat"},
+		{"predicate": {"custom_model_data":116}, "model": "fraggle:hats/cowboy_hat"},
+		{"predicate": {"custom_model_data":117}, "model": "fraggle:hats/crown_hat"},
+		{"predicate": {"custom_model_data":118}, "model": "fraggle:hats/fox_hat"},
+		{"predicate": {"custom_model_data":119}, "model": "fraggle:hats/gentleman_hat"},
+		{"predicate": {"custom_model_data":120}, "model": "fraggle:hats/golden_crown"},
+		{"predicate": {"custom_model_data":121}, "model": "fraggle:hats/halo_hat"},
+		{"predicate": {"custom_model_data":122}, "model": "fraggle:hats/horns_hat"},
+		{"predicate": {"custom_model_data":123}, "model": "fraggle:hats/iron_crown"},
+		{"predicate": {"custom_model_data":124}, "model": "fraggle:hats/mafia_hat"},
+		{"predicate": {"custom_model_data":125}, "model": "fraggle:hats/pirate_hat"},
+		{"predicate": {"custom_model_data":126}, "model": "fraggle:hats/santa_hat"},
+		{"predicate": {"custom_model_data":127}, "model": "fraggle:hats/sombrero_hat"},
+
+		{"predicate":{"custom_model_data":128},"model":"fraggle:hats/summer/409"},
+		{"predicate":{"custom_model_data":129},"model":"fraggle:hats/summer/410"},
+		{"predicate":{"custom_model_data":130},"model":"fraggle:hats/summer/411"},
+		{"predicate":{"custom_model_data":131},"model":"fraggle:hats/summer/412"},
+		{"predicate":{"custom_model_data":132},"model":"fraggle:hats/summer/413"},
+		{"predicate":{"custom_model_data":133},"model":"fraggle:hats/summer/414"},
+		{"predicate":{"custom_model_data":134},"model":"fraggle:hats/summer/415"},
+		{"predicate":{"custom_model_data":135},"model":"fraggle:hats/summer/416"},
+		{"predicate":{"custom_model_data":136},"model":"fraggle:hats/summer/417"},
+		
+		{"predicate": {"custom_model_data":7777}, "model": "house_pets_model/dog_treat"},
+		{"predicate": {"custom_model_data":7778}, "model": "house_pets_model/dog_bowl"},
+		{"predicate": {"custom_model_data":7779}, "model": "house_pets_model/cat_bowl"},
+		{"predicate": {"custom_model_data":7780}, "model": "house_pets_model/hamster_bowl"}
 	]
 }

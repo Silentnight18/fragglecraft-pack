@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/bread"
+    },
+	"overrides": [		
+		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/bread" },
+			
+		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:extra/fun/raw_dough" },
+		{ "predicate": { "custom_model_data": 21}, "model": "minecraft:item/bread" }
+	]
+}
