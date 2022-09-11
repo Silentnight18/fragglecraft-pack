@@ -53,6 +53,17 @@
 		
 		
 		{ "predicate": { "custom_model_data": 100}, "model": "fraggle:hats/crown/tint_crown" },
+		
+		
+		
+		{ "predicate": { "custom_model_data": 300}, "model": "fraggle:trees/banana_tree_empty" },
+		{ "predicate": { "custom_model_data": 301}, "model": "fraggle:trees/banana_tree_bunches_a" },
+		{ "predicate": { "custom_model_data": 302}, "model": "fraggle:trees/banana_tree_bunches_b" },
+		{ "predicate": { "custom_model_data": 303}, "model": "fraggle:trees/banana_tree_bunches_c" },
+		{ "predicate": { "custom_model_data": 304}, "model": "fraggle:trees/banana_tree_bunches_ab" },
+		{ "predicate": { "custom_model_data": 305}, "model": "fraggle:trees/banana_tree_bunches_ac" },
+		{ "predicate": { "custom_model_data": 306}, "model": "fraggle:trees/banana_tree_bunches_bc" },
+		{ "predicate": { "custom_model_data": 307}, "model": "fraggle:trees/banana_tree_bunches_abc" },
 			
 
 		{ "predicate": { "custom_model_data": 4000}, "model": "fraggle:skills/woodcutting/trees/small_tree_test" },	
