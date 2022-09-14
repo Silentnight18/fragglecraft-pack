@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+	"overrides": [				
+		{ "predicate": { "custom_model_data": 1}, "model": "fraggle:food/drinks/mug_with_liquid" },
+		{ "predicate": { "custom_model_data": 2}, "model": "fraggle:food/drinks/mug_with_liquid_filling" },
+		{ "predicate": { "custom_model_data": 1000}, "model": "fraggle:food/furniture/drink_keg_open" },
+		{ "predicate": { "custom_model_data": 1001}, "model": "fraggle:food/furniture/drink_keg_closed" }
+		]
+}
