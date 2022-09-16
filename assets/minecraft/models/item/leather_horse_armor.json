@@ -68,8 +68,8 @@
 		{ "predicate": { "custom_model_data": 1000}, "model": "fraggle:food/furniture/drink_keg_closed" },
 		{ "predicate": { "custom_model_data": 1001}, "model": "fraggle:food/furniture/drink_keg_open" },
 
-		{ "predicate": { "custom_model_data": 1200}, "model": "fraggle:furniture/event/oktoberfest/blue_banner_wall" },
-		{ "predicate": { "custom_model_data": 1202}, "model": "fraggle:furniture/event/oktoberfest/yellow_banner_wall" },
+		{ "predicate": { "custom_model_data": 1200}, "model": "fraggle:furniture/events/oktoberfest/blue_banner_wall" },
+		{ "predicate": { "custom_model_data": 1202}, "model": "fraggle:furniture/events/oktoberfest/yellow_banner_wall" },
 
 
 		{ "predicate": { "custom_model_data": 4000}, "model": "fraggle:skills/woodcutting/trees/small_tree_test" },	

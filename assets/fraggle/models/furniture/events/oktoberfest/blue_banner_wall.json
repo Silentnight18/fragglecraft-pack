@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/345",
-		"particle": "custom/345"
+		"0": "fraggle:furniture/events/oktoberfest/345",
+		"particle": "fraggle:furniture/events/oktoberfest/345"
 	},
 	"elements": [
 		{
