@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fraggle:furniture/events/oktoberfest/345",
+		"particle": "fraggle:furniture/events/oktoberfest/345"
+	},
+	"elements": [
+		{
+			"from": [12, -16, 8],
+			"to": [32, 32, 8.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [21.5, 12, 16]},
+			"faces": {
+				"north": {"uv": [2.25, 8.125, 4.25, 15.875], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 9], "texture": "#0"},
+				"south": {"uv": [4.25, 8.125, 2.25, 15.875], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 9], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 9], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 9], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, -16, 8],
+			"to": [4, 32, 8.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 12, 16]},
+			"faces": {
+				"north": {"uv": [4.25, 8.125, 2.25, 15.875], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 9], "texture": "#0"},
+				"south": {"uv": [2.25, 8.125, 4.25, 15.875], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 9], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 9], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 9], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 0, 0],
+			"translation": [0, 1, 2.25],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 0, 0],
+			"translation": [0, 1, 2.25],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"translation": [4, 2.25, -1.25],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"firstperson_lefthand": {
+			"translation": [4, 2.25, -1.25],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"ground": {
+			"translation": [0, 12, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"gui": {
+			"rotation": [25, -180, 0],
+			"translation": [-0.5, -0.25, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"head": {
+			"translation": [0, 3.5, -1.75],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [0, -31.5, -0.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}

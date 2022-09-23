@@ -50,6 +50,16 @@
 		{ "predicate": { "custom_model_data": 45}, "model": "fraggle:furniture/misc_sort_later/large_speaker" },	
 				
 		{ "predicate": { "custom_model_data": 50}, "model": "fraggle:furniture/dye" },
+
+		{ "predicate": { "custom_model_data": 51}, "model": "fraggle:furniture/misc_sort_later/lamp_table_off" },
+		{ "predicate": { "custom_model_data": 52}, "model": "fraggle:furniture/misc_sort_later/lamp_table_on" },
+		{ "predicate": { "custom_model_data": 53}, "model": "fraggle:furniture/misc_sort_later/fan_off" },
+		{ "predicate": { "custom_model_data": 54}, "model": "fraggle:furniture/misc_sort_later/fan_on" },
+		{ "predicate": { "custom_model_data": 55}, "model": "fraggle:furniture/misc_sort_later/office_chair" },
+		{ "predicate": { "custom_model_data": 56}, "model": "fraggle:furniture/misc_sort_later/computer_off" },
+		{ "predicate": { "custom_model_data": 57}, "model": "fraggle:furniture/misc_sort_later/computer_on" },
+		{ "predicate": { "custom_model_data": 58}, "model": "fraggle:furniture/misc_sort_later/computer_table" },
+		{ "predicate": { "custom_model_data": 59}, "model": "fraggle:furniture/misc_sort_later/nightstand" },
 		
 		
 		{ "predicate": { "custom_model_data": 100}, "model": "fraggle:hats/crown/tint_crown" },
@@ -64,13 +74,34 @@
 		{ "predicate": { "custom_model_data": 305}, "model": "fraggle:trees/banana_tree_bunches_ac" },
 		{ "predicate": { "custom_model_data": 306}, "model": "fraggle:trees/banana_tree_bunches_bc" },
 		{ "predicate": { "custom_model_data": 307}, "model": "fraggle:trees/banana_tree_bunches_abc" },
+
+		{ "predicate": { "custom_model_data": 500}, "model": "fraggle:furniture/rustic/rustic_dinner_chair" },
+		{ "predicate": { "custom_model_data": 501}, "model": "fraggle:furniture/rustic/rustic_big_table_middle" },
+		{ "predicate": { "custom_model_data": 502}, "model": "fraggle:furniture/rustic/rustic_big_table_end" },
+		{ "predicate": { "custom_model_data": 503}, "model": "fraggle:furniture/rustic/rustic_kitchen_panel_apple" },
+		{ "predicate": { "custom_model_data": 504}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet" },
+		{ "predicate": { "custom_model_data": 505}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_door_left" },
+		{ "predicate": { "custom_model_data": 506}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_open_door_left" },
+		{ "predicate": { "custom_model_data": 507}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_door_right" },
+		{ "predicate": { "custom_model_data": 508}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_open_door_right" },
+		{ "predicate": { "custom_model_data": 509}, "model": "fraggle:furniture/rustic/rustic_kitchen_oven" },
+		{ "predicate": { "custom_model_data": 510}, "model": "fraggle:furniture/rustic/rustic_kitchen_pan" },
+		{ "predicate": { "custom_model_data": 511}, "model": "fraggle:furniture/rustic/rustic_kitchen_pan_closed" },
+		{ "predicate": { "custom_model_data": 512}, "model": "fraggle:furniture/rustic/rustic_kitchen_pan_full" },
+		{ "predicate": { "custom_model_data": 513}, "model": "fraggle:furniture/rustic/rustic_kitchen_keg" },
 			
 		{ "predicate": { "custom_model_data": 1000}, "model": "fraggle:food/furniture/drink_keg_closed" },
 		{ "predicate": { "custom_model_data": 1001}, "model": "fraggle:food/furniture/drink_keg_open" },
 
+		{ "predicate": { "custom_model_data": 1005}, "model": "fraggle:food/furniture/drink_keg_closed" },
+		{ "predicate": { "custom_model_data": 1006}, "model": "fraggle:food/furniture/drink_keg_open" },
+
+
 		{ "predicate": { "custom_model_data": 1200}, "model": "fraggle:furniture/events/oktoberfest/blue_banner_wall" },
 		{ "predicate": { "custom_model_data": 1202}, "model": "fraggle:furniture/events/oktoberfest/yellow_banner_wall" },
-
+		{ "predicate": { "custom_model_data": 1204}, "model": "fraggle:furniture/events/oktoberfest/curtain_closed" },
+		{ "predicate": { "custom_model_data": 1205}, "model": "fraggle:furniture/events/oktoberfest/curtain_open" },
+		
 
 		{ "predicate": { "custom_model_data": 4000}, "model": "fraggle:skills/woodcutting/trees/small_tree_test" },	
 		{ "predicate": { "custom_model_data": 4001}, "model": "fraggle:skills/woodcutting/trees/tree_stump" },
