@@ -8,7 +8,7 @@
 		{"predicate": {"custom_model_data":10}, "model": "fraggle:extra/fun/level_vial_empty"},
 		{"predicate": {"custom_model_data":11}, "model": "fraggle:extra/fun/level_vial_filled"},
 		{"predicate": {"custom_model_data":12}, "model": "minecraft:item/glass_bottle"},
-		{"predicate": {"custom_model_data":40}, "model": "fraggle:food/drinks/mug_with_liquid"},
+		{"predicate": {"custom_model_data":40}, "model": "fraggle:food/drinks/hammer_mug_empty"},
 		{"predicate": {"custom_model_data":41}, "model": "minecraft:item/glass_bottle"}
 	]
 }

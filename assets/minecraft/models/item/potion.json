@@ -6,7 +6,7 @@
     },
 	"overrides": [				
 		{ "predicate": {"custom_model_data": 0}, "model": "minecraft:item/potion" },
-		{ "predicate": { "custom_model_data": 40}, "model": "fraggle:food/drinks/mug_with_liquid" },
+		{ "predicate": { "custom_model_data": 40}, "model": "fraggle:food/drinks/hammer_mug_with_liquid" },
 		{ "predicate": { "custom_model_data": 41}, "model": "fraggle:food/drinks/mug_with_liquid_filling" },
 		{ "predicate": {"custom_model_data": 42}, "model": "minecraft:item/potion" }
 
