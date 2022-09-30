@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/netherite_shovel"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/netherite_shovel" },
+		{ "predicate": { "custom_model_data": 30}, "model": "fraggle:duckie_set/shovel" },
+		{ "predicate": { "custom_model_data": 31}, "model": "minecraft:item/netherite_shovel" }
+	]
+}
