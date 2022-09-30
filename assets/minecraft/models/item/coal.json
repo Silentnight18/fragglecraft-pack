@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/coal"
+    },	
+	"overrides": [	
+		{"predicate": {"custom_model_data":1966}, "model": "flamos_model/icon_blazing_leap"},
+		{"predicate": {"custom_model_data":1967}, "model": "flamos_model/icon_fire_immune"},
+		{"predicate": {"custom_model_data":1968}, "model": "flamos_model/icon_flame_slash"},
+		{"predicate": {"custom_model_data":1969}, "model": "flamos_model/icon_hellfire_slash"},
+		{"predicate": {"custom_model_data":1970}, "model": "flamos_model/icon_inferno_orbs"},
+		{"predicate": {"custom_model_data":1971}, "model": "flamos_model/icon_inferno_wheel"}
+	]
+}

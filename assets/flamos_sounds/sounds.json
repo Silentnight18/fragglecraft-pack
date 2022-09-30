@@ -1,0 +1,36 @@
+{
+  "samus.flamos_slash": {
+    "category": "master",
+    "sounds": [
+      "samus/flamos/flamos_slash_1",
+	  "samus/flamos/flamos_slash_2",
+	  "samus/flamos/flamos_slash"
+    ]
+  },
+  "samus.flamos_big_slash": {
+    "category": "master",
+    "sounds": [
+      "samus/flamos/flamos_big_slash_1",
+	  "samus/flamos/flamos_big_slash_2",
+	  "samus/flamos/flamos_big_slash"
+    ]
+  },
+  "samus.flamos_ult": {
+    "category": "master",
+    "sounds": [
+      "samus/flamos/flamos_ult"
+    ]
+  },
+  "samus.flamos_leap": {
+    "category": "master",
+    "sounds": [
+      "samus/flamos/flamos_leap"
+    ]
+  },
+  "samus.flamos_fire_orb": {
+    "category": "master",
+    "sounds": [
+      "samus/flamos/flamos_fire_orb"
+    ]
+  }
+}

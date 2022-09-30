@@ -61,7 +61,12 @@
 		{ "predicate": { "custom_model_data": 58}, "model": "fraggle:furniture/misc_sort_later/computer_table" },
 		{ "predicate": { "custom_model_data": 59}, "model": "fraggle:furniture/misc_sort_later/nightstand" },
 		
-		
+
+		{ "predicate": { "custom_model_data": 70}, "model": "fraggle:duckie_set/chest" },
+		{ "predicate": { "custom_model_data": 71}, "model": "fraggle:duckie_set/chest_opening" },
+		{ "predicate": { "custom_model_data": 72}, "model": "fraggle:duckie_set/frag" },
+		{ "predicate": { "custom_model_data": 73}, "model": "fraggle:duckie_set/littleduck" },
+
 		{ "predicate": { "custom_model_data": 100}, "model": "fraggle:hats/crown/tint_crown" },
 		
 		
@@ -78,17 +83,79 @@
 		{ "predicate": { "custom_model_data": 500}, "model": "fraggle:furniture/rustic/rustic_dinner_chair" },
 		{ "predicate": { "custom_model_data": 501}, "model": "fraggle:furniture/rustic/rustic_big_table_middle" },
 		{ "predicate": { "custom_model_data": 502}, "model": "fraggle:furniture/rustic/rustic_big_table_end" },
-		{ "predicate": { "custom_model_data": 503}, "model": "fraggle:furniture/rustic/rustic_kitchen_panel_apple" },
-		{ "predicate": { "custom_model_data": 504}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet" },
-		{ "predicate": { "custom_model_data": 505}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_door_left" },
-		{ "predicate": { "custom_model_data": 506}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_open_door_left" },
-		{ "predicate": { "custom_model_data": 507}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_door_right" },
-		{ "predicate": { "custom_model_data": 508}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_open_door_right" },
-		{ "predicate": { "custom_model_data": 509}, "model": "fraggle:furniture/rustic/rustic_kitchen_oven" },
-		{ "predicate": { "custom_model_data": 510}, "model": "fraggle:furniture/rustic/rustic_kitchen_pan" },
-		{ "predicate": { "custom_model_data": 511}, "model": "fraggle:furniture/rustic/rustic_kitchen_pan_closed" },
-		{ "predicate": { "custom_model_data": 512}, "model": "fraggle:furniture/rustic/rustic_kitchen_pan_full" },
-		{ "predicate": { "custom_model_data": 513}, "model": "fraggle:furniture/rustic/rustic_kitchen_keg" },
+		{ "predicate": { "custom_model_data": 503}, "model": "fraggle:furniture/rustic/rustic_stool" },
+
+		{ "predicate": { "custom_model_data": 504}, "model": "fraggle:furniture/rustic/rustic_kitchen_oven" },
+
+		{ "predicate": { "custom_model_data": 506}, "model": "fraggle:furniture/rustic/rustic_kitchen_pan" },
+		{ "predicate": { "custom_model_data": 507}, "model": "fraggle:furniture/rustic/rustic_kitchen_pan_closed" },
+		{ "predicate": { "custom_model_data": 508}, "model": "fraggle:furniture/rustic/rustic_kitchen_pan_full" },
+		{ "predicate": { "custom_model_data": 509}, "model": "fraggle:furniture/rustic/rustic_kitchen_pot" },
+		{ "predicate": { "custom_model_data": 510}, "model": "fraggle:furniture/rustic/rustic_kitchen_pot_closed" },
+		{ "predicate": { "custom_model_data": 511}, "model": "fraggle:furniture/rustic/rustic_kitchen_pot_full" },
+		{ "predicate": { "custom_model_data": 512}, "model": "fraggle:furniture/rustic/rustic_kitchen_pot_stacked" },
+		{ "predicate": { "custom_model_data": 513}, "model": "fraggle:furniture/rustic/rustic_kitchen_recipe_book" },
+	
+		{ "predicate": { "custom_model_data": 514}, "model": "fraggle:furniture/rustic/rustic_kitchen_keg" },
+
+		{ "predicate": { "custom_model_data": 515}, "model": "fraggle:furniture/rustic/rustic_kitchen_book_holder" },
+		{ "predicate": { "custom_model_data": 516}, "model": "fraggle:furniture/rustic/rustic_kitchen_book_holder_book" },
+
+		{ "predicate": { "custom_model_data": 517}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet" },
+		{ "predicate": { "custom_model_data": 518}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_door_left" },
+		{ "predicate": { "custom_model_data": 519}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_open_door_left" },
+		{ "predicate": { "custom_model_data": 520}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_door_right" },
+		{ "predicate": { "custom_model_data": 521}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_open_door_right" },
+		{ "predicate": { "custom_model_data": 522}, "model": "fraggle:furniture/rustic/rustic_kitchen_top_cabinet_shelf" },
+
+		{ "predicate": { "custom_model_data": 523}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_cabinet_left" },
+		{ "predicate": { "custom_model_data": 524}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_open_cabinet_left" },
+		{ "predicate": { "custom_model_data": 525}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_cabinet_right" },
+		{ "predicate": { "custom_model_data": 526}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_open_cabinet_right" },
+		{ "predicate": { "custom_model_data": 527}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_drawer" },
+		{ "predicate": { "custom_model_data": 528}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_open_bottom_drawer" },
+		{ "predicate": { "custom_model_data": 529}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_open_top_drawer" },
+		{ "predicate": { "custom_model_data": 530}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_middle" },
+		{ "predicate": { "custom_model_data": 531}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_middle_shelf" },
+		{ "predicate": { "custom_model_data": 532}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_turn" },
+		{ "predicate": { "custom_model_data": 533}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_turn_left" },
+		{ "predicate": { "custom_model_data": 534}, "model": "fraggle:furniture/rustic/rustic_kitchen_counter_turn_right" },
+		{ "predicate": { "custom_model_data": 535}, "model": "fraggle:furniture/rustic/rustic_kitchen_end_left" },
+		{ "predicate": { "custom_model_data": 536}, "model": "fraggle:furniture/rustic/rustic_kitchen_end_right" },
+		{ "predicate": { "custom_model_data": 537}, "model": "fraggle:furniture/rustic/rustic_kitchen_end_shelf_left" },
+		{ "predicate": { "custom_model_data": 538}, "model": "fraggle:furniture/rustic/rustic_kitchen_end_shelf_right" },
+
+		{ "predicate": { "custom_model_data": 539}, "model": "fraggle:furniture/rustic/rustic_shelf_end_left" },
+		{ "predicate": { "custom_model_data": 540}, "model": "fraggle:furniture/rustic/rustic_shelf_end_right" },
+		{ "predicate": { "custom_model_data": 541}, "model": "fraggle:furniture/rustic/rustic_shelf_middle" },
+		{ "predicate": { "custom_model_data": 542}, "model": "fraggle:furniture/rustic/rustic_shelf_turn_left" },
+		{ "predicate": { "custom_model_data": 543}, "model": "fraggle:furniture/rustic/rustic_shelf_turn_right" },
+
+		{ "predicate": { "custom_model_data": 544}, "model": "fraggle:furniture/rustic/rustic_kitchen_panel_apple" },
+		{ "predicate": { "custom_model_data": 545}, "model": "fraggle:furniture/rustic/rustic_kitchen_panel_beetroot" },
+		{ "predicate": { "custom_model_data": 546}, "model": "fraggle:furniture/rustic/rustic_kitchen_panel_carrot" },
+		{ "predicate": { "custom_model_data": 547}, "model": "fraggle:furniture/rustic/rustic_kitchen_panel_melon" },
+		{ "predicate": { "custom_model_data": 548}, "model": "fraggle:furniture/rustic/rustic_kitchen_panel_potato" },
+		{ "predicate": { "custom_model_data": 549}, "model": "fraggle:furniture/rustic/rustic_kitchen_panel_salmon" },
+		{ "predicate": { "custom_model_data": 550}, "model": "fraggle:furniture/rustic/rustic_kitchen_panel_wheat" },
+
+		{ "predicate": { "custom_model_data": 600}, "model": "fraggle:furniture/magic_store/magic_store_big_potion" },
+		{ "predicate": { "custom_model_data": 601}, "model": "fraggle:furniture/magic_store/magic_store_crystal_ball" },
+		{ "predicate": { "custom_model_data": 602}, "model": "fraggle:furniture/magic_store/magic_store_display_pillow" },
+		{ "predicate": { "custom_model_data": 603}, "model": "fraggle:furniture/magic_store/magic_store_wall_cloth" },
+		{ "predicate": { "custom_model_data": 604}, "model": "fraggle:furniture/magic_store/magic_store_wand_box" },
+		{ "predicate": { "custom_model_data": 605}, "model": "fraggle:furniture/magic_store/magic_store_wand_boxes" },
+		{ "predicate": { "custom_model_data": 606}, "model": "fraggle:furniture/magic_store/magic_store_wand_on_box" },
+		
+		{ "predicate": { "custom_model_data": 607}, "model": "fraggle:furniture/magic_store/magic_store_card" },
+		{ "predicate": { "custom_model_data": 608}, "model": "fraggle:furniture/magic_store/magic_store_cards" },
+		{ "predicate": { "custom_model_data": 609}, "model": "fraggle:furniture/magic_store/magic_store_card_tower" },
+		{ "predicate": { "custom_model_data": 610}, "model": "fraggle:furniture/magic_store/magic_store_cash_register" },
+		{ "predicate": { "custom_model_data": 611}, "model": "fraggle:furniture/magic_store/magic_store_hourglass" },
+		{ "predicate": { "custom_model_data": 612}, "model": "fraggle:furniture/magic_store/magic_store_potion_stand" },
+		{ "predicate": { "custom_model_data": 613}, "model": "fraggle:furniture/magic_store/magic_store_wand" },
+
+
 			
 		{ "predicate": { "custom_model_data": 1000}, "model": "fraggle:food/furniture/drink_keg_closed" },
 		{ "predicate": { "custom_model_data": 1001}, "model": "fraggle:food/furniture/drink_keg_open" },
