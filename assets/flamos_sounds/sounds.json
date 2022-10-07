@@ -1,4 +1,16 @@
 {
+  "fraggle.duckie_squeak": {
+    "category": "ambient",
+    "sounds": [
+      "fraggle/duckie/squeak1"
+    ]
+  },
+  "fraggle.duckie_squeak_rapid": {
+    "category": "ambient",
+    "sounds": [
+      "fraggle/duckie/squeak3"
+    ]
+  },
   "samus.flamos_slash": {
     "category": "master",
     "sounds": [
