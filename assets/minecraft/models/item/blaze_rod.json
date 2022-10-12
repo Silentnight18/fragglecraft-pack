@@ -4,7 +4,8 @@
         "layer0": "item/blaze_rod"
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 3}, "model": "minecraft:item/blaze_rod" },
+		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/blaze_rod" },
+		{ "predicate": { "custom_model_data": 3}, "model": "fraggle:extra/fun/spawner_key" },
 		{ "predicate": { "custom_model_data": 5}, "model": "fraggle:extra/fun/dragon_key" },
 		{ "predicate": { "custom_model_data": 6}, "model": "minecraft:item/blaze_rod" },
 
