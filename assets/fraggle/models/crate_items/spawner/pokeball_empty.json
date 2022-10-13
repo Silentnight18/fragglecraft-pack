@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:extra/fun/netherball_filled"
+    "layer0": "fraggle:crate_items/spawner/pokeball_empty"
   }
 }

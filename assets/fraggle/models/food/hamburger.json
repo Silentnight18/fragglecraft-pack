@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:extra/fun/dragon_key"
+    "layer0": "fraggle:food/hamburger"
   }
 }

@@ -5,7 +5,7 @@
     },
 	"overrides": [
         { "predicate": { "custom_model_data": 0}, "model": "minecraft:item/cooked_beef" },
-		{ "predicate": { "custom_model_data": 12}, "model": "fraggle:extra/fun/hamburger"},
+		{ "predicate": { "custom_model_data": 12}, "model": "fraggle:food/hamburger"},
         { "predicate": { "custom_model_data": 13}, "model": "minecraft:item/cooked_beef" }
 
 	]

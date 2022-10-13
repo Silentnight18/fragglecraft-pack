@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:feesh/goldfish"
+    "layer0": "outsourced:feesh/goldfish"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:extra/fun/pokeball_empty"
+    "layer0": "fraggle:crate_items/spawner/spawner_key"
   }
 }

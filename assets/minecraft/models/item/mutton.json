@@ -5,7 +5,7 @@
     },
 	"overrides": [
         { "predicate": { "custom_model_data": 0}, "model": "minecraft:item/mutton" },
-		{ "predicate": { "custom_model_data": 13}, "model": "fraggle:extra/fun/dragon_haunch"},
+		{ "predicate": { "custom_model_data": 13}, "model": "fraggle:food/dragon_haunch"},
         { "predicate": { "custom_model_data": 14}, "model": "minecraft:item/mutton" }
 
 	]

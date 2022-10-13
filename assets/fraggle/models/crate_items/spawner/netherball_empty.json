@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:extra/fun/level_vial_empty"
+    "layer0": "fraggle:crate_items/spawner/netherball_empty"
   }
 }

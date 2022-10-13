@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:extra/fun/tameball_empty"
+    "layer0": "fraggle:food/dragon_haunch_seared"
   }
 }

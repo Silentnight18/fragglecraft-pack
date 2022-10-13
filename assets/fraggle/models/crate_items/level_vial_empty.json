@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:extra/fun/spawner_key"
+    "layer0": "outsourced:crate_items/level_vial_empty"
   }
 }

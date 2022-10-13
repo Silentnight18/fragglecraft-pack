@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "fraggle:extra/fun/dragon_pickaxe"
+    "layer0": "outsourced:crate_items/dragon/dragon_pickaxe"
   }
 }

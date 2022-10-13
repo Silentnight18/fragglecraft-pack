@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:extra/fun/raw_dough"
+    "layer0": "fraggle:food/raw_dough"
   }
 }

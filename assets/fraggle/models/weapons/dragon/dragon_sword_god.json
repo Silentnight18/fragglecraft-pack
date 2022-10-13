@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "fraggle:extra/fun/dragon_sword_god"
+    "layer0": "outsourced:weapons/dragon/dragon_sword_god"
   },
 	"display": {
 		"thirdperson_righthand": {

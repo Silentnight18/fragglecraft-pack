@@ -6,8 +6,8 @@
 	"overrides": [		
 		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/redstone" },
 			
-		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:extra/fun/dragon_dust" },
-		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:extra/fun/kraken_dust"},
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:crate_items/dragon/dragon_dust" },
+		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:crate_items/kraken/kraken_dust"},
 		{ "predicate": { "custom_model_data": 21}, "model": "minecraft:item/redstone" },
 		{ "predicate": { "custom_model_data": 35}, "model": "fraggle:extra/fun/headache_pill"},
 		{ "predicate": { "custom_model_data": 36}, "model": "minecraft:item/redstone" }

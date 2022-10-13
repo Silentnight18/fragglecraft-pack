@@ -6,7 +6,7 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "fraggle:weapons/fire_swords/arcanite_reaper" },
 		{ "predicate": { "custom_model_data": 2}, "model": "fraggle:weapons/fire_swords/arcanite_reaper" },
-		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:extra/fun/dragon_pickaxe" },
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:crate_items/dragon/dragon_pickaxe" },
 		{ "predicate": { "custom_model_data": 11}, "model": "minecraft:item/netherite_pickaxe" },
 		
 		{ "predicate": { "custom_model_data": 20}, "model": "minecraft:item/netherite_pickaxe" },

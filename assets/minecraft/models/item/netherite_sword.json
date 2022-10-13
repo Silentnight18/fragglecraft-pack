@@ -13,13 +13,17 @@
 		{ "predicate": { "custom_model_data": 7}, "model": "fraggle:weapons/fire_swords/dagger_36" },
 		{ "predicate": { "custom_model_data": 8}, "model": "fraggle:weapons/fire_swords/dagger_39" },
 		{ "predicate": { "custom_model_data": 9}, "model": "fraggle:weapons/fire_swords/dagger_40" },
-		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:weapons/fire_swords/dragon_sword_basic" },
-		{ "predicate": { "custom_model_data": 11}, "model": "fraggle:weapons/fire_swords/dragon_sword_god" },
+		
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:weapons/dragon/dragon_sword_basic" },
+		{ "predicate": { "custom_model_data": 11}, "model": "fraggle:weapons/dragon/dragon_sword_god" },
+		
 		{ "predicate": { "custom_model_data": 12}, "model": "minecraft:item/netherite_sword" },
+		
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/sword" },
 		{ "predicate": { "custom_model_data": 31}, "model": "outsourced:duckie_set/spear" },
 		{ "predicate": { "custom_model_data": 32}, "model": "outsourced:duckie_set/staff" },
 		{ "predicate": { "custom_model_data": 33}, "model": "outsourced:duckie_set/hammer" },
+		
 		{"predicate": {"custom_model_data":1902}, "model": "flamos_model/flamos_scythe"},
 		{"predicate": {"custom_model_data":1903}, "model": "flamos_model/flamos_scythe_shiny"},
 		{ "predicate": { "custom_model_data": 1904}, "model": "minecraft:item/netherite_sword" }

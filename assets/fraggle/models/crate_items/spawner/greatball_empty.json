@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:extra/fun/dragon_goblet"
+    "layer0": "fraggle:crate_items/spawner/greatball_empty"
   }
 }

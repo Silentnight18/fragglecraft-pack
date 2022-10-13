@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fraggle:extra/fun/kraken_dust"
+    "layer0": "outsourced:crate_items/dragon/dragon_dust"
   }
 }
