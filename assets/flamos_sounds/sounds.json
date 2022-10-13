@@ -2,8 +2,9 @@
   "fraggle.duckie_squeak": {
     "category": "ambient",
     "sounds": [
-      "fraggle/duckie/squeak1"
-    ]
+      "outsourced:fraggle/duckie/squeak1"
+    ],
+	"subtitle": "subtitles.fraggle.duckie_sqeak"
   },
   "fraggle.duckie_squeak_two": {
     "category": "ambient",
@@ -14,41 +15,47 @@
   "fraggle.duckie_squeak_rapid": {
     "category": "ambient",
     "sounds": [
-      "fraggle/duckie/squeak3"
-    ]
+      "outsourced:fraggle/duckie/squeak3"
+    ],
+	"subtitle": "subtitles.fraggle.duckie_sqeak_rapid"
   },
   "samus.flamos_slash": {
     "category": "master",
     "sounds": [
-      "samus/flamos/flamos_slash_1",
-	  "samus/flamos/flamos_slash_2",
-	  "samus/flamos/flamos_slash"
-    ]
+      "outsourced:samus/flamos/flamos_slash_1",
+	  "outsourced:samus/flamos/flamos_slash_2",
+	  "outsourced:samus/flamos/flamos_slash"
+    ],
+	"subtitle": "subtitles.samus.flamos_slash"
   },
   "samus.flamos_big_slash": {
     "category": "master",
     "sounds": [
-      "samus/flamos/flamos_big_slash_1",
-	  "samus/flamos/flamos_big_slash_2",
-	  "samus/flamos/flamos_big_slash"
-    ]
+      "outsourced:samus/flamos/flamos_big_slash_1",
+	  "outsourced:samus/flamos/flamos_big_slash_2",
+	  "outsourced:samus/flamos/flamos_big_slash"
+    ],
+	"subtitle": "subtitles.samus.flamos_big_slash"
   },
   "samus.flamos_ult": {
     "category": "master",
     "sounds": [
-      "samus/flamos/flamos_ult"
-    ]
+      "outsourced:samus/flamos/flamos_ult"
+    ],
+	"subtitle": "subtitles.samus.flamos_ult"
   },
   "samus.flamos_leap": {
     "category": "master",
     "sounds": [
-      "samus/flamos/flamos_leap"
-    ]
+      "outsourced:samus/flamos/flamos_leap"
+    ],
+	"subtitle": "subtitles.samus.flamos_leap"
   },
   "samus.flamos_fire_orb": {
     "category": "master",
     "sounds": [
-      "samus/flamos/flamos_fire_orb"
-    ]
+      "outsourced:samus/flamos/flamos_fire_orb"
+    ],
+	"subtitle": "subtitles.samus.flamos_fire_orb"
   }
 }
