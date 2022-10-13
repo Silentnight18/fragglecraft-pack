@@ -5,7 +5,7 @@
     },
 	"overrides": [
         { "predicate": { "custom_model_data": 0}, "model": "minecraft:item/cooked_cod" },
-        { "predicate": { "custom_model_data": 12}, "model": "fraggle:extra/fun/catfish_cooked"},
+        { "predicate": { "custom_model_data": 12}, "model": "fraggle:feesh/catfish_cooked"},
         { "predicate": { "custom_model_data": 13}, "model": "minecraft:item/cooked_cod" }
 
 	]

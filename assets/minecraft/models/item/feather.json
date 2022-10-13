@@ -16,6 +16,7 @@
 		{"predicate": {"custom_model_data":108}, "model": "fraggle:duckie_set/spear"},
 		{"predicate": {"custom_model_data":109}, "model": "fraggle:duckie_set/staff"},
 		{"predicate": {"custom_model_data":110}, "model": "fraggle:duckie_set/sword"},
-		{"predicate": {"custom_model_data":111}, "model": "minecraft:item/feather"}
+		{"predicate": {"custom_model_data":111}, "model": "fraggle:duckie_set/shield"},
+		{"predicate": {"custom_model_data":112}, "model": "minecraft:item/feather"}
 	]
 }

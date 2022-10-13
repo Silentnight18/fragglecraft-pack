@@ -5,10 +5,16 @@
     },
 	"overrides": [
         { "predicate": { "custom_model_data": 0}, "model": "minecraft:item/cod" },
-		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:extra/fun/sardine"},
-        { "predicate": { "custom_model_data": 11}, "model": "fraggle:extra/fun/catfish_raw"},
-        { "predicate": { "custom_model_data": 12}, "model": "fraggle:extra/fun/catfish_cooked"},
-        { "predicate": { "custom_model_data": 13}, "model": "minecraft:item/cod" }
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:feesh/sardine"},
+        { "predicate": { "custom_model_data": 11}, "model": "fraggle:feesh/catfish_raw"},
+        { "predicate": { "custom_model_data": 12}, "model": "fraggle:feesh/anchovy"},
+        { "predicate": { "custom_model_data": 13}, "model": "fraggle:feesh/ender_trout"},
+        { "predicate": { "custom_model_data": 14}, "model": "fraggle:feesh/tilapia_raw"},
+        { "predicate": { "custom_model_data": 15}, "model": "fraggle:feesh/goldfish"},
+        { "predicate": { "custom_model_data": 16}, "model": "fraggle:feesh/tuna_raw"},
+
+
+        { "predicate": { "custom_model_data": 17}, "model": "minecraft:item/cod" }
 
 	]
 }
