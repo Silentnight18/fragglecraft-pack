@@ -1,3 +1,11 @@
 {
-  "subtitles.samus.flamos_slash": "Tool Slashes"
+  "subtitles.fraggle.duckie_sqeak": "Rubber Duckie Squeaks",  
+  "subtitles.fraggle.duckie_sqeak2": "Rubber Duckie Squeaks Twice",
+  "subtitles.fraggle.duckie_sqeak_rapid": "\u00a7eRubber Duckie Squeaks Aggresively",
+  
+  "subtitles.samus.flamos_slash": "Tool Slashes",
+  "subtitles.samus.flamos_big_slash": "Tool Slashes Harder",
+  "subtitles.samus.flamos_ult": "Magic Ult",
+  "subtitles.samus.flamos_leap"  : "Magic Leap",
+  "subtitles.samus.flamos_fire_orb": "Fire Orb"
 }

@@ -1,0 +1,40 @@
+{
+	"credit": "Made by Larkyy",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "outsourced:hats/mafia_hat",
+		"particle": "outsourced:hats/mafia_hat"
+	},
+	"elements": [
+		{
+			"from": [2, -0.25, 2],
+			"to": [14, 1, 14],
+			"faces": {
+				"north": {"uv": [10, 9, 16, 9.5], "texture": "#0"},
+				"east": {"uv": [10, 9, 16, 9.5], "texture": "#0"},
+				"south": {"uv": [10, 9, 16, 9.5], "texture": "#0"},
+				"west": {"uv": [10, 9, 16, 9.5], "texture": "#0"},
+				"up": {"uv": [6, 6, 0, 0], "texture": "#0"},
+				"down": {"uv": [6, 6, 0, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 1, 4],
+			"to": [12, 6, 12],
+			"faces": {
+				"north": {"uv": [10, 5, 14, 7.5], "texture": "#0"},
+				"east": {"uv": [10, 5, 14, 7.5], "texture": "#0"},
+				"south": {"uv": [10, 5, 14, 7.5], "texture": "#0"},
+				"west": {"uv": [10, 5, 14, 7.5], "texture": "#0"},
+				"up": {"uv": [10, 4, 6, 0], "texture": "#0"},
+				"down": {"uv": [10, 4, 6, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 16.5, 0],
+			"scale": [1.31, 1.31, 1.31]
+		}
+	}
+}

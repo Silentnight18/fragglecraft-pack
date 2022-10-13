@@ -9,8 +9,9 @@
   "fraggle.duckie_squeak_two": {
     "category": "ambient",
     "sounds": [
-      "fraggle/duckie/squeak2"
-    ]
+      "outsourced:fraggle/duckie/squeak2"
+    ],
+	"subtitle": "subtitles.fraggle.duckie_sqeak2"
   },
   "fraggle.duckie_squeak_rapid": {
     "category": "ambient",

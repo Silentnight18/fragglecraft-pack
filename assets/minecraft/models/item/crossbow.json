@@ -33,12 +33,12 @@
         { "predicate": { "charged": 1  }, "model": "item/crossbow_arrow" },
         { "predicate": { "charged": 1, "firework": 1 }, "model": "item/crossbow_firework" },
 		
-		{ "predicate": { "custom_model_data": 30}, "model": "fraggle:duckie_set/crossbow" },
-        { "predicate": {"pulling":1, "custom_model_data": 30}, "model": "fraggle:duckie_set/crossbow_0" },
-        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 30}, "model": "fraggle:duckie_set/crossbow_1" },
-        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 30}, "model": "fraggle:duckie_set/crossbow_2" },
-        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 30}, "model": "fraggle:duckie_set/crossbow_2" },
-        { "predicate": {"charged":1, "custom_model_data": 30}, "model": "fraggle:duckie_set/crossbow_charged" },
+		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/crossbow" },
+        { "predicate": {"pulling":1, "custom_model_data": 30}, "model": "outsourced:duckie_set/crossbow_0" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 30}, "model": "outsourced:duckie_set/crossbow_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 30}, "model": "outsourced:duckie_set/crossbow_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 30}, "model": "outsourced:duckie_set/crossbow_2" },
+        { "predicate": {"charged":1, "custom_model_data": 30}, "model": "outsourced:duckie_set/crossbow_charged" },
 		
         { "predicate": { "custom_model_data": 31}, "model": "minecraft:item/crossbow" }
 	]

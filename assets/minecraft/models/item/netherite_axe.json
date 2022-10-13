@@ -17,6 +17,6 @@
 
 		
 		{ "predicate": { "custom_model_data": 20}, "model": "minecraft:item/netherite_axe" },
-		{ "predicate": { "custom_model_data": 30}, "model": "fraggle:duckie_set/axe" }
+		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/axe" }
 	]
 }
