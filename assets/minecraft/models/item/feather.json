@@ -17,6 +17,19 @@
 		{"predicate": {"custom_model_data":109}, "model": "outsourced:duckie_set/staff"},
 		{"predicate": {"custom_model_data":110}, "model": "outsourced:duckie_set/sword"},
 		{"predicate": {"custom_model_data":111}, "model": "outsourced:duckie_set/shield"},
-		{"predicate": {"custom_model_data":112}, "model": "minecraft:item/feather"}
+		
+		{"predicate": {"custom_model_data":112}, "model": "outsourced:froggie_set/pickaxe"},
+		{"predicate": {"custom_model_data":113}, "model": "outsourced:froggie_set/axe"},
+		{"predicate": {"custom_model_data":114}, "model": "outsourced:froggie_set/bow1"},
+		{"predicate": {"custom_model_data":115}, "model": "outsourced:froggie_set/crossbow1"},
+		{"predicate": {"custom_model_data":116}, "model": "outsourced:froggie_set/fishing1"},
+		{"predicate": {"custom_model_data":117}, "model": "outsourced:froggie_set/hoe"},
+		{"predicate": {"custom_model_data":118}, "model": "outsourced:froggie_set/hammer"},
+		{"predicate": {"custom_model_data":119}, "model": "outsourced:froggie_set/shovel"},
+		{"predicate": {"custom_model_data":120}, "model": "outsourced:froggie_set/spear"},
+		{"predicate": {"custom_model_data":121}, "model": "outsourced:froggie_set/staff"},
+		{"predicate": {"custom_model_data":122}, "model": "outsourced:froggie_set/sword"},
+		{"predicate": {"custom_model_data":123}, "model": "outsourced:froggie_set/shield1"},
+		{"predicate": {"custom_model_data":124}, "model": "minecraft:item/feather"}
 	]
 }

@@ -49,7 +49,10 @@
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 30}, "model": "outsourced:duckie_set/shield_blocking" },
 
-        { "predicate": { "custom_model_data": 31}, "model": "minecraft:item/shield" },
-		{ "predicate": { "blocking": 1, "custom_model_data": 31}, "model": "minecraft:item/shield_blocking" }
+        { "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/shield1" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 40}, "model": "outsourced:froggie_set/shield2" },
+
+        { "predicate": { "custom_model_data": 41}, "model": "minecraft:item/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 41}, "model": "minecraft:item/shield_blocking" }
     ]
 }
