@@ -67,6 +67,9 @@
 		{ "predicate": { "custom_model_data": 72}, "model": "outsourced:duckie_set/frag" },
 		{ "predicate": { "custom_model_data": 73}, "model": "outsourced:duckie_set/littleduck" },
 
+		{ "predicate": { "custom_model_data": 75}, "model": "outsourced:froggie_set/chest" },
+		{ "predicate": { "custom_model_data": 76}, "model": "outsourced:froggie_set/chestopen" },
+
 		{ "predicate": { "custom_model_data": 100}, "model": "outsourced:hats/crown/tint_crown" },
 		
 		

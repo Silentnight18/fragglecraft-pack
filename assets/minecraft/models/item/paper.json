@@ -11,6 +11,10 @@
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/backpack" },
 		{ "predicate": { "custom_model_data": 31}, "model": "outsourced:duckie_set/hood" },
 		{ "predicate": { "custom_model_data": 32}, "model": "minecraft:item/paper" },
+
+		{ "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/backpack" },
+		{ "predicate": { "custom_model_data": 41}, "model": "outsourced:froggie_set/hat" },
+		{ "predicate": { "custom_model_data": 42}, "model": "minecraft:item/paper" },
 		
 		{ "predicate": { "custom_model_data": 100 }, "model": "outsourced:hats/crown/iron_crown" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "outsourced:hats/crown/gold_crown" },
