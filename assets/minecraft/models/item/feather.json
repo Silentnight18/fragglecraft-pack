@@ -30,6 +30,32 @@
 		{"predicate": {"custom_model_data":121}, "model": "outsourced:froggie_set/staff"},
 		{"predicate": {"custom_model_data":122}, "model": "outsourced:froggie_set/sword"},
 		{"predicate": {"custom_model_data":123}, "model": "outsourced:froggie_set/shield1"},
-		{"predicate": {"custom_model_data":124}, "model": "minecraft:item/feather"}
+
+		{"predicate": {"custom_model_data":124}, "model": "outsourced:halloween/base_set/pickaxe"},
+		{"predicate": {"custom_model_data":125}, "model": "outsourced:halloween/base_set/axe"},
+		{"predicate": {"custom_model_data":126}, "model": "outsourced:halloween/base_set/bow"},
+		{"predicate": {"custom_model_data":127}, "model": "outsourced:halloween/base_set/crossbow"},
+		{"predicate": {"custom_model_data":128}, "model": "outsourced:halloween/base_set/fishing"},
+		{"predicate": {"custom_model_data":129}, "model": "outsourced:halloween/base_set/hoe"},
+		{"predicate": {"custom_model_data":130}, "model": "outsourced:halloween/base_set/hammer"},
+		{"predicate": {"custom_model_data":131}, "model": "outsourced:halloween/base_set/shovel"},
+		{"predicate": {"custom_model_data":132}, "model": "outsourced:halloween/base_set/spear"},
+		{"predicate": {"custom_model_data":133}, "model": "outsourced:halloween/base_set/staff"},
+		{"predicate": {"custom_model_data":134}, "model": "outsourced:halloween/base_set/sword"},
+		{"predicate": {"custom_model_data":135}, "model": "outsourced:halloween/base_set/shield"},
+
+		{"predicate": {"custom_model_data":136}, "model": "outsourced:halloween/bat_set/bat_pickaxe"},
+		{"predicate": {"custom_model_data":137}, "model": "outsourced:halloween/bat_set/bat_axe"},
+		{"predicate": {"custom_model_data":138}, "model": "outsourced:halloween/bat_set/bat_bow_1"},
+		{"predicate": {"custom_model_data":139}, "model": "outsourced:halloween/bat_set/bat_crossbow_1"},
+		{"predicate": {"custom_model_data":140}, "model": "outsourced:halloween/bat_set/bat_rod"},
+		{"predicate": {"custom_model_data":141}, "model": "outsourced:halloween/bat_set/bat_hoe"},
+		{"predicate": {"custom_model_data":142}, "model": "outsourced:halloween/bat_set/bat_shovel"},
+		{"predicate": {"custom_model_data":143}, "model": "outsourced:halloween/bat_set/bat_sword"},
+		{"predicate": {"custom_model_data":144}, "model": "outsourced:halloween/bat_set/bat_shield"},
+
+
+
+		{"predicate": {"custom_model_data":145}, "model": "minecraft:item/feather"}
 	]
 }

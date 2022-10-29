@@ -7,6 +7,8 @@
 		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/netherite_hoe" },
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/hoe" },
 		{ "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/hoe" },
-		{ "predicate": { "custom_model_data": 41}, "model": "minecraft:item/netherite_hoe" }
+		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/hoe" },
+		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_hoe" },
+		{ "predicate": { "custom_model_data": 52}, "model": "minecraft:item/netherite_hoe" }
 	]
 }

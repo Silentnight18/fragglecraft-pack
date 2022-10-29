@@ -49,7 +49,23 @@
         { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 40}, "model": "outsourced:froggie_set/crossbow4" },
         { "predicate": {"charged":1, "custom_model_data": 40}, "model": "outsourced:froggie_set/crossbow4" },
 
-        { "predicate": { "custom_model_data": 41}, "model": "minecraft:item/crossbow" }
+        { "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/crossbow" },
+        { "predicate": {"pulling":1, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/crossbow_0" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/crossbow_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/crossbow_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/crossbow_2" },
+        { "predicate": {"charged":1, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/crossbow_charged" },
+
+        { "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_crossbow_1" },
+        { "predicate": {"pulling":1, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_crossbow_pulling_1" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_crossbow_pulling_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_crossbow_pulling_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_crossbow_pulling_2" },
+        { "predicate": {"charged":1, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_crossbow_arrow" },
+        { "predicate": { "charged": 1, "firework": 1, "custom_model_data": 51 }, "model": "outsourced:halloween/bat_set/bat_crossbow_firework" },
+
+
+        { "predicate": { "custom_model_data": 61}, "model": "minecraft:item/crossbow" }
 	]
     
 }

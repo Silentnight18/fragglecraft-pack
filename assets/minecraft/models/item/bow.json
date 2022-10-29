@@ -27,6 +27,10 @@
     },
 	"overrides": [
 		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 0}, "model": "minecraft:item/bow_pulling_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 0}, "model": "minecraft:item/bow_pulling_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 0}, "model": "minecraft:item/bow_pulling_2" },
+
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/bow" },
         { "predicate": {"pulling":1, "custom_model_data": 30}, "model": "outsourced:duckie_set/bow_0" },
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 30}, "model": "outsourced:duckie_set/bow_1" },
@@ -35,6 +39,17 @@
         { "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/bow1" },
         { "predicate": {"pulling":1, "custom_model_data": 40}, "model": "outsourced:froggie_set/bow2" },
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 40}, "model": "outsourced:froggie_set/bow3" },
-        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 40}, "model": "outsourced:froggie_set/bow4" }
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 40}, "model": "outsourced:froggie_set/bow4" },
+
+        { "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/bow_2" },
+
+        { "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_bow_1" },
+        { "predicate": {"pulling":1, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_bow_pulling_1" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_bow_pulling_2" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_bow_pulling_3" }
+
 	]
 }
