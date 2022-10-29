@@ -1,0 +1,122 @@
+{
+   "littleroom.frankenstein.death":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/frankenstein/death"
+		 ]
+	},
+   "littleroom.frankenstein.clapswing":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/frankenstein/clapswing"
+		 ]
+	},
+   "littleroom.frankenstein.groan":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/frankenstein/groan"
+		 ]
+	},
+   "littleroom.frankenstein.limb_removal":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/frankenstein/limb_removal"
+		 ]
+	},
+   "littleroom.frankenstein.pain":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/frankenstein/pain"
+		 ]
+	},
+   "littleroom.frankenstein.punchswing":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/frankenstein/punchswing"
+		 ]
+	},
+   "littleroom.pumpkin.bite":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/pumpkin/bite"
+		 ]
+	},
+   "littleroom.pumpkin.death":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/pumpkin/death"
+		 ]
+	},
+   "littleroom.pumpkin.idle1":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/pumpkin/idle1"
+		 ]
+	},
+   "littleroom.pumpkin.idle2":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/pumpkin/idle2"
+		 ]
+	},
+   "littleroom.pumpkin.idle3":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/pumpkin/idle3"
+		 ]
+	},
+   "littleroom.pumpkin.swing":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/pumpkin/swing"
+		 ]
+	},
+   "littleroom.pumpkin.vines":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/pumpkin/vines"
+		 ]
+	},
+   "littleroom.scarecrow.murder":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/scarecrow/murder"
+		 ]
+	},
+   "littleroom.scarecrow.slash":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/scarecrow/slash"
+		 ]
+	},
+   "littleroom.witch.idle1":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/witch/idle1"
+		 ]
+	},
+   "littleroom.witch.idle2":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/witch/idle2"
+		 ]
+	},
+   "littleroom.witch.magichit":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/witch/magichit"
+		 ]
+	},
+   "littleroom.witch.magicshoot":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/witch/magicshoot"
+		 ]
+	},
+   "littleroom.halloweenpack2.poof":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/poof"
+		 ]
+	},
+   "littleroom.spectre.spotted":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/spectre/spotted"
+		 ]
+	},
+   "littleroom.spectre.death":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/spectre/death"
+		 ]
+	},
+   "littleroom.haunted_armor.scare":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/haunted_armor/scare"
+		 ]
+	},
+   "littleroom.candy_cauldron.take":{
+		 "sounds": [
+			"outsourced:littleroom/halloweenpack2/candy_cauldron/take"
+		 ]
+	}
+}
