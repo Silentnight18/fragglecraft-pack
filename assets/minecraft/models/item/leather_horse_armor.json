@@ -76,6 +76,13 @@
 		{ "predicate": { "custom_model_data": 83}, "model": "outsourced:halloween/base_set/bollloon" },
 		{ "predicate": { "custom_model_data": 84}, "model": "outsourced:halloween/base_set/hat" },
 
+		{ "predicate": { "custom_model_data": 85}, "model": "outsourced:halloween/saw_set/helmet" },
+		{ "predicate": { "custom_model_data": 86}, "model": "outsourced:halloween/saw_set/pumpkinsaw" },
+		{ "predicate": { "custom_model_data": 87}, "model": "outsourced:halloween/saw_set/pumpkinsawhat" },
+		{ "predicate": { "custom_model_data": 88}, "model": "outsourced:halloween/saw_set/scarecrow" },
+		{ "predicate": { "custom_model_data": 89}, "model": "outsourced:halloween/floating_spellbook" },
+
+
 		{ "predicate": { "custom_model_data": 100}, "model": "outsourced:hats/crown/tint_crown" },
 		
 		

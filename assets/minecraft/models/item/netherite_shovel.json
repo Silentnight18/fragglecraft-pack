@@ -9,6 +9,7 @@
 		{ "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/shovel" },
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/shovel" },
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_shovel" },
-		{ "predicate": { "custom_model_data": 52}, "model": "minecraft:item/netherite_shovel" }
+		{ "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/shovel" },
+		{ "predicate": { "custom_model_data": 53}, "model": "minecraft:item/netherite_shovel" }
 	]
 }

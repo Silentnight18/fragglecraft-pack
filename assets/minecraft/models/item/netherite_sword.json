@@ -31,10 +31,12 @@
 
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/sword" },
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_sword" },
-		
 		{ "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/base_set/hammer" },
 		{ "predicate": { "custom_model_data": 53}, "model": "outsourced:halloween/base_set/spear" },
 		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:halloween/base_set/staff" },
+		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:halloween/saw_set/sword" },
+		{ "predicate": { "custom_model_data": 56}, "model": "outsourced:halloween/saw_set/hammer" },
+		{ "predicate": { "custom_model_data": 57}, "model": "outsourced:halloween/saw_set/chainsaw" },
 
 		{"predicate": {"custom_model_data":600}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 		
