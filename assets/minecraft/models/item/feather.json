@@ -54,8 +54,21 @@
 		{"predicate": {"custom_model_data":143}, "model": "outsourced:halloween/bat_set/bat_sword"},
 		{"predicate": {"custom_model_data":144}, "model": "outsourced:halloween/bat_set/bat_shield"},
 
+		
+		{"predicate": {"custom_model_data":145}, "model": "outsourced:halloween/saw_set/chainsaw"},
+		{"predicate": {"custom_model_data":146}, "model": "outsourced:halloween/saw_set/hammer"},
+		{"predicate": {"custom_model_data":147}, "model": "outsourced:halloween/saw_set/pickaxe"},
+		{"predicate": {"custom_model_data":148}, "model": "outsourced:halloween/saw_set/axe"},
+		{"predicate": {"custom_model_data":149}, "model": "outsourced:halloween/saw_set/bow"},
+		{"predicate": {"custom_model_data":150}, "model": "outsourced:halloween/saw_set/fishing_rod"},
+		{"predicate": {"custom_model_data":151}, "model": "outsourced:halloween/saw_set/hoe"},
+		{"predicate": {"custom_model_data":152}, "model": "outsourced:halloween/saw_set/shovel"},
+		{"predicate": {"custom_model_data":153}, "model": "outsourced:halloween/saw_set/sword"},
+		{"predicate": {"custom_model_data":154}, "model": "outsourced:halloween/saw_set/shield"},
+		{"predicate": {"custom_model_data":155}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 
 
-		{"predicate": {"custom_model_data":145}, "model": "minecraft:item/feather"}
+
+		{"predicate": {"custom_model_data":156}, "model": "minecraft:item/feather"}
 	]
 }

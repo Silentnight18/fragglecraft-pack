@@ -49,7 +49,17 @@
         { "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_bow_1" },
         { "predicate": {"pulling":1, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_bow_pulling_1" },
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_bow_pulling_2" },
-        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_bow_pulling_3" }
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_bow_pulling_3" },
+
+        { "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/bow_2" },
+
+        { "predicate": { "custom_model_data": 53}, "model": "minecraft:item/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 53}, "model": "minecraft:item/bow_pulling_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 53}, "model": "minecraft:item/bow_pulling_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 53}, "model": "minecraft:item/bow_pulling_2" }
 
 	]
 }
