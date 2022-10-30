@@ -201,12 +201,13 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
-			"translation": [0, -31.25, -1.75],
-			"scale": [1.49, 1.49, 1.49]
+			"translation": [0, 4, -1.75],
+			"scale": [1.7, 1.7, 1.7]
 		},
 		"fixed": {
-			"rotation": [2.08, -43.45, 1.41],
-			"translation": [-0.25, 2.75, 0]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -12.25],
+			"scale": [2, 2, 2]
 		}
 	}
 }

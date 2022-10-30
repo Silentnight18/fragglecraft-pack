@@ -161,8 +161,9 @@
 			"scale": [1.7, 1.7, 1.7]
 		},
 		"fixed": {
-			"rotation": [0, -45.25, 0],
-			"translation": [0, 1.25, -0.25]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -12.25],
+			"scale": [2, 2, 2]
 		}
 	}
 }
