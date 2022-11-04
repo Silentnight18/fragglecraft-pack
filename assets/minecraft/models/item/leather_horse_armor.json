@@ -248,7 +248,59 @@
 		{"predicate": {"custom_model_data":684}, "model": "outsourced:halloween/haunted_house/covered_couch"},
 		{"predicate": {"custom_model_data":685}, "model": "outsourced:halloween/haunted_house/covered_side_table"},
 
-			
+		{"predicate": {"custom_model_data":686}, "model": "outsourced:halloween/sculk/sculk_big_table"},
+		{"predicate": {"custom_model_data":687}, "model": "outsourced:halloween/sculk/sculk_chair"},
+		{"predicate": {"custom_model_data":688}, "model": "outsourced:halloween/sculk/sculk_deco"},
+		{"predicate": {"custom_model_data":689}, "model": "outsourced:halloween/sculk/sculk_deco_2"},
+
+		{"predicate": {"custom_model_data":691}, "model": "outsourced:halloween/sculk/sculk_shelf"},
+		{"predicate": {"custom_model_data":692}, "model": "outsourced:halloween/sculk/sculk_stool"},
+		{"predicate": {"custom_model_data":693}, "model": "outsourced:halloween/sculk/sculk_table"},
+		{"predicate": {"custom_model_data":694}, "model": "outsourced:halloween/sculk/sculk_vase"},
+		{"predicate": {"custom_model_data":695}, "model": "outsourced:halloween/sculk/sculk_vase_2"},
+
+		{"predicate": {"custom_model_data":696}, "model": "outsourced:halloween/goth/goth_bed"},
+		{"predicate": {"custom_model_data":697}, "model": "outsourced:halloween/goth/goth_fancy_bed"},
+		{"predicate": {"custom_model_data":698}, "model": "outsourced:halloween/goth/goth_armchair"},
+		{"predicate": {"custom_model_data":699}, "model": "outsourced:halloween/goth/goth_chair"},
+		{"predicate": {"custom_model_data":700}, "model": "outsourced:halloween/goth/goth_stool"},
+		{"predicate": {"custom_model_data":701}, "model": "outsourced:halloween/goth/goth_couch"},
+		{"predicate": {"custom_model_data":702}, "model": "outsourced:halloween/goth/goth_curtains"},
+		{"predicate": {"custom_model_data":703}, "model": "outsourced:halloween/goth/goth_dressing_table"},
+
+		{"predicate": {"custom_model_data":705}, "model": "outsourced:halloween/goth/goth_crate"},
+		{"predicate": {"custom_model_data":706}, "model": "outsourced:halloween/goth/goth_desk"},
+		{"predicate": {"custom_model_data":707}, "model": "outsourced:halloween/goth/goth_dinner_table"},
+
+		{"predicate": {"custom_model_data":709}, "model": "outsourced:halloween/goth/goth_painting"},
+		{"predicate": {"custom_model_data":710}, "model": "outsourced:halloween/goth/goth_painting_2"},
+		{"predicate": {"custom_model_data":711}, "model": "outsourced:halloween/goth/goth_painting_3"},
+		{"predicate": {"custom_model_data":712}, "model": "outsourced:halloween/goth/goth_poster"},
+		{"predicate": {"custom_model_data":713}, "model": "outsourced:halloween/goth/goth_poster_2"},
+		{"predicate": {"custom_model_data":714}, "model": "outsourced:halloween/goth/goth_shelf"},
+		{"predicate": {"custom_model_data":715}, "model": "outsourced:halloween/goth/goth_side_table"},
+		{"predicate": {"custom_model_data":716}, "model": "outsourced:halloween/goth/goth_table"},
+
+		{"predicate": {"custom_model_data":719}, "model": "outsourced:halloween/goth/goth_wardrobe"},
+
+		{"predicate": {"custom_model_data":722}, "model": "outsourced:halloween/goth/gargoyle"},
+		{"predicate": {"custom_model_data":723}, "model": "outsourced:halloween/goth/goth_bookshelf"},
+		{"predicate": {"custom_model_data":724}, "model": "outsourced:halloween/goth/goth_bookshelf_filled"},
+		{"predicate": {"custom_model_data":725}, "model": "outsourced:halloween/goth/goth_mirror"},
+		{"predicate": {"custom_model_data":726}, "model": "outsourced:halloween/goth/goth_painting_4"},
+		{"predicate": {"custom_model_data":727}, "model": "outsourced:halloween/goth/goth_painting_5"},
+
+		{"predicate": {"custom_model_data":728}, "model": "outsourced:halloween/goth/goth_statue"},
+		{"predicate": {"custom_model_data":729}, "model": "outsourced:halloween/goth/goth_statue_holding"},
+
+		{"predicate": {"custom_model_data":730}, "model": "outsourced:halloween/goth/goth_chandelier"},
+		{"predicate": {"custom_model_data":732}, "model": "outsourced:halloween/goth/goth_lamp"},
+		{"predicate": {"custom_model_data":734}, "model": "outsourced:halloween/goth/goth_table_torch"},
+		{"predicate": {"custom_model_data":736}, "model": "outsourced:halloween/goth/goth_torch"},
+		{"predicate": {"custom_model_data":738}, "model": "outsourced:halloween/goth/brazier"},
+		{"predicate": {"custom_model_data":740}, "model": "outsourced:halloween/goth/ceiling_brazier"},
+		{"predicate": {"custom_model_data":742}, "model": "outsourced:halloween/sculk/sculk_lamp"},
+
 		{ "predicate": { "custom_model_data": 1000}, "model": "fraggle:food/furniture/drink_keg_closed" },
 		{ "predicate": { "custom_model_data": 1001}, "model": "fraggle:food/furniture/drink_keg_open" },
 
