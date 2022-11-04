@@ -64,62 +64,72 @@
     "sounds": [
       "outsourced:samus/scorpion/scorpion_attack1",
 	  "outsourced:samus/scorpion/scorpion_attack2"
-    ]
+    ],
+	"subtitle": "subtitles.samus.scorpion_attack"
   },
   "samus.emerge_from_ground": {
     "category": "master",
     "sounds": [
       "outsourced:samus/scorpion/emerge_from_ground"
-    ]
+    ],
+	"subtitle": "subtitles.samus.emerge_from_ground"
   },
   "samus.jump_into_ground": {
     "category": "master",
     "sounds": [
       "outsourced:samus/scorpion/jump_into_ground"
-    ]
+    ],
+	"subtitle": "subtitles.samus.jump_into_ground"
   },
   "samus.scorpion_eat": {
     "category": "master",
     "sounds": [
       "outsourced:samus/scorpion/scorpion_eat1",
 	  "outsourced:samus/scorpion/scorpion_eat2"
-    ]
+    ],
+	"subtitle": "subtitles.samus.scorpion_eat"
   },
   "samus.scorpion_idle": {
     "category": "master",
     "sounds": [
       "outsourced:samus/scorpion/scorpion_idle1",
 	  "outsourced:samus/scorpion/scorpion_idle2"
-    ]
+    ],
+	"subtitle": "subtitles.samus.scorpion_idle"
   },
   "samus.scorpion_poison": {
     "category": "master",
     "sounds": [
       "outsourced:samus/scorpion/scorpion_poison"
-    ]
+    ],
+	"subtitle": "subtitles.samus.scorpion_poison"
   },
   "samus.scorpion_punch": {
     "category": "master",
     "sounds": [
       "outsourced:samus/scorpion/scorpion_punch"
-    ]
+    ],
+	"subtitle": "subtitles.samus.scorpion_punch"
   },
   "samus.scorpion_sting": {
     "category": "master",
     "sounds": [
       "outsourced:samus/scorpion/scorpion_sting"
-    ]
+    ],
+	"subtitle": "subtitles.samus.scorpion_sting"
   },
   "samus.scorpion_throw": {
     "category": "master",
     "sounds": [
       "outsourced:samus/scorpion/scorpion_throw"
-    ]
+    ],
+	"subtitle": "subtitles.samus.scorpion_throw"
   },
   "samus.spit_venom": {
     "category": "master",
     "sounds": [
       "outsourced:samus/scorpion/spit_venom"
-    ]
+    ],
+	"subtitle": "subtitles.samus.spit_venom"
   }
 }
