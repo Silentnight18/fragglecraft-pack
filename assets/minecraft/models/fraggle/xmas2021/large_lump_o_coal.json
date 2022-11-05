@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "fraggle/xmas2021/coal/large_lump_o_coal"
+	}
+}

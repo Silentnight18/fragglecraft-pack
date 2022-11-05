@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "fraggle/xmas2021/coal/boulder_o_coal"
+	}
+}

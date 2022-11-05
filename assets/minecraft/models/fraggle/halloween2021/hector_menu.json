@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/fraggle/gui/base_gui",
+	"textures": {
+		"background": "fraggle/gui/background/filler_light_gray",
+		"icon": "fraggle/halloween2021/pumpkin_face"
+	}
+}

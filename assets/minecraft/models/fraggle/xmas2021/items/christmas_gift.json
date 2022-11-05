@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fraggle/xmas2021/items/christmas_gift_top",
+    "north": "fraggle/xmas2021/items/christmas_gift_side",
+    "south": "fraggle/xmas2021/items/christmas_gift_side",
+    "east": "fraggle/xmas2021/items/christmas_gift_side",
+    "west": "fraggle/xmas2021/items/christmas_gift_side",
+    "up": "fraggle/xmas2021/items/christmas_gift_top",
+    "down": "fraggle/xmas2021/items/christmas_gift_bottom"
+  }
+}

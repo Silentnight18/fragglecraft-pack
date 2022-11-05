@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"0": "fraggle/xmas2021/items/christmas_gift_top",
+		"1": "fraggle/xmas2021/items/christmas_gift_bottom",
+		"2": "fraggle/xmas2021/items/christmas_gift_side",
+		"3": "fraggle/xmas2021/items/christmas_gift_side2"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#2"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated_bow",
+    "textures": {
+        "layer0": "fraggle/halloween2021/tools/halloween_bow_pulling_0"
+    }
+}
