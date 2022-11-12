@@ -1,0 +1,6 @@
+{
+  "parent": "fraggle/xmas2021/hats/santa_hat_base",
+	"textures": {
+		"santa_hat_texture": "fraggle/xmas2021/hats/santa_hat_lights_anim"
+	}
+}

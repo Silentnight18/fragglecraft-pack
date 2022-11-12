@@ -18,6 +18,7 @@
 
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/key" },
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/goth/goth_key" },
+		{ "predicate": { "custom_model_data": 52}, "model": "fraggle:extra/fun/hallow_boss_key" },
 
 		{ "predicate": { "custom_model_data": 1000}, "model": "minecraft:item/blaze_rod" }
 	]

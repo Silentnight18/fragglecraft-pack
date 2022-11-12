@@ -1,0 +1,6 @@
+{
+  "parent": "fraggle/xmas2021/coal_cart_base",
+	"textures": {
+		"coal_cart_texture": "fraggle/xmas2021/coal/coal_art"
+	}
+}

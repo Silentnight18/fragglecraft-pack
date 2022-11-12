@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/fraggle/consumable_items/small_base",
+	"textures": {
+		"layer0": "fraggle/xmas2021/christmas_key"
+	}
+}

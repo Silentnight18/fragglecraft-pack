@@ -1,0 +1,7 @@
+{
+  "parent": "fraggle/halloween2021/masks/ween_mask_base",
+	"textures": {
+		"mask_texture": "fraggle/halloween2021/masks/mask_47",
+		"band_texture": "fraggle/halloween2021/masks/mask_wrap"
+	}
+}

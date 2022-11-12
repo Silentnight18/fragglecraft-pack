@@ -1,0 +1,45 @@
+{
+  "parent": "fraggle/xmas2021/hats/santa_hat_base",
+	"textures": {
+		"santa_hat_texture": "fraggle/xmas2021/hats/santa_hat_red"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 23.75, 1.5],
+			"scale": [2, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 23.75, 1.5],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [15, 45, 0],
+			"translation": [1.25, 5.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, 45, 0],
+			"translation": [1.25, 5.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 6, 0]
+		},
+		"gui": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"translation": [0.5, 37.75, 0.25],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 9, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

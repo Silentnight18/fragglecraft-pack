@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fraggle/xmas2021/items/sparkler_box"
+	},
+	"elements": [
+		{
+			"from": [5.5, 0, 5.5],
+			"to": [10.5, 14, 10.5],
+			"faces": {
+				"north": {"uv": [5, 0, 10, 14], "texture": "#0"},
+				"east": {"uv": [5, 0, 10, 14], "texture": "#0"},
+				"south": {"uv": [0, 0, 5, 14], "texture": "#0"},
+				"west": {"uv": [5, 0, 10, 14], "texture": "#0"},
+				"up": {"uv": [10, 5, 15, 0], "texture": "#0"},
+				"down": {"uv": [10, 0, 15, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 7, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 7, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [-72.62, -3.69, -11.73],
+			"translation": [1.13, 3.2, 1.25],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-74, 0, 0],
+			"translation": [-2.37, 3.2, -16],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"translation": [0, 5.5, 0]
+		},
+		"gui": {
+			"rotation": [14.47, -0.53, -34.66],
+			"translation": [1, 0.75, 0]
+		},
+		"head": {
+			"rotation": [180, 0, 180],
+			"translation": [0, 18, 0]
+		}
+	}
+}

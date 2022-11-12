@@ -8,6 +8,7 @@
 			
 		{ "predicate": { "custom_model_data": 1}, "model": "fraggle:ui/font_button_invisible" },
 		{ "predicate": { "custom_model_data": 2}, "model": "minecraft:item/paper" },
+		
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/backpack" },
 		{ "predicate": { "custom_model_data": 31}, "model": "outsourced:duckie_set/hood" },
 		{ "predicate": { "custom_model_data": 32}, "model": "minecraft:item/paper" },
@@ -85,7 +86,11 @@
 		{ "predicate": { "custom_model_data": 155}, "model": "outsourced:hats/sort_later/vs_wizard_hat" },
 		{ "predicate": { "custom_model_data": 156}, "model": "outsourced:hats/sort_later/vs_farmer_hat" },
 	
+		{ "predicate": { "custom_model_data": 200}, "model": "minecraft:item/paper" },
 		
+		{ "predicate": { "custom_model_data": 1061}, "model": "fraggle/halloween2021/spirit_halloween_giftcard" },
+		{ "predicate": { "custom_model_data": 1062}, "model": "minecraft:item/paper" },
+
 		{"predicate": {"custom_model_data":1916}, "model": "flamos_model/flamos_blaze_leap_1"},
 		{"predicate": {"custom_model_data":1917}, "model": "flamos_model/flamos_blaze_leap_2"},
 		{"predicate": {"custom_model_data":1918}, "model": "flamos_model/flamos_blaze_leap_3"},

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "fraggle/halloween2021/tools/halloween_sword"
+	}
+}
