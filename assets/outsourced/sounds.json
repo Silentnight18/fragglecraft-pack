@@ -118,5 +118,11 @@
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/candy_cauldron/take"
 		 ]
+	},
+	"custom.bridday.confetto1": { 
+		"sounds": ["outsourced:birthday/confetto1" ] }, 
+	"custom.bridday.kazoo": { 
+		"sounds": ["outsourced:birthday/kazoo1"  ] 
 	}
+
 }

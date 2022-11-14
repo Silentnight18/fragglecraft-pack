@@ -19,10 +19,10 @@
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_rod_cast" },
 
-		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/saw_set/fishing_rod" },
-		{ "predicate": { "cast": 1, "custom_model_data": 51}, "model": "outsourced:halloween/saw_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/fishing_rod_cast" },
 		
-		{ "predicate": { "custom_model_data": 52}, "model": "minecraft:item/fishing_rod" },
-		{ "predicate": { "cast": 1, "custom_model_data": 41}, "model": "minecraft:item/fishing_rod" }
+		{ "predicate": { "custom_model_data": 53}, "model": "minecraft:item/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 53}, "model": "minecraft:item/fishing_rod" }
 	]
 }
