@@ -14,7 +14,7 @@
 		{ "predicate": { "cast": 1, "custom_model_data": 40}, "model": "outsourced:froggie_set/fishing2" },
 
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/fishing" },
-		{ "predicate": { "cast": 1, "custom_model_data": 50}, "model": "outsourced:halloween/bat_set/fishing_cast" },
+		{ "predicate": { "cast": 1, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/fishing_cast" },
 		
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_rod_cast" },
@@ -22,7 +22,7 @@
 		{ "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/fishing_rod_cast" },
 		
-		{ "predicate": { "custom_model_data": 53}, "model": "minecraft:item/fishing_rod" },
-		{ "predicate": { "cast": 1, "custom_model_data": 53}, "model": "minecraft:item/fishing_rod" }
+		{ "predicate": { "custom_model_data": 100}, "model": "minecraft:item/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 100}, "model": "minecraft:item/fishing_rod" }
 	]
 }
