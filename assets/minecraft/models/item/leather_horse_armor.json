@@ -321,6 +321,69 @@
 		{ "predicate": { "custom_model_data": 4004}, "model": "fraggle:skills/woodcutting/trees/small_tree_test3" },	
 		
 		
-		{ "predicate": { "custom_model_data": 5000}, "model": "minecraft:item/leather_horse_armor" }
+		{ "predicate": { "custom_model_data": 5000}, "model": "minecraft:item/leather_horse_armor" },
+
+		{ "predicate": { "custom_model_data": 6701}, "model": "outsourced:birthday/em_cakes/em_cakeknife" },
+		{ "predicate": { "custom_model_data": 6702}, "model": "outsourced:birthday/em_cakes/em_passionfruit_cake" },
+		{ "predicate": { "custom_model_data": 6703}, "model": "outsourced:birthday/em_cakes/em_strawberry_cake" },
+		{ "predicate": { "custom_model_data": 6704}, "model": "outsourced:birthday/em_cakes/em_choco_cake" },
+		{ "predicate": { "custom_model_data": 6705}, "model": "outsourced:birthday/em_cakes/em_framboise_cake" },
+		{ "predicate": { "custom_model_data": 6706}, "model": "outsourced:birthday/em_cakes/em_redvelvet_cake" },
+		{ "predicate": { "custom_model_data": 6707}, "model": "outsourced:birthday/em_cakes/em_darkoak_endtable" },
+		{ "predicate": { "custom_model_data": 6708}, "model": "outsourced:birthday/em_cakes/em_darkoak_endtable_f" },
+		{ "predicate": { "custom_model_data": 6709}, "model": "outsourced:birthday/em_cakes/em_spruce_endtable" },
+		{ "predicate": { "custom_model_data": 6710}, "model": "outsourced:birthday/em_cakes/em_spruce_endtable_f" },
+		{ "predicate": { "custom_model_data": 6711}, "model": "outsourced:birthday/em_cakes/em_acacia_endtable" },
+		{ "predicate": { "custom_model_data": 6712}, "model": "outsourced:birthday/em_cakes/em_acacia_endtable_f" },
+
+		{ "predicate": { "custom_model_data": 6713}, "model": "outsourced:birthday/em_balloons_m/redballoon_em" },
+		{ "predicate": { "custom_model_data": 6714}, "model": "outsourced:birthday/em_balloons_m/blackballoon_em" },
+		{ "predicate": { "custom_model_data": 6715}, "model": "outsourced:birthday/em_balloons_m/whiteballoon_em" },
+		{ "predicate": { "custom_model_data": 6716}, "model": "outsourced:birthday/em_balloons_m/magentaballoon_em" },
+		{ "predicate": { "custom_model_data": 6717}, "model": "outsourced:birthday/em_balloons_m/greenballoon_em" },
+		{ "predicate": { "custom_model_data": 6718}, "model": "outsourced:birthday/em_balloons_m/yellowballoon_em" },
+		{ "predicate": { "custom_model_data": 6719}, "model": "outsourced:birthday/em_balloons_m/violetballoon_em" },
+		{ "predicate": { "custom_model_data": 6720}, "model": "outsourced:birthday/em_balloons_m/blueballoon_em" },
+
+		{ "predicate": { "custom_model_data": 6721}, "model": "outsourced:birthday/em_pinatas_m/tntpinata_em" },
+		{ "predicate": { "custom_model_data": 6722}, "model": "outsourced:birthday/em_pinatas_m/creeperpinata_em" },
+		{ "predicate": { "custom_model_data": 6723}, "model": "outsourced:birthday/em_pinatas_m/beepinata_em" },
+		{ "predicate": { "custom_model_data": 6724}, "model": "outsourced:birthday/em_pinatas_m/genericpinata_em" },
+		{ "predicate": { "custom_model_data": 6725}, "model": "outsourced:birthday/em_pinatas_m/burritopinata_em" },
+
+		{ "predicate": { "custom_model_data": 6737}, "model": "outsourced:birthday/em_bdsigns_m/bluebirthdaysign_em" },
+		{ "predicate": { "custom_model_data": 6738}, "model": "outsourced:birthday/em_bdsigns_m/greenbirthdaysign_em" },
+		{ "predicate": { "custom_model_data": 6739}, "model": "outsourced:birthday/em_bdsigns_m/magentabirthdaysign_em" },
+		{ "predicate": { "custom_model_data": 6740}, "model": "outsourced:birthday/em_bdsigns_m/redbirthdaysign_em" },
+		{ "predicate": { "custom_model_data": 6741}, "model": "outsourced:birthday/em_bdsigns_m/violetbirthdaysign_em" },
+		{ "predicate": { "custom_model_data": 6742}, "model": "outsourced:birthday/em_bdsigns_m/yellowbirthdaysign_em" },
+		{ "predicate": { "custom_model_data": 6743}, "model": "outsourced:birthday/em_bdsigns_m/orangebirthdaysign_em" },
+
+		{ "predicate": { "custom_model_data": 6744}, "model": "outsourced:birthday/em_pompoms_m/bpm_em" },
+		{ "predicate": { "custom_model_data": 6745}, "model": "outsourced:birthday/em_pompoms_m/gpm_em" },
+		{ "predicate": { "custom_model_data": 6746}, "model": "outsourced:birthday/em_pompoms_m/mpm_em" },
+		{ "predicate": { "custom_model_data": 6747}, "model": "outsourced:birthday/em_pompoms_m/rpm_em" },
+		{ "predicate": { "custom_model_data": 6748}, "model": "outsourced:birthday/em_pompoms_m/vpm_em" },
+		{ "predicate": { "custom_model_data": 6749}, "model": "outsourced:birthday/em_pompoms_m/ypm_em" },
+		{ "predicate": { "custom_model_data": 6750}, "model": "outsourced:birthday/em_pompoms_m/opm_em" },
+
+		{ "predicate": { "custom_model_data": 6751}, "model": "outsourced:birthday/em_bdsigns_m/bcs_em" },
+		{ "predicate": { "custom_model_data": 6752}, "model": "outsourced:birthday/em_bdsigns_m/gcs_em" },
+		{ "predicate": { "custom_model_data": 6753}, "model": "outsourced:birthday/em_bdsigns_m/mcs_em" },
+		{ "predicate": { "custom_model_data": 6754}, "model": "outsourced:birthday/em_bdsigns_m/rcs_em" },
+		{ "predicate": { "custom_model_data": 6755}, "model": "outsourced:birthday/em_bdsigns_m/vcs_em" },
+		{ "predicate": { "custom_model_data": 6756}, "model": "outsourced:birthday/em_bdsigns_m/ycs_em" },
+		{ "predicate": { "custom_model_data": 6757}, "model": "outsourced:birthday/em_bdsigns_m/ocs_em" },
+		{ "predicate": { "custom_model_data": 6758}, "model": "outsourced:birthday/em_bdsigns_m/scs_em" },
+
+		{ "predicate": { "custom_model_data": 6759}, "model": "outsourced:birthday/em_bridday_m/em_partyhat1" },
+		{ "predicate": { "custom_model_data": 6760}, "model": "outsourced:birthday/em_bridday_m/em_confettiball" },
+
+		{ "predicate": { "custom_model_data": 6761}, "model": "outsourced:birthday/em_bdsigns_m/yas_em" },
+		{ "predicate": { "custom_model_data": 6762}, "model": "outsourced:birthday/em_bdsigns_m/sas_em" },
+		{ "predicate": { "custom_model_data": 6763}, "model": "outsourced:birthday/em_bridday_m/pinatabat_em" },
+
+		{ "predicate": { "custom_model_data": 6770}, "model": "minecraft:item/leather_horse_armor" }
+
 	]
 }

@@ -59,7 +59,97 @@
         { "predicate": { "custom_model_data": 53}, "model": "minecraft:item/bow" },
         { "predicate": {"pulling":1, "custom_model_data": 53}, "model": "minecraft:item/bow_pulling_0" },
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 53}, "model": "minecraft:item/bow_pulling_1" },
-        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 53}, "model": "minecraft:item/bow_pulling_2" }
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 53}, "model": "minecraft:item/bow_pulling_2" },
+
+        { "predicate": { "custom_model_data": 6701}, "model": "outsourced:birthday/em_bridday_m/em_confetti_cannon" },
+        {
+            "predicate": {
+                "pulling": 1,
+		"custom_model_data": 6701
+            },
+            "model": "outsourced:birthday/em_bridday_m/em_confetti_cannon"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.35,
+		"custom_model_data": 6701
+            },
+            "model": "outsourced:birthday/em_bridday_m/em_confetti_cannon"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.7,
+		"custom_model_data": 6701
+            },
+            "model": "outsourced:birthday/em_bridday_m/em_confetti_cannon"
+        },
+
+
+        { "predicate": { "custom_model_data": 6702}, "model": "outsourced:birthday/em_bridday_m/kazoo_em" },
+        {
+            "predicate": {
+                "pulling": 1,
+		"custom_model_data": 6702
+            },
+            "model": "outsourced:birthday/em_bridday_m/kazoo_em1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.1,
+		"custom_model_data": 6702
+            },
+            "model": "outsourced:birthday/em_bridday_m/kazoo_em2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.15,
+		"custom_model_data": 6702
+            },
+            "model": "outsourced:birthday/em_bridday_m/kazoo_em3"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.2,
+		"custom_model_data": 6702
+            },
+            "model": "outsourced:birthday/em_bridday_m/kazoo_em4"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.25,
+		"custom_model_data": 6702
+            },
+            "model": "outsourced:birthday/em_bridday_m/kazoo_em5"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.3,
+		"custom_model_data": 6702
+            },
+            "model": "outsourced:birthday/em_bridday_m/kazoo_em6"
+        },
+
+
+        { "predicate": { "custom_model_data": 6703}, "model": "outsourced:birthday/em_bridday_m/em_confetti_cannon2" },
+        {
+            "predicate": {
+                "pulling": 1,
+		"custom_model_data": 6703
+            },
+            "model": "outsourced:birthday/em_bridday_m/em_confetti_cannon2b"
+        },
+
+        { "predicate": { "custom_model_data": 6704}, "model": "minecraft:item/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 6704}, "model": "minecraft:item/bow_pulling_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 6704}, "model": "minecraft:item/bow_pulling_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 6704}, "model": "minecraft:item/bow_pulling_2" }
 
 	]
 }

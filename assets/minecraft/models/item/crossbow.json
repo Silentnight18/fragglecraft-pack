@@ -33,6 +33,744 @@
         { "predicate": { "charged": 1  }, "model": "item/crossbow_arrow" },
         { "predicate": { "charged": 1, "firework": 1 }, "model": "item/crossbow_firework" },
 		
+
+		{ "predicate": { "custom_model_data": 1}, "model": "outsourced:guns/vs_megaflintlockset/vs_pistol" },
+		{
+			"predicate": {
+				"custom_model_data": 1,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_2"
+		},
+		{ "predicate": { "custom_model_data": 2}, "model": "outsourced:guns/vs_megaflintlockset/vs_revolver" },
+		{
+			"predicate": {
+				"custom_model_data": 2,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_revolver"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 2
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_revolver_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 2
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_revolver_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 2
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_revolver_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 2
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_revolver_2"
+		},
+		{ "predicate": { "custom_model_data": 3}, "model": "outsourced:guns/vs_megaflintlockset/vs_pistol_3" },
+		{
+			"predicate": {
+				"custom_model_data": 3,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_3"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 3
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_3_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 3
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_3_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 3
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_3_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 3
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_3_2"
+		},
+		{ "predicate": { "custom_model_data": 4}, "model": "outsourced:guns/vs_megaflintlockset/vs_pistol_multi" },
+		{
+			"predicate": {
+				"custom_model_data": 4,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_multi"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 4
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_multi_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 4
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_multi_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 4
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_multi_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 4
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_pistol_multi_2"
+		},
+		{ "predicate": { "custom_model_data": 5}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle" },
+		{
+			"predicate": {
+				"custom_model_data": 5,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 5
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 5
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 5
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 5
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_2"
+		},
+		{ "predicate": { "custom_model_data": 6}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_bayonet" },
+		{
+			"predicate": {
+				"custom_model_data": 6,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_bayonet"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 6
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_bayonet_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 6
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_bayonet_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 6
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_bayonet_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 6
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_bayonet_2"
+		},
+		{ "predicate": { "custom_model_data": 7}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_double" },
+		{
+			"predicate": {
+				"custom_model_data": 7,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_double"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 7
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_double_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 7
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_double_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 7
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_double_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 7
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_double_2"
+		},
+		{ "predicate": { "custom_model_data": 8}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_3" },
+		{
+			"predicate": {
+				"custom_model_data": 8,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_3"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 8
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_3_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 8
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_3_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 8
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_3_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 8
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_3_2"
+		},
+		{ "predicate": { "custom_model_data": 9}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_epic" },
+		{
+			"predicate": {
+				"custom_model_data": 9,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_epic"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 9
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_epic_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 9
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_epic_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 9
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_epic_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 9
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_epic_2"
+		},
+		{ "predicate": { "custom_model_data": 10}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic" },
+		{
+			"predicate": {
+				"custom_model_data": 10,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 10
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 10
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 10
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 10
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic_2"
+		},
+		{ "predicate": { "custom_model_data": 11}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy" },
+		{
+			"predicate": {
+				"custom_model_data": 11,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 11
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 11
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 11
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 11
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy_2"
+		},
+		{ "predicate": { "custom_model_data": 12}, "model": "outsourced:guns/vs_megaflintlockset/vs_snipe" },
+		{
+			"predicate": {
+				"custom_model_data": 12,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_snipe"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 12
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_snipe_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 12
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_snipe_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 12
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_snipe_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 12
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_snipe_2"
+		},
+		{ "predicate": { "custom_model_data": 13}, "model": "outsourced:guns/vs_megaflintlockset/vs_snipe_epic" },
+		{
+			"predicate": {
+				"custom_model_data": 13,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_snipe_epic"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 13
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_snipe_epic_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 13
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_snipe_epic_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 13
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_snipe_epic_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 13
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_snipe_epic_2"
+		},
+		{ "predicate": { "custom_model_data": 14}, "model": "outsourced:guns/vs_megaflintlockset/vs_cannon" },
+		{
+			"predicate": {
+				"custom_model_data": 14,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_cannon"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 14
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_cannon_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 14
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_cannon_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 14
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_cannon_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 14
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_cannon_2"
+		},
+		{ "predicate": { "custom_model_data": 15}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy2" },
+		{
+			"predicate": {
+				"custom_model_data": 15,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy2"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 15
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy2_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 15
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy2_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 15
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy2_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 15
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy2_2"
+		},
+		{ "predicate": { "custom_model_data": 16}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy3" },
+		{
+			"predicate": {
+				"custom_model_data": 16,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy3"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 16
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy3_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 16
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy3_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 16
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy3_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 16
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy3_2"
+		},
+		{ "predicate": { "custom_model_data": 17}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy4" },
+		{
+			"predicate": {
+				"custom_model_data": 17,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy4"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 17
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy4_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 17
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy4_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 17
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy4_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 17
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy4_2"
+		},
+		{ "predicate": { "custom_model_data": 18}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy5" },
+		{
+			"predicate": {
+				"custom_model_data": 18,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy5"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 18
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy5_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 18
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy5_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 18
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy5_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 18
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_alchemy5_2"
+		},
+		{ "predicate": { "custom_model_data": 19}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic2" },
+		{
+			"predicate": {
+				"custom_model_data": 19,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic2"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 19
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic2_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 19
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic2_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 19
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic2_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 19
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic2_2"
+		},
+		{ "predicate": { "custom_model_data": 20}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic3" },
+		{
+			"predicate": {
+				"custom_model_data": 20,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic3"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 20
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic3_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 20
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic3_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 20
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic3_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 20
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic3_2"
+		},
+		{ "predicate": { "custom_model_data": 21}, "model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic4" },
+		{
+			"predicate": {
+				"custom_model_data": 21,
+				"pulling": 1
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic4"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 21
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic4_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 21
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic4_1"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 21
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic4_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 21
+			},
+			"model": "outsourced:guns/vs_megaflintlockset/vs_rifle_magic4_2"
+		},
+
+
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/crossbow" },
         { "predicate": {"pulling":1, "custom_model_data": 30}, "model": "outsourced:duckie_set/crossbow_0" },
         { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 30}, "model": "outsourced:duckie_set/crossbow_1" },

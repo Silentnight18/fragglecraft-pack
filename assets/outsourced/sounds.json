@@ -2,145 +2,127 @@
    "littleroom.frankenstein.death":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/frankenstein/death"
-		 ],
-	"subtitle": "subtitles.littleroom/frankenstein_death"
+		 ]
 	},
    "littleroom.frankenstein.clapswing":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/frankenstein/clapswing"
-		 ],
-	"subtitle": "subtitles.littleroom/frankenstein_clapswing"
+		 ]
 	},
    "littleroom.frankenstein.groan":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/frankenstein/groan"
-		 ],
-	"subtitle": "subtitles.littleroom/frankenstein_groan"
+		 ]
 	},
    "littleroom.frankenstein.limb_removal":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/frankenstein/limb_removal"
-		 ],
-	"subtitle": "subtitles.littleroom/frankenstein_limb_removal"
+		 ]
 	},
    "littleroom.frankenstein.pain":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/frankenstein/pain"
-		 ],
-	"subtitle": "subtitles.littleroom/frankenstein_pain"
+		 ]
 	},
    "littleroom.frankenstein.punchswing":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/frankenstein/punchswing"
-		 ],
-	"subtitle": "subtitles.littleroom/frankenstein_punchswing"
+		 ]
 	},
    "littleroom.pumpkin.bite":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/pumpkin/bite"
-		 ],
-	"subtitle": "subtitles.littleroom/pumpkin_bite"
+		 ]
 	},
    "littleroom.pumpkin.death":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/pumpkin/death"
-		 ],
-	"subtitle": "subtitles.littleroom/pumpkin_death"
+		 ]
 	},
    "littleroom.pumpkin.idle1":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/pumpkin/idle1"
-		 ],
-	"subtitle": "subtitles.littleroom/pumpkin_idle"
+		 ]
 	},
    "littleroom.pumpkin.idle2":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/pumpkin/idle2"
-		 ],
-	"subtitle": "subtitles.littleroom/pumpkin_idle"
+		 ]
 	},
    "littleroom.pumpkin.idle3":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/pumpkin/idle3"
-		 ],
-	"subtitle": "subtitles.littleroom/pumpkin_idle"
+		 ]
 	},
    "littleroom.pumpkin.swing":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/pumpkin/swing"
-		 ],
-	"subtitle": "subtitles.littleroom/pumpkin_swing"
+		 ]
 	},
    "littleroom.pumpkin.vines":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/pumpkin/vines"
-		 ],
-	"subtitle": "subtitles.littleroom/pumpkin_vines"
+		 ]
 	},
    "littleroom.scarecrow.murder":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/scarecrow/murder"
-		 ],
-	"subtitle": "subtitles.littleroom/scarecrow_murder"
+		 ]
 	},
    "littleroom.scarecrow.slash":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/scarecrow/slash"
-		 ],
-	"subtitle": "subtitles.littleroom/scarecrow_slash"
+		 ]
 	},
    "littleroom.witch.idle1":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/witch/idle1"
-		 ],
-	"subtitle": "subtitles.littleroom/witch_idle"
+		 ]
 	},
    "littleroom.witch.idle2":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/witch/idle2"
-		 ],
-	"subtitle": "subtitles.littleroom/witch_idle"
+		 ]
 	},
    "littleroom.witch.magichit":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/witch/magichit"
-		 ],
-	"subtitle": "subtitles.littleroom/witch_magic_hit"
+		 ]
 	},
    "littleroom.witch.magicshoot":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/witch/magicshoot"
-		 ],
-	"subtitle": "subtitles.littleroom/witch_magic_shoot"
+		 ]
 	},
    "littleroom.halloweenpack2.poof":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/poof"
-		 ],
-	"subtitle": "subtitles.littleroom/poof"
+		 ]
 	},
    "littleroom.spectre.spotted":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/spectre/spotted"
-		 ],
-	"subtitle": "subtitles.littleroom/spectre_spotted"
+		 ]
 	},
    "littleroom.spectre.death":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/spectre/death"
-		 ],
-	"subtitle": "subtitles.littleroom/spectre_death"
+		 ]
 	},
    "littleroom.haunted_armor.scare":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/haunted_armor/scare"
-		 ],
-	"subtitle": "subtitles.littleroom/haunted_armor_scare"
+		 ]
 	},
    "littleroom.candy_cauldron.take":{
 		 "sounds": [
 			"outsourced:littleroom/halloweenpack2/candy_cauldron/take"
-		 ],
-	"subtitle": "subtitles.littleroom/candy_cauldron_take"
+		 ]
+	},
+	"custom.bridday.confetto1": { 
+		"sounds": ["outsourced:birthday/confetto1" ] }, 
+	"custom.bridday.kazoo": { 
+		"sounds": ["outsourced:birthday/kazoo1"  ] 
 	}
+
 }
