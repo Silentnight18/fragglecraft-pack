@@ -123,6 +123,71 @@
 		"sounds": ["outsourced:birthday/confetto1" ] }, 
 	"custom.bridday.kazoo": { 
 		"sounds": ["outsourced:birthday/kazoo1"  ] 
-	}
+	},
+	"littleroom.cranegame.game1":{
+		"sounds": [
+		   "outsourced:littleroom/cranegame/game1"
+		]
+   },
+   "littleroom.cranegame.game2":{
+		"sounds": [
+		   "outsourced:littleroom/cranegame/game2"
+		]
+   },
+   "littleroom.cranegame.game3":{
+		"sounds": [
+		   "outsourced:littleroom/cranegame/game3"
+		]
+   },
+   "littleroom.cranegame.drop":{
+		"sounds": [
+		   "outsourced:littleroom/cranegame/drop"
+		]
+   },
+   "littleroom.cranegame.win":{
+		"sounds": [
+		   "outsourced:littleroom/cranegame/win"
+		]
+   },
+   "littleroom.cranegame.lose":{
+		"sounds": [
+		   "outsourced:littleroom/cranegame/lose"
+		]
+   },
+   "littleroom.cranegame.music_loop":{
+		"sounds": [
+		   "outsourced:littleroom/cranegame/music_loop"
+		]
+   },
+   "littleroom.mechanicalbull.bull1":{
+	"sounds": [
+	   "littleroom/mechanicalbull/bull1"
+	]
+},
+"littleroom.mechanicalbull.bull2":{
+	"sounds": [
+	   "littleroom/mechanicalbull/bull2"
+	]
+},
+"littleroom.mechanicalbull.kickoff":{
+	"sounds": [
+	   "littleroom/mechanicalbull/kickoff"
+	]
+},
+"littleroom.mechanicalbull.riding1":{
+	"sounds": [
+	   "littleroom/mechanicalbull/riding1"
+	]
+},
+"littleroom.mechanicalbull.riding2":{
+	"sounds": [
+	   "littleroom/mechanicalbull/riding2"
+	]
+},
+"littleroom.mechanicalbull.riding3":{
+	"sounds": [
+	   "littleroom/mechanicalbull/riding3"
+	]
+}
 
 }
