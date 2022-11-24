@@ -17,7 +17,7 @@
 		{ "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/pickaxe" },
 		{ "predicate": { "custom_model_data": 53}, "model": "outsourced:pixelsonpoint/thanksgiving_pickaxe" },
 		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_pickaxe" },
-		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmax_pickaxe" },
+		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_pickaxe" },
 		{ "predicate": { "custom_model_data": 60}, "model": "minecraft:item/netherite_pickaxe" }
 	]
 }

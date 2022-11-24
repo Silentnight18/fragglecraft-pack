@@ -25,7 +25,7 @@
 
 		{ "predicate": { "custom_model_data": 53}, "model": "outsourced:pixelsonpoint/thanksgiving_axe" },
 		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_axe" },
-		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmax_axe" },
+		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_axe" },
 
 		{ "predicate": { "custom_model_data": 60}, "model": "minecraft:item/netherite_axe" }
 	]

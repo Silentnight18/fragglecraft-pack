@@ -12,7 +12,7 @@
 		{ "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/shovel" },
 		{ "predicate": { "custom_model_data": 53}, "model": "outsourced:pixelsonpoint/thanksgiving_shovel" },
 		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_shovel" },
-		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmax_shovel" },
+		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_shovel" },
 		{ "predicate": { "custom_model_data": 60}, "model": "minecraft:item/netherite_shovel" }
 	]
 }

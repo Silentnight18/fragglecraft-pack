@@ -85,7 +85,7 @@
 		{ "predicate": { "custom_model_data": 154}, "model": "outsourced:hats/sort_later/vs_witchhunter_hat" },
 		{ "predicate": { "custom_model_data": 155}, "model": "outsourced:hats/sort_later/vs_wizard_hat" },
 		{ "predicate": { "custom_model_data": 156}, "model": "outsourced:hats/sort_later/vs_farmer_hat" },
-		{ "predicate": { "custom_model_data": 157}, "model": "outsourced:hats/music/vs_farmer_hat" },
+
 		{ "predicate": { "custom_model_data": 158}, "model": "outsourced:hats/music/marshmello_helmet" },
 		{ "predicate": { "custom_model_data": 159}, "model": "outsourced:hats/music/guy_helmet" },
 		{ "predicate": { "custom_model_data": 160}, "model": "outsourced:hats/music/thomas_helmet" },

@@ -39,7 +39,7 @@
 		{ "predicate": { "custom_model_data": 57}, "model": "outsourced:halloween/saw_set/chainsaw" },
 		{ "predicate": { "custom_model_data": 58}, "model": "outsourced:pixelsonpoint/thanksgiving_sword" },
 		{ "predicate": { "custom_model_data": 59}, "model": "outsourced:pixelsonpoint/blackfriday_sword" },
-		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:pixelsonpoint/christmax_sword" },
+		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:pixelsonpoint/christmas_sword" },
 
 		{"predicate": {"custom_model_data":600}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 		
