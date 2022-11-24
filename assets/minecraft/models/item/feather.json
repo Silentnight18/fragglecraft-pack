@@ -67,8 +67,26 @@
 		{"predicate": {"custom_model_data":154}, "model": "outsourced:halloween/saw_set/shield"},
 		{"predicate": {"custom_model_data":155}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 
+		{ "predicate": { "custom_model_data": 156}, "model": "outsourced:pixelsonpoint/thanksgiving_axe" },
+		{ "predicate": { "custom_model_data": 157}, "model": "outsourced:pixelsonpoint/blackfriday_axe" },
+		{ "predicate": { "custom_model_data": 158}, "model": "outsourced:pixelsonpoint/christmax_axe" },
+		{ "predicate": { "custom_model_data": 159}, "model": "outsourced:pixelsonpoint/thanksgiving_hoe" },
+		{ "predicate": { "custom_model_data": 160}, "model": "outsourced:pixelsonpoint/blackfriday_hoe" },
+		{ "predicate": { "custom_model_data": 161}, "model": "outsourced:pixelsonpoint/christmax_hoe" },
+		{ "predicate": { "custom_model_data": 162}, "model": "outsourced:pixelsonpoint/thanksgiving_pickaxe" },
+		{ "predicate": { "custom_model_data": 163}, "model": "outsourced:pixelsonpoint/blackfriday_pickaxe" },
+		{ "predicate": { "custom_model_data": 164}, "model": "outsourced:pixelsonpoint/christmax_pickaxe" },
+		{ "predicate": { "custom_model_data": 165}, "model": "outsourced:pixelsonpoint/thanksgiving_shovel" },
+		{ "predicate": { "custom_model_data": 166}, "model": "outsourced:pixelsonpoint/blackfriday_shovel" },
+		{ "predicate": { "custom_model_data": 167}, "model": "outsourced:pixelsonpoint/christmax_shovel" },
+		{ "predicate": { "custom_model_data": 168}, "model": "outsourced:pixelsonpoint/thanksgiving_sword" },
+		{ "predicate": { "custom_model_data": 169}, "model": "outsourced:pixelsonpoint/blackfriday_sword" },
+		{ "predicate": { "custom_model_data": 170}, "model": "outsourced:pixelsonpoint/christmax_sword" },
+        { "predicate": { "custom_model_data": 171}, "model": "outsourced:pixelsonpoint/thanksgiving_bow" },
+        { "predicate": { "custom_model_data": 172}, "model": "outsourced:pixelsonpoint/blackfriday_bow" },
+        { "predicate": { "custom_model_data": 173}, "model": "outsourced:pixelsonpoint/christmas_bow" },
 
 
-		{"predicate": {"custom_model_data":156}, "model": "minecraft:item/feather"}
+		{"predicate": {"custom_model_data":200}, "model": "minecraft:item/feather"}
 	]
 }

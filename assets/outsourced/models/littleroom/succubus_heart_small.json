@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "outsourced:littleroom/succubus_hearts"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 8],
+			"to": [11, 6, 8],
+			"faces": {
+				"north": {"uv": [13.25, 4, 15.5, 6.25], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 3], "texture": "#1"},
+				"south": {"uv": [13.25, 4, 15.5, 6.25], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 3], "texture": "#1"},
+				"up": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 3, 0], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 6.5, -6.75],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

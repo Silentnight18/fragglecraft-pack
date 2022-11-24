@@ -5,25 +5,69 @@
     },
 	"overrides": [				
 		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:skills/mining/ores/copper_ore" },
-		
 		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:skills/mining/ores/iron_ore" },
-		
 		{ "predicate": { "custom_model_data": 30}, "model": "fraggle:skills/mining/ores/magnium_ore" },
-		
 		{ "predicate": { "custom_model_data": 40}, "model": "fraggle:skills/mining/ores/cobalt_ore" },
-
 		{ "predicate": { "custom_model_data": 50}, "model": "fraggle:skills/mining/ores/onyx_ore" },
-		
 		{ "predicate": { "custom_model_data": 60}, "model": "fraggle:skills/mining/ores/mithril_ore" },
-	
 		{ "predicate": { "custom_model_data": 70}, "model": "fraggle:skills/mining/ores/adamantite_ore" },
-		
 		{ "predicate": { "custom_model_data": 80}, "model": "fraggle:skills/mining/ores/purple_ore" },
-		
 		{ "predicate": { "custom_model_data": 90}, "model": "fraggle:skills/mining/ores/titanium_ore" },
-		
 		{ "predicate": { "custom_model_data": 100}, "model": "fraggle:skills/mining/ores/fragonite_ore" },
-		
-		{ "predicate": { "custom_model_data": 101}, "model": "minecraft:item/iron_nugget" }
+		{ "predicate": { "custom_model_data": 101}, "model": "minecraft:item/iron_nugget" },
+
+		{"predicate": {"custom_model_data":4500}, "model": "outsourced:samus/food/apple_pie"},
+		{"predicate": {"custom_model_data":4501}, "model": "outsourced:samus/food/bibimbap"},
+		{"predicate": {"custom_model_data":4502}, "model": "outsourced:samus/food/chicken_box"},
+		{"predicate": {"custom_model_data":4503}, "model": "outsourced:samus/food/chicken_nugget"},
+		{"predicate": {"custom_model_data":4504}, "model": "outsourced:samus/food/chicken_set"},
+		{"predicate": {"custom_model_data":4505}, "model": "outsourced:samus/food/coke"},
+		{"predicate": {"custom_model_data":4506}, "model": "outsourced:samus/food/strawberry_cupcake"},
+		{"predicate": {"custom_model_data":4507}, "model": "outsourced:samus/food/vanilla_cupcake"},
+		{"predicate": {"custom_model_data":4508}, "model": "outsourced:samus/food/chocolate_cupcake"},
+		{"predicate": {"custom_model_data":4509}, "model": "outsourced:samus/food/fanta"},
+		{"predicate": {"custom_model_data":4510}, "model": "outsourced:samus/food/french_fries"},
+		{"predicate": {"custom_model_data":4511}, "model": "outsourced:samus/food/fried_chicken"},
+		{"predicate": {"custom_model_data":4512}, "model": "outsourced:samus/food/lettuce"},
+		{"predicate": {"custom_model_data":4513}, "model": "outsourced:samus/food/oreo"},
+		{"predicate": {"custom_model_data":4514}, "model": "outsourced:samus/food/pizza"},
+		{"predicate": {"custom_model_data":4515}, "model": "outsourced:samus/food/boxed_pizza"},
+		{"predicate": {"custom_model_data":4516}, "model": "outsourced:samus/food/salmon_sushi"},
+		{"predicate": {"custom_model_data":4517}, "model": "outsourced:samus/food/soda_pop"},
+		{"predicate": {"custom_model_data":4518}, "model": "outsourced:samus/food/sushi_roll"},
+		{"predicate": {"custom_model_data":4519}, "model": "outsourced:samus/food/sushi_set"},
+		{"predicate": {"custom_model_data":4520}, "model": "outsourced:samus/food/tonkatsu"},
+		{"predicate": {"custom_model_data":4521}, "model": "outsourced:samus/food/tonkatsu_set"},
+		{"predicate": {"custom_model_data":4522}, "model": "outsourced:samus/food/trifle"},
+		{"predicate": {"custom_model_data":4523}, "model": "outsourced:samus/food/baguette"},
+		{"predicate": {"custom_model_data":4524}, "model": "outsourced:samus/food/beer"},
+		{"predicate": {"custom_model_data":4525}, "model": "outsourced:samus/food/burger_double"},
+		{"predicate": {"custom_model_data":4526}, "model": "outsourced:samus/food/burger_small"},
+		{"predicate": {"custom_model_data":4527}, "model": "outsourced:samus/food/candy_cane"},
+		{"predicate": {"custom_model_data":4528}, "model": "outsourced:samus/food/cheese_slice"},
+		{"predicate": {"custom_model_data":4529}, "model": "outsourced:samus/food/donut_chocolate"},
+		{"predicate": {"custom_model_data":4530}, "model": "outsourced:samus/food/donut_mint"},
+		{"predicate": {"custom_model_data":4531}, "model": "outsourced:samus/food/donut_pink"},
+		{"predicate": {"custom_model_data":4532}, "model": "outsourced:samus/food/gingerbread"},
+		{"predicate": {"custom_model_data":4533}, "model": "outsourced:samus/food/hot_chocolate"},
+		{"predicate": {"custom_model_data":4534}, "model": "outsourced:samus/food/hot_dog"},
+		{"predicate": {"custom_model_data":4535}, "model": "outsourced:samus/food/kebap_chicken"},
+		{"predicate": {"custom_model_data":4536}, "model": "outsourced:samus/food/kebap_lamb"},
+		{"predicate": {"custom_model_data":4537}, "model": "outsourced:samus/food/kebap_set"},
+		{"predicate": {"custom_model_data":4538}, "model": "outsourced:samus/food/lemonade"},
+		{"predicate": {"custom_model_data":4539}, "model": "outsourced:samus/food/lemonade_dispenser"},
+		{"predicate": {"custom_model_data":4540}, "model": "outsourced:samus/food/onigiri"},
+		{"predicate": {"custom_model_data":4541}, "model": "outsourced:samus/food/patty"},
+		{"predicate": {"custom_model_data":4542}, "model": "outsourced:samus/food/ramen"},
+		{"predicate": {"custom_model_data":4543}, "model": "outsourced:samus/food/roast"},
+		{"predicate": {"custom_model_data":4544}, "model": "outsourced:samus/food/sausage"},
+		{"predicate": {"custom_model_data":4546}, "model": "outsourced:samus/food/strawberry_ade"},
+		{"predicate": {"custom_model_data":4547}, "model": "outsourced:samus/food/strawberry_ade_dispenser"},
+		{"predicate": {"custom_model_data":4548}, "model": "outsourced:samus/food/taco"},
+		{"predicate": {"custom_model_data":4549}, "model": "outsourced:samus/food/tomato_slice"},
+		{"predicate": {"custom_model_data":4550}, "model": "outsourced:samus/food/roasted_turkey"},
+		{"predicate": {"custom_model_data":4551}, "model": "outsourced:samus/food/wine"},
+
+		{ "predicate": { "custom_model_data": 4600}, "model": "minecraft:item/iron_nugget" }
 	]
 }

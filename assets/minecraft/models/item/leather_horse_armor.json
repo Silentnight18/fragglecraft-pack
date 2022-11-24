@@ -84,6 +84,8 @@
 
 
 		{ "predicate": { "custom_model_data": 100}, "model": "outsourced:hats/crown/tint_crown" },
+		{ "predicate": { "custom_model_data": 101}, "model": "fraggle:sort/white_face_mask" },
+		{ "predicate": { "custom_model_data": 102}, "model": "outsourced:hats/music/deadmau5_helmet" },
 		
 		
 		

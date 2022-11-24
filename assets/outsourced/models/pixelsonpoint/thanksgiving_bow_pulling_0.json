@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "outsourced:pixelsonpoint/thanksgiving_bow_pulling_0"
+    }
+}

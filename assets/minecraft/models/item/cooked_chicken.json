@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_chicken"
+    },
+	"overrides": [
+        { "predicate": { "custom_model_data": 0}, "model": "minecraft:item/cooked_chicken" },
+		{ "predicate": { "custom_model_data": 1}, "model": "outsourced:littleroom/turkey_meat"},
+		{ "predicate": { "custom_model_data": 2}, "model": "minecraft:item/cooked_chicken" }
+
+	]
+}
