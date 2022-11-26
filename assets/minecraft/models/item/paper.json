@@ -24,6 +24,7 @@
 		{"predicate": {"custom_model_data":54}, "model": "outsourced:halloween/04"},
 		{"predicate": {"custom_model_data":55}, "model": "minecraft:item/paper" },
 		
+
 		{ "predicate": { "custom_model_data": 100 }, "model": "outsourced:hats/crown/iron_crown" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "outsourced:hats/crown/gold_crown" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "outsourced:hats/crown/emerald_crown" },
@@ -85,12 +86,27 @@
 		{ "predicate": { "custom_model_data": 154}, "model": "outsourced:hats/sort_later/vs_witchhunter_hat" },
 		{ "predicate": { "custom_model_data": 155}, "model": "outsourced:hats/sort_later/vs_wizard_hat" },
 		{ "predicate": { "custom_model_data": 156}, "model": "outsourced:hats/sort_later/vs_farmer_hat" },
-	
+
+		{ "predicate": { "custom_model_data": 158}, "model": "outsourced:hats/music/marshmello_helmet" },
+		{ "predicate": { "custom_model_data": 159}, "model": "outsourced:hats/music/guy_helmet" },
+		{ "predicate": { "custom_model_data": 160}, "model": "outsourced:hats/music/thomas_helmet" },
+		{ "predicate": { "custom_model_data": 161}, "model": "outsourced:hats/music/hairstyle_the_weeknd" },
+		{ "predicate": { "custom_model_data": 162}, "model": "outsourced:hats/music/hairstyle_oliver_tree" },
+		{ "predicate": { "custom_model_data": 163}, "model": "outsourced:hats/music/hairstyle_hatsune_miku" },
+		{ "predicate": { "custom_model_data": 164}, "model": "fraggle:sort/white_face_mask" },
+		{ "predicate": { "custom_model_data": 165}, "model": "fraggle:sort/fc_face_mask" },
+		{ "predicate": { "custom_model_data": 166}, "model": "fraggle:sort/sombrero" },
+
+		{ "predicate": { "custom_model_data": 180}, "model": "outsourced:littleroom/turkey_head"},
+		{ "predicate": { "custom_model_data": 181}, "model": "fraggle:extra/fun/cornucopia1"},
+		{ "predicate": { "custom_model_data": 182}, "model": "fraggle:extra/fun/cornucopia2"},
+
 		{ "predicate": { "custom_model_data": 200}, "model": "minecraft:item/paper" },
 		
 		{ "predicate": { "custom_model_data": 1061}, "model": "fraggle/halloween2021/spirit_halloween_giftcard" },
 		{ "predicate": { "custom_model_data": 1062}, "model": "minecraft:item/paper" },
 
+		{"predicate": {"custom_model_data":1900}, "model": "outsourced:littleroom/missile"},
 		{"predicate": {"custom_model_data":1916}, "model": "flamos_model/flamos_blaze_leap_1"},
 		{"predicate": {"custom_model_data":1917}, "model": "flamos_model/flamos_blaze_leap_2"},
 		{"predicate": {"custom_model_data":1918}, "model": "flamos_model/flamos_blaze_leap_3"},

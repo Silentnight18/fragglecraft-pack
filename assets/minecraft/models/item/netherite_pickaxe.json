@@ -15,6 +15,9 @@
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/pickaxe" },
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_pickaxe" },
 		{ "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/pickaxe" },
-		{ "predicate": { "custom_model_data": 53}, "model": "minecraft:item/netherite_pickaxe" }
+		{ "predicate": { "custom_model_data": 53}, "model": "outsourced:pixelsonpoint/thanksgiving_pickaxe" },
+		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_pickaxe" },
+		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_pickaxe" },
+		{ "predicate": { "custom_model_data": 60}, "model": "minecraft:item/netherite_pickaxe" }
 	]
 }

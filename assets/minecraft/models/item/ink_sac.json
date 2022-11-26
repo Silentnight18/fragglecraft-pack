@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ink_sac"
+  },
+    "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "outsourced:littleroom/lillith_crossblade"},
+		{"predicate": {"custom_model_data":2}, "model": "outsourced:littleroom/lillith_meteor"},
+		{"predicate": {"custom_model_data":3}, "model": "outsourced:littleroom/succubus_heart"},
+		{"predicate": {"custom_model_data":4}, "model": "outsourced:littleroom/succubus_heart_small"},
+		{"predicate": {"custom_model_data":5}, "model": "outsourced:littleroom/lillith_demonglaive"},
+		{"predicate": {"custom_model_data":6}, "model": "outsourced:littleroom/succubus_heart_hat"},
+		{"predicate": {"custom_model_data":7}, "model": "outsourced:littleroom/succubus_horn_hat"}
+        ]
+}

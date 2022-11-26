@@ -84,6 +84,8 @@
 
 
 		{ "predicate": { "custom_model_data": 100}, "model": "outsourced:hats/crown/tint_crown" },
+		{ "predicate": { "custom_model_data": 101}, "model": "fraggle:sort/white_face_mask" },
+		{ "predicate": { "custom_model_data": 102}, "model": "outsourced:hats/music/deadmau5_helmet" },
 		
 		
 		
@@ -319,9 +321,13 @@
 		
 		{ "predicate": { "custom_model_data": 4002}, "model": "fraggle:skills/woodcutting/trees/small_tree_test2" },			
 		{ "predicate": { "custom_model_data": 4004}, "model": "fraggle:skills/woodcutting/trees/small_tree_test3" },	
-		
-		
-		{ "predicate": { "custom_model_data": 5000}, "model": "minecraft:item/leather_horse_armor" },
+
+
+		{ "predicate": { "custom_model_data": 6000}, "model": "outsourced:littleroom/hmd" },
+		{ "predicate": { "custom_model_data": 6001}, "model": "outsourced:littleroom/left_controller" },
+		{ "predicate": { "custom_model_data": 6002}, "model": "outsourced:littleroom/right_controller" },
+		{ "predicate": { "custom_model_data": 6003}, "model": "outsourced:littleroom/gokartflag" },
+		{ "predicate": { "custom_model_data": 6004}, "model": "outsourced:littleroom/gokarthelmet" },
 
 		{ "predicate": { "custom_model_data": 6701}, "model": "outsourced:birthday/em_cakes/em_cakeknife" },
 		{ "predicate": { "custom_model_data": 6702}, "model": "outsourced:birthday/em_cakes/em_passionfruit_cake" },
@@ -329,13 +335,9 @@
 		{ "predicate": { "custom_model_data": 6704}, "model": "outsourced:birthday/em_cakes/em_choco_cake" },
 		{ "predicate": { "custom_model_data": 6705}, "model": "outsourced:birthday/em_cakes/em_framboise_cake" },
 		{ "predicate": { "custom_model_data": 6706}, "model": "outsourced:birthday/em_cakes/em_redvelvet_cake" },
-		{ "predicate": { "custom_model_data": 6707}, "model": "outsourced:birthday/em_cakes/em_darkoak_endtable" },
-		{ "predicate": { "custom_model_data": 6708}, "model": "outsourced:birthday/em_cakes/em_darkoak_endtable_f" },
-		{ "predicate": { "custom_model_data": 6709}, "model": "outsourced:birthday/em_cakes/em_spruce_endtable" },
-		{ "predicate": { "custom_model_data": 6710}, "model": "outsourced:birthday/em_cakes/em_spruce_endtable_f" },
-		{ "predicate": { "custom_model_data": 6711}, "model": "outsourced:birthday/em_cakes/em_acacia_endtable" },
-		{ "predicate": { "custom_model_data": 6712}, "model": "outsourced:birthday/em_cakes/em_acacia_endtable_f" },
 
+
+		
 		{ "predicate": { "custom_model_data": 6713}, "model": "outsourced:birthday/em_balloons_m/redballoon_em" },
 		{ "predicate": { "custom_model_data": 6714}, "model": "outsourced:birthday/em_balloons_m/blackballoon_em" },
 		{ "predicate": { "custom_model_data": 6715}, "model": "outsourced:birthday/em_balloons_m/whiteballoon_em" },
@@ -383,7 +385,7 @@
 		{ "predicate": { "custom_model_data": 6762}, "model": "outsourced:birthday/em_bdsigns_m/sas_em" },
 		{ "predicate": { "custom_model_data": 6763}, "model": "outsourced:birthday/em_bridday_m/pinatabat_em" },
 
-		{ "predicate": { "custom_model_data": 6770}, "model": "minecraft:item/leather_horse_armor" }
+		{ "predicate": { "custom_model_data": 7000}, "model": "minecraft:item/leather_horse_armor" }
 
 	]
 }

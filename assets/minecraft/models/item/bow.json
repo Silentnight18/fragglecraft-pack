@@ -56,10 +56,26 @@
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/bow_1" },
         { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/bow_2" },
 
-        { "predicate": { "custom_model_data": 53}, "model": "minecraft:item/bow" },
-        { "predicate": {"pulling":1, "custom_model_data": 53}, "model": "minecraft:item/bow_pulling_0" },
-        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 53}, "model": "minecraft:item/bow_pulling_1" },
-        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 53}, "model": "minecraft:item/bow_pulling_2" },
+        { "predicate": { "custom_model_data": 53}, "model": "outsourced:pixelsonpoint/thanksgiving_bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 53}, "model": "outsourced:pixelsonpoint/thanksgiving_bow_pulling_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 53}, "model": "outsourced:pixelsonpoint/thanksgiving_bow_pulling_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 53}, "model": "outsourced:pixelsonpoint/thanksgiving_bow_pulling_2" },
+
+        { "predicate": { "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_bow_pulling_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_bow_pulling_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_bow_pulling_2" },
+
+        { "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_bow_pulling_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_bow_pulling_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_bow_pulling_2" },
+
+
+        {"predicate": {"custom_model_data": 60},"model": "outsourced:littleroom/voras_bow"},
+        {"predicate": {"custom_model_data": 60,"pulling": 1,"pull": 0},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        {"predicate": {"custom_model_data": 60,"pulling": 1,"pull": 0.65},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        {"predicate": {"custom_model_data": 60,"pulling": 1,"pull": 0.9},"model": "outsourced:littleroom/voras_bow_pulling_0"},
 
         { "predicate": { "custom_model_data": 6701}, "model": "outsourced:birthday/em_bridday_m/em_confetti_cannon" },
         {

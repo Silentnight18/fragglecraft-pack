@@ -1,0 +1,7 @@
+{
+	"credit": "Zach Hunter",
+	"parent": "fraggle:sort/face_mask",
+	"textures": {
+		"mask_texture": "fraggle:sort/fc_face_mask"
+	}
+}
