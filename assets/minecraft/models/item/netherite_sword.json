@@ -24,6 +24,10 @@
 		{ "predicate": { "custom_model_data": 32}, "model": "outsourced:duckie_set/staff" },
 		{ "predicate": { "custom_model_data": 33}, "model": "outsourced:duckie_set/hammer" },
 
+		{ "predicate": { "custom_model_data": 35}, "model": "fraggle:extra/fun/undead_blade" },
+		{ "predicate": { "custom_model_data": 36}, "model": "fraggle:extra/fun/carving_knife"},
+		{ "predicate": { "custom_model_data": 37}, "model": "minecraft:item/netherite_sword" },
+
 		{ "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/sword" },
 		{ "predicate": { "custom_model_data": 41}, "model": "outsourced:froggie_set/spear" },
 		{ "predicate": { "custom_model_data": 42}, "model": "outsourced:froggie_set/staff" },

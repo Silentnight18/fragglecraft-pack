@@ -24,6 +24,7 @@
 		{"predicate": {"custom_model_data":54}, "model": "outsourced:halloween/04"},
 		{"predicate": {"custom_model_data":55}, "model": "minecraft:item/paper" },
 		
+
 		{ "predicate": { "custom_model_data": 100 }, "model": "outsourced:hats/crown/iron_crown" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "outsourced:hats/crown/gold_crown" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "outsourced:hats/crown/emerald_crown" },
@@ -97,6 +98,9 @@
 		{ "predicate": { "custom_model_data": 166}, "model": "fraggle:sort/sombrero" },
 
 		{ "predicate": { "custom_model_data": 180}, "model": "outsourced:littleroom/turkey_head"},
+		{ "predicate": { "custom_model_data": 181}, "model": "fraggle:extra/fun/cornucopia1"},
+		{ "predicate": { "custom_model_data": 182}, "model": "fraggle:extra/fun/cornucopia2"},
+
 		{ "predicate": { "custom_model_data": 200}, "model": "minecraft:item/paper" },
 		
 		{ "predicate": { "custom_model_data": 1061}, "model": "fraggle/halloween2021/spirit_halloween_giftcard" },

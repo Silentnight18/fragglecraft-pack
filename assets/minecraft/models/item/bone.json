@@ -8,6 +8,7 @@
 		{ "predicate": { "custom_model_data": 1}, "model": "fraggle:extra/fun/zombie_bone_fragment1" },
 		{ "predicate": { "custom_model_data": 2}, "model": "fraggle:extra/fun/zombie_bone_fragment2" },
 		{ "predicate": { "custom_model_data": 3}, "model": "fraggle:extra/fun/zombie_bone_fragment3" },
+		{ "predicate": { "custom_model_data": 4}, "model": "fraggle:extra/fun/wishbone" },
 		{ "predicate": { "custom_model_data": 10}, "model": "minecraft:item/bone" }
 	]
 }

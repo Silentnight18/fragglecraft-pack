@@ -12,6 +12,8 @@
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/key" },
 		{ "predicate": { "custom_model_data": 31}, "model": "minecraft:item/blaze_rod" },
 
+		{ "predicate": { "custom_model_data": 35}, "model": "fraggle:extra/fun/tur_key" },
+
 		{ "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/key" },
 		{ "predicate": { "custom_model_data": 42}, "model": "fraggle:extra/fun/silents_pipe" },
 		{ "predicate": { "custom_model_data": 43}, "model": "minecraft:item/blaze_rod" },
