@@ -4,7 +4,6 @@
         "layer0": "minecraft:item/rotten_flesh"
     },
 	"overrides": [		
-		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/rotten_flesh" },
 		{ "predicate": { "custom_model_data": 3}, "model": "fraggle:extra/fun/rotten_flesh_pristine" },
 		{ "predicate": { "custom_model_data": 20}, "model": "minecraft:item/rotten_flesh" }
 	]

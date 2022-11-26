@@ -4,7 +4,6 @@
         "layer0": "minecraft:item/paper"
     },
 	"overrides": [		
-		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/paper" },
 			
 		{ "predicate": { "custom_model_data": 1}, "model": "fraggle:ui/font_button_invisible" },
 		{ "predicate": { "custom_model_data": 2}, "model": "minecraft:item/paper" },

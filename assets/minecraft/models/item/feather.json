@@ -4,7 +4,6 @@
         "layer0": "minecraft:item/feather"
     },
 	"overrides": [		
-		{ "predicate": {"custom_model_data": 0}, "model": "minecraft:item/feather" },
 		{"predicate": {"custom_model_data":100}, "model": "outsourced:duckie_set/pickaxe"},
 		{"predicate": {"custom_model_data":101}, "model": "outsourced:duckie_set/axe"},
 		{"predicate": {"custom_model_data":102}, "model": "outsourced:duckie_set/bow"},

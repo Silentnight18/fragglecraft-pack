@@ -3,8 +3,7 @@
     "textures": {
         "layer0": "minecraft:item/stick"
     },
-	"overrides": [		
-		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/stick" },
+	"overrides": [	
 		
 		{ "predicate": { "custom_model_data": 1}, "model": "minecraft:item/stick" },
 		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:extra/fun/silents_pipe" },

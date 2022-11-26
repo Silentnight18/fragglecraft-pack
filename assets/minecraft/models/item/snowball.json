@@ -4,7 +4,6 @@
         "layer0": "minecraft:item/snowball"
     },
 	"overrides": [		
-		{ "predicate": { "custom_model_data": 0}, "model": "minecraft:item/snowball" },
 		{ "predicate": { "custom_model_data": 5}, "model": "fraggle:crate_items/spawner/pokeball_empty" },
 		{ "predicate": { "custom_model_data": 6}, "model": "fraggle:crate_items/spawner/pokeball_filled" },
 		{ "predicate": { "custom_model_data": 7}, "model": "fraggle:crate_items/spawner/greatball_empty" },

@@ -4,7 +4,6 @@
         "layer0": "item/cooked_mutton"
     },
 	"overrides": [
-        { "predicate": { "custom_model_data": 0}, "model": "minecraft:item/cooked_mutton" },
 		{ "predicate": { "custom_model_data": 14}, "model": "fraggle:food/dragon_haunch_seared"},
         { "predicate": { "custom_model_data": 15}, "model": "fraggle:food/dragon_haunch_glazed"},
         { "predicate": { "custom_model_data": 16}, "model": "minecraft:item/cooked_mutton"}

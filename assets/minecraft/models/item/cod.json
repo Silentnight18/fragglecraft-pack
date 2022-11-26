@@ -4,7 +4,6 @@
         "layer0": "item/cod"
     },
 	"overrides": [
-        { "predicate": { "custom_model_data": 0}, "model": "minecraft:item/cod" },
 		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:feesh/sardine"},
         { "predicate": { "custom_model_data": 11}, "model": "fraggle:feesh/catfish_raw"},
         { "predicate": { "custom_model_data": 12}, "model": "fraggle:feesh/anchovy"},
