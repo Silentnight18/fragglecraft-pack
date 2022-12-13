@@ -12,6 +12,12 @@
 		{ "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/fishing1" },
 		{ "predicate": { "cast": 1, "custom_model_data": 40}, "model": "outsourced:froggie_set/fishing2" },
 
+		{ "predicate": { "custom_model_data": 45}, "model": "outsourced:bear_set/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 45}, "model": "outsourced:bear_set/fishing_rod_cast" },
+
+		{ "predicate": { "custom_model_data": 46}, "model": "outsourced:penguin_set/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 46}, "model": "outsourced:penguin_set/fishing_rod_cast" },
+
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/fishing" },
 		{ "predicate": { "cast": 1, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/fishing_cast" },
 		

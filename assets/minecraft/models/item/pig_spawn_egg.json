@@ -4,6 +4,8 @@
 		{"predicate": {"custom_model_data":1}, "model": "outsourced:littleroom/tipjar"},
 		{"predicate": {"custom_model_data":2}, "model": "outsourced:littleroom/pc"},
 		{"predicate": {"custom_model_data":4}, "model": "minecraft:item/cooked_chicken"},
+		{"predicate": {"custom_model_data":5}, "model": "outsourced:littleroom/xmastreebox"},
+		{"predicate": {"custom_model_data":6}, "model": "outsourced:littleroom/coffee"},
 		{"predicate": {"custom_model_data":10}, "model": "minecraft:item/template_spawn_egg"}
 	]
 }

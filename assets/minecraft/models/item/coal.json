@@ -4,6 +4,15 @@
         "layer0": "item/coal"
     },	
 	"overrides": [	
+
+	    {"predicate": {"custom_model_data":10}, "model": "fraggle/xmas2021/shard_o_coal"},
+		{"predicate": {"custom_model_data":11}, "model": "fraggle/xmas2021/lump_o_coal"},
+		{"predicate": {"custom_model_data":12}, "model": "fraggle/xmas2021/large_lump_o_coal"},
+		{"predicate": {"custom_model_data":13}, "model": "fraggle/xmas2021/hunk_o_coal"},
+		{"predicate": {"custom_model_data":14}, "model": "fraggle/xmas2021/boulder_o_coal"},
+		{"predicate": {"custom_model_data":15}, "model": "fraggle/xmas2021/cart_o_coal"},
+		{"predicate": {"custom_model_data":16}, "model": "fraggle/xmas2021/art_o_coal"},
+
 		{"predicate": {"custom_model_data":1966}, "model": "flamos_model/icon_blazing_leap"},
 		{"predicate": {"custom_model_data":1967}, "model": "flamos_model/icon_fire_immune"},
 		{"predicate": {"custom_model_data":1968}, "model": "flamos_model/icon_flame_slash"},

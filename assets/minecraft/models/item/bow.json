@@ -40,6 +40,16 @@
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 40}, "model": "outsourced:froggie_set/bow3" },
         { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 40}, "model": "outsourced:froggie_set/bow4" },
 
+        { "predicate": { "custom_model_data": 45}, "model": "outsourced:bear_set/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 45}, "model": "outsourced:bear_set/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 45}, "model": "outsourced:bear_set/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 45}, "model": "outsourced:bear_set/bow_2" },
+
+        { "predicate": { "custom_model_data": 46}, "model": "outsourced:penguin_set/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 46}, "model": "outsourced:penguin_set/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 46}, "model": "outsourced:penguin_set/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 46}, "model": "outsourced:penguin_set/bow_2" },
+
         { "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/bow" },
         { "predicate": {"pulling":1, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/bow_0" },
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/bow_1" },

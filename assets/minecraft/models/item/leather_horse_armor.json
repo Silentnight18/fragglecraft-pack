@@ -11,11 +11,8 @@
 		
 		{ "predicate": { "custom_model_data": 7}, "model": "fraggle:furniture/lights/lamppost_off" },		
 		{ "predicate": { "custom_model_data": 8}, "model": "fraggle:furniture/lights/lamppost_on" },		
-		
 		{ "predicate": { "custom_model_data": 9}, "model": "fraggle:furniture/lights/floor_lamp" },		
 		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:furniture/lights/desk_lamp" },
-		
-		
 		{ "predicate": { "custom_model_data": 11}, "model": "fraggle:furniture/tables/side_table" },	
 		
 		
@@ -26,11 +23,9 @@
 		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:furniture/wall_mounted/posters/poster_bobmarleypeace_small" },		
 		{ "predicate": { "custom_model_data": 21}, "model": "fraggle:furniture/wall_mounted/posters/poster_bobmarleypeace_medium" },		
 		{ "predicate": { "custom_model_data": 22}, "model": "fraggle:furniture/wall_mounted/posters/poster_bobmarleypeace_large" },		
-		
 		{ "predicate": { "custom_model_data": 23}, "model": "fraggle:furniture/wall_mounted/posters/poster_testpainting_small" },		
 		{ "predicate": { "custom_model_data": 24}, "model": "fraggle:furniture/wall_mounted/posters/poster_testpainting_medium" },		
 		{ "predicate": { "custom_model_data": 25}, "model": "fraggle:furniture/wall_mounted/posters/poster_testpainting_large" },	
-		
 		{ "predicate": { "custom_model_data": 26}, "model": "fraggle:furniture/wall_mounted/posters/poster_asui_small" },
 		{ "predicate": { "custom_model_data": 27}, "model": "fraggle:furniture/wall_mounted/posters/poster_todoroki_small" },	
 		
@@ -40,17 +35,12 @@
 		
 		{ "predicate": { "custom_model_data": 40}, "model": "fraggle:furniture/trash_cans/trash_can" },
 		{ "predicate": { "custom_model_data": 41}, "model": "fraggle:furniture/trash_cans/trash_can_open" },		
-		
-		
 		{ "predicate": { "custom_model_data": 42}, "model": "fraggle:furniture/blocks/16block" },		
 		{ "predicate": { "custom_model_data": 43}, "model": "fraggle:furniture/blocks/8block" },
-		
 		{ "predicate": { "custom_model_data": 44}, "model": "fraggle:furniture/misc_sort_later/gem_table" },
-		
 		{ "predicate": { "custom_model_data": 45}, "model": "fraggle:furniture/misc_sort_later/large_speaker" },	
 				
 		{ "predicate": { "custom_model_data": 50}, "model": "fraggle:furniture/dye" },
-
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:furniture/office/lamp_table_off" },
 		{ "predicate": { "custom_model_data": 52}, "model": "outsourced:furniture/office/lamp_table_on" },
 		{ "predicate": { "custom_model_data": 53}, "model": "outsourced:furniture/office/fan_off" },
@@ -62,6 +52,8 @@
 		{ "predicate": { "custom_model_data": 59}, "model": "outsourced:furniture/office/nightstand" },
 		
 
+		{ "predicate": { "custom_model_data": 68}, "model": "outsourced:penguin_set/chest" },
+		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:penguin_set/chest_opening" },
 		{ "predicate": { "custom_model_data": 70}, "model": "outsourced:duckie_set/chest" },
 		{ "predicate": { "custom_model_data": 71}, "model": "outsourced:duckie_set/chest_opening" },
 		{ "predicate": { "custom_model_data": 72}, "model": "outsourced:duckie_set/frag" },
@@ -69,26 +61,34 @@
 
 		{ "predicate": { "custom_model_data": 75}, "model": "outsourced:froggie_set/chest" },
 		{ "predicate": { "custom_model_data": 76}, "model": "outsourced:froggie_set/chestopen" },
+		{ "predicate": { "custom_model_data": 77}, "model": "outsourced:bear_set/chest" },
+		{ "predicate": { "custom_model_data": 78}, "model": "outsourced:bear_set/chest_opening" },
 
 		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:halloween/base_set/chest" },
 		{ "predicate": { "custom_model_data": 81}, "model": "outsourced:halloween/base_set/chestopen" },
 		{ "predicate": { "custom_model_data": 82}, "model": "outsourced:halloween/base_set/backpack" },
 		{ "predicate": { "custom_model_data": 83}, "model": "outsourced:halloween/base_set/bollloon" },
 		{ "predicate": { "custom_model_data": 84}, "model": "outsourced:halloween/base_set/hat" },
-
 		{ "predicate": { "custom_model_data": 85}, "model": "outsourced:halloween/saw_set/helmet" },
 		{ "predicate": { "custom_model_data": 86}, "model": "outsourced:halloween/saw_set/pumpkinsaw" },
 		{ "predicate": { "custom_model_data": 87}, "model": "outsourced:halloween/saw_set/pumpkinsawhat" },
 		{ "predicate": { "custom_model_data": 88}, "model": "outsourced:halloween/saw_set/scarecrow" },
 		{ "predicate": { "custom_model_data": 89}, "model": "outsourced:halloween/floating_spellbook" },
-
-
+		{ "predicate": { "custom_model_data": 90}, "model": "outsourced:bear_set/backpack" },
+		{ "predicate": { "custom_model_data": 91}, "model": "outsourced:penguin_set/backpack" },
+		{ "predicate": { "custom_model_data": 92}, "model": "outsourced:bear_set/flag" },
+		{ "predicate": { "custom_model_data": 93}, "model": "outsourced:penguin_set/flag" },
+		{ "predicate": { "custom_model_data": 94}, "model": "outsourced:bear_set/hood" },
+		{ "predicate": { "custom_model_data": 95}, "model": "outsourced:penguin_set/hood" },
+		{ "predicate": { "custom_model_data": 96}, "model": "outsourced:bear_set/swim_tube" },
+		{ "predicate": { "custom_model_data": 97}, "model": "outsourced:penguin_set/swim_tube" },
+		{ "predicate": { "custom_model_data": 98}, "model": "outsourced:bear_set/teddybear" },
+		{ "predicate": { "custom_model_data": 99}, "model": "outsourced:penguin_set/penguin" },
 		{ "predicate": { "custom_model_data": 100}, "model": "outsourced:hats/crown/tint_crown" },
 		{ "predicate": { "custom_model_data": 101}, "model": "fraggle:sort/white_face_mask" },
 		{ "predicate": { "custom_model_data": 102}, "model": "outsourced:hats/music/deadmau5_helmet" },
 		
-		
-		
+
 		{ "predicate": { "custom_model_data": 300}, "model": "fraggle:trees/banana_tree_empty" },
 		{ "predicate": { "custom_model_data": 301}, "model": "fraggle:trees/banana_tree_bunches_a" },
 		{ "predicate": { "custom_model_data": 302}, "model": "fraggle:trees/banana_tree_bunches_b" },
@@ -303,11 +303,109 @@
 		{"predicate": {"custom_model_data":740}, "model": "outsourced:halloween/goth/ceiling_brazier"},
 		{"predicate": {"custom_model_data":742}, "model": "outsourced:halloween/sculk/sculk_lamp"},
 
+		{"predicate": {"custom_model_data":750}, "model": "outsourced:christmas/stocking"},
+		{"predicate": {"custom_model_data":751}, "model": "outsourced:christmas/workshop/santa_toy_1"},
+		{"predicate": {"custom_model_data":752}, "model": "outsourced:christmas/workshop/santa_toy_2"},
+		{"predicate": {"custom_model_data":753}, "model": "outsourced:christmas/workshop/santa_toy_3"},
+		{"predicate": {"custom_model_data":754}, "model": "outsourced:christmas/workshop/santa_toy_4"},
+		{"predicate": {"custom_model_data":755}, "model": "outsourced:christmas/workshop/santa_toy_5"},
+		{"predicate": {"custom_model_data":756}, "model": "outsourced:christmas/workshop/santa_toy_6"},
+		{"predicate": {"custom_model_data":757}, "model": "outsourced:christmas/workshop/santa_toy_7"},
+		{"predicate": {"custom_model_data":758}, "model": "outsourced:christmas/workshop/santas_table"},
+		{"predicate": {"custom_model_data":759}, "model": "outsourced:christmas/workshop/santas_workbench"},
+		{"predicate": {"custom_model_data":760}, "model": "outsourced:christmas/magicstore/christmas_present_dye_1"},
+		{"predicate": {"custom_model_data":761}, "model": "outsourced:christmas/magicstore/christmas_present_green"},
+		{"predicate": {"custom_model_data":762}, "model": "outsourced:christmas/magicstore/christmas_present_red"},
+		{"predicate": {"custom_model_data":763}, "model": "outsourced:christmas/magicstore/christmas_long_present_red"},
+		{"predicate": {"custom_model_data":764}, "model": "outsourced:christmas/magicstore/christmas_long_present_green"},
+		{"predicate": {"custom_model_data":765}, "model": "outsourced:christmas/magicstore/christmas_long_present_dye"},
+		{"predicate": {"custom_model_data":766}, "model": "outsourced:christmas/magicstore/christmas_wreath_walls"},
+		{"predicate": {"custom_model_data":767}, "model": "outsourced:christmas/magicstore/christmas_snowman"},
+		{"predicate": {"custom_model_data":768}, "model": "outsourced:christmas/magicstore/christmas_tree"},
+		{"predicate": {"custom_model_data":769}, "model": "outsourced:christmas/magicstore/christmas_present_small_green"},
+		{"predicate": {"custom_model_data":770}, "model": "outsourced:christmas/magicstore/christmas_present_small_red"},
+		{"predicate": {"custom_model_data":771}, "model": "outsourced:christmas/magicstore/christmas_present_small_dye"},
+		{"predicate": {"custom_model_data":772}, "model": "outsourced:christmas/magicstore/christmas_wall_light"},
+		{"predicate": {"custom_model_data":773}, "model": "outsourced:christmas/magicstore/christmas_ceiling_light"},
+		{"predicate": {"custom_model_data":774}, "model": "outsourced:christmas/magicstore/christmas_sock"},
+		{"predicate": {"custom_model_data":775}, "model": "outsourced:christmas/magicstore/christmas_chiar_red_1"},
+		{"predicate": {"custom_model_data":776}, "model": "outsourced:christmas/magicstore/christmas_chiar_green_1"},
+		{"predicate": {"custom_model_data":777}, "model": "outsourced:christmas/magicstore/christmas_chiar_dye_1"},
+		{"predicate": {"custom_model_data":778}, "model": "outsourced:christmas/magicstore/christmas_table_1"},
+		{"predicate": {"custom_model_data":779}, "model": "outsourced:christmas/magicstore/christmas_table_2"},
+		{"predicate": {"custom_model_data":780}, "model": "outsourced:christmas/magicstore/christmas_foot_table_red"},
+		{"predicate": {"custom_model_data":781}, "model": "outsourced:christmas/magicstore/christmas_foot_table_green"},
+		{"predicate": {"custom_model_data":782}, "model": "outsourced:christmas/magicstore/christmas_foot_table_dye"},
+		{"predicate": {"custom_model_data":783}, "model": "outsourced:christmas/magicstore/christmas_santa_cart"},
+		{"predicate": {"custom_model_data":784}, "model": "outsourced:christmas/magicstore/christmas_wall_1"},
+		{"predicate": {"custom_model_data":785}, "model": "outsourced:christmas/magicstore/christmas_block_snow"},
+		{"predicate": {"custom_model_data":786}, "model": "outsourced:christmas/magicstore/christmas_candy_red"},
+		{"predicate": {"custom_model_data":787}, "model": "outsourced:christmas/magicstore/christmas_candy_dye"},
+		{"predicate": {"custom_model_data":788}, "model": "outsourced:christmas/magicstore/christmas_snowball"},
+		{"predicate": {"custom_model_data":789}, "model": "outsourced:littleroom/lr_santa_sleigh"},
+		{"predicate": {"custom_model_data":790}, "model": "outsourced:littleroom/lr_presents"},
+		{"predicate": {"custom_model_data":791}, "model": "outsourced:littleroom/lr_santa_hat"},
+		{"predicate": {"custom_model_data":792}, "model": "outsourced:littleroom/lr_santa_disguise"},
+		{"predicate": {"custom_model_data":793}, "model": "outsourced:christmas/yungwilder/fur_cap_green" },
+		{"predicate": {"custom_model_data":794}, "model": "outsourced:christmas/yungwilder/fur_cap_red" },
+		{"predicate": {"custom_model_data":795}, "model": "outsourced:christmas/yungwilder/giftbox_backpack_green" },
+		{"predicate": {"custom_model_data":796}, "model": "outsourced:christmas/yungwilder/giftbox_backpack_red" },
+		{"predicate": {"custom_model_data":797}, "model": "outsourced:christmas/yungwilder/snowflake_sunglasses" },
+		{"predicate": {"custom_model_data":798}, "model": "outsourced:christmas/yungwilder/winter_scarf_green" },
+		{"predicate": {"custom_model_data":799}, "model": "outsourced:christmas/yungwilder/winter_scarf_red" },
+		{"predicate": {"custom_model_data":800}, "model": "outsourced:christmas/yungwilder/giftbox_prop_green" },
+		{"predicate": {"custom_model_data":801}, "model": "outsourced:christmas/yungwilder/giftbox_prop_red" },
+		{"predicate": {"custom_model_data":802}, "model": "outsourced:christmas/extra/359"},
+		{"predicate": {"custom_model_data":803}, "model": "outsourced:christmas/extra/359b"},
+		{"predicate": {"custom_model_data":804}, "model": "outsourced:christmas/extra/360"},
+		{"predicate": {"custom_model_data":805}, "model": "outsourced:christmas/extra/360b"},
+		{"predicate": {"custom_model_data":806}, "model": "outsourced:christmas/extra/362"},
+		{"predicate": {"custom_model_data":807}, "model": "outsourced:christmas/extra/363"},
+		{"predicate": {"custom_model_data":808}, "model": "outsourced:christmas/extra/364"},
+		{"predicate": {"custom_model_data":809}, "model": "outsourced:christmas/extra/365"},
+		{"predicate": {"custom_model_data":810}, "model": "outsourced:christmas/extra/366"},
+		{"predicate": {"custom_model_data":811}, "model": "outsourced:christmas/extra/367"},
+		{"predicate": {"custom_model_data":812}, "model": "outsourced:christmas/extra/bs_ice_bench"},
+		{"predicate": {"custom_model_data":813}, "model": "outsourced:christmas/extra/bs_ice_chair"},
+		{"predicate": {"custom_model_data":814}, "model": "outsourced:christmas/extra/bs_ice_couch"},
+		{"predicate": {"custom_model_data":815}, "model": "outsourced:christmas/extra/bs_ice_end_table"},
+		{"predicate": {"custom_model_data":816}, "model": "outsourced:christmas/extra/bs_ice_horizontal_shelf"},
+		{"predicate": {"custom_model_data":817}, "model": "outsourced:christmas/extra/bs_ice_horizontal_shelf_long"},
+		{"predicate": {"custom_model_data":818}, "model": "outsourced:christmas/extra/bs_ice_table"},
+		{"predicate": {"custom_model_data":819}, "model": "outsourced:christmas/extra/bs_ice_vertical_shelf"},
+
 		{ "predicate": { "custom_model_data": 1000}, "model": "fraggle:food/furniture/drink_keg_closed" },
 		{ "predicate": { "custom_model_data": 1001}, "model": "fraggle:food/furniture/drink_keg_open" },
 
 		{ "predicate": { "custom_model_data": 1005}, "model": "fraggle:food/furniture/drink_keg_closed" },
 		{ "predicate": { "custom_model_data": 1006}, "model": "fraggle:food/furniture/drink_keg_open" },
+
+		{ "predicate": { "custom_model_data": 1010}, "model": "outsourced:duckie_set/plushie/rduck_3dglasses" },
+		{ "predicate": { "custom_model_data": 1011}, "model": "outsourced:duckie_set/plushie/rduck_astro" },
+		{ "predicate": { "custom_model_data": 1012}, "model": "outsourced:duckie_set/plushie/rduck_boater" },
+		{ "predicate": { "custom_model_data": 1013}, "model": "outsourced:duckie_set/plushie/rduck_bride" },
+		{ "predicate": { "custom_model_data": 1014}, "model": "outsourced:duckie_set/plushie/rduck_chef" },
+		{ "predicate": { "custom_model_data": 1015}, "model": "outsourced:duckie_set/plushie/rduck_construction" },
+		{ "predicate": { "custom_model_data": 1016}, "model": "outsourced:duckie_set/plushie/rduck_cowboyhat" },
+		{ "predicate": { "custom_model_data": 1017}, "model": "outsourced:duckie_set/plushie/rduck_daisy" },
+		{ "predicate": { "custom_model_data": 1018}, "model": "outsourced:duckie_set/plushie/rduck_disco" },
+		{ "predicate": { "custom_model_data": 1019}, "model": "outsourced:duckie_set/plushie/rduck_farmerhat" },
+		{ "predicate": { "custom_model_data": 1020}, "model": "outsourced:duckie_set/plushie/rduck_glasses" },
+		{ "predicate": { "custom_model_data": 1021}, "model": "outsourced:duckie_set/plushie/rduck_grandma" },
+		{ "predicate": { "custom_model_data": 1022}, "model": "outsourced:duckie_set/plushie/rduck_grandpa" },
+		{ "predicate": { "custom_model_data": 1023}, "model": "outsourced:duckie_set/plushie/rduck_miner" },
+		{ "predicate": { "custom_model_data": 1024}, "model": "outsourced:duckie_set/plushie/rduck_nerdglasses" },
+		{ "predicate": { "custom_model_data": 1025}, "model": "outsourced:duckie_set/plushie/rduck_original" },
+		{ "predicate": { "custom_model_data": 1026}, "model": "outsourced:duckie_set/plushie/rduck_pirate" },
+		{ "predicate": { "custom_model_data": 1027}, "model": "outsourced:duckie_set/plushie/rduck_soldier" },
+		{ "predicate": { "custom_model_data": 1028}, "model": "outsourced:duckie_set/plushie/rduck_sunflower" },
+		{ "predicate": { "custom_model_data": 1029}, "model": "outsourced:duckie_set/plushie/rduck_top_hat" },
+		{ "predicate": { "custom_model_data": 1030}, "model": "outsourced:duckie_set/plushie/rduck_tuxedo" },
+
+		{ "predicate": { "custom_model_data": 1031}, "model": "outsourced:littleroom/plushie/pet_ghastling_statue" },
+		{ "predicate": { "custom_model_data": 1032}, "model": "outsourced:littleroom/plushie/giant_garden_snail_statue" },
+		{ "predicate": { "custom_model_data": 1033}, "model": "outsourced:littleroom/plushie/giant_lava_snail_statue" },
+		{ "predicate": { "custom_model_data": 1034}, "model": "outsourced:littleroom/plushie/chameleon_statue" },
 
 
 		{ "predicate": { "custom_model_data": 1200}, "model": "fraggle:furniture/events/oktoberfest/blue_banner_wall" },

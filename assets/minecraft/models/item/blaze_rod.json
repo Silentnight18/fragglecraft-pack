@@ -17,6 +17,9 @@
 		{ "predicate": { "custom_model_data": 42}, "model": "fraggle:extra/fun/silents_pipe" },
 		{ "predicate": { "custom_model_data": 43}, "model": "minecraft:item/blaze_rod" },
 
+		{ "predicate": { "custom_model_data": 45}, "model": "outsourced:bear_set/key" },
+		{ "predicate": { "custom_model_data": 46}, "model": "outsourced:penguin_set/key" },
+
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/key" },
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/goth/goth_key" },
 		{ "predicate": { "custom_model_data": 52}, "model": "fraggle:extra/fun/hallow_boss_key" },

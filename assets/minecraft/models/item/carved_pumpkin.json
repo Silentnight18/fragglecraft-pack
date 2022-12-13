@@ -6,6 +6,7 @@
 	{ "predicate": { "custom_model_data": 1001}, "model": "outsourced:littleroom/direwolfheadtaiga" },	
 	{ "predicate": { "custom_model_data": 1002}, "model": "outsourced:littleroom/direwolfheaddesert" },	
 
+	{ "predicate": { "custom_model_data": 1199}, "model": "outsourced:littleroom/penguinhat" },	
 	{ "predicate": { "custom_model_data": 1200}, "model": "fraggle/xmas2021/hats/santa_hat/santa_hat" },	
 	{ "predicate": { "custom_model_data": 1201}, "model": "fraggle/xmas2021/hats/santa_hat/santa_hat_2" },	
 

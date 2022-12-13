@@ -6,6 +6,8 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/hoe" },
 		{ "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/hoe" },
+		{ "predicate": { "custom_model_data": 45}, "model": "outsourced:bear_set/hoe" },
+		{ "predicate": { "custom_model_data": 46}, "model": "outsourced:penguin_set/hoe" },
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/hoe" },
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_hoe" },
 		{ "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/hoe" },

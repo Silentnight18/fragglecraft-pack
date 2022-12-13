@@ -5,8 +5,8 @@
     },
 	"overrides": [		
 			
-		{ "predicate": { "custom_model_data": 1}, "model": "fraggle:ui/font_button_invisible" },
-		{ "predicate": { "custom_model_data": 2}, "model": "minecraft:item/paper" },
+		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:ui/font_button_invisible" },
+		{ "predicate": { "custom_model_data": 21}, "model": "minecraft:item/paper" },
 		
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/backpack" },
 		{ "predicate": { "custom_model_data": 31}, "model": "outsourced:duckie_set/hood" },
@@ -139,6 +139,19 @@
 		{"predicate": {"custom_model_data":1946}, "model": "flamos_model/flamos_inferno_wheel_8"},
 		{"predicate": {"custom_model_data":1947}, "model": "flamos_model/flamos_inferno_wheel_9"},
 		{"predicate": {"custom_model_data":1948}, "model": "flamos_model/flamos_inferno_wheel_10"},
+		{"predicate": {"custom_model_data":1949}, "model": "outsourced:christmas/samus/evergreen"},
+		{"predicate": {"custom_model_data":1950}, "model": "outsourced:christmas/samus/gift_box_1"},
+		{"predicate": {"custom_model_data":1951}, "model": "outsourced:christmas/samus/gift_box_2"},
+		{"predicate": {"custom_model_data":1952}, "model": "outsourced:christmas/samus/gift_box_3"},
+		{"predicate": {"custom_model_data":1953}, "model": "outsourced:christmas/samus/head_elf"},
+		{"predicate": {"custom_model_data":1954}, "model": "outsourced:christmas/samus/head_reindeer"},
+		{"predicate": {"custom_model_data":1955}, "model": "outsourced:christmas/samus/head_snow_owl"},
+		{"predicate": {"custom_model_data":1956}, "model": "outsourced:christmas/samus/head_snowman"},
+		{"predicate": {"custom_model_data":1957}, "model": "outsourced:christmas/samus/head_yeti"},
+		{"predicate": {"custom_model_data":1958}, "model": "outsourced:christmas/samus/icon_candy_cane_smash"},
+		{"predicate": {"custom_model_data":1959}, "model": "outsourced:christmas/samus/icon_evergreen_heal"},
+		{"predicate": {"custom_model_data":1960}, "model": "outsourced:christmas/samus/icon_gift_cannon"},
+		{"predicate": {"custom_model_data":1961}, "model": "outsourced:christmas/samus/icon_reindeer_dash"},
 
 		{"predicate": {"custom_model_data":7777}, "model": "house_pets_model/dog_treat"},
 		{"predicate": {"custom_model_data":7778}, "model": "house_pets_model/dog_bowl"},
