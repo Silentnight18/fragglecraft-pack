@@ -48,9 +48,17 @@
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 30}, "model": "outsourced:duckie_set/shield_blocking" },
 
+        { "predicate": { "custom_model_data": 34}, "model": "outsourced:christmas/yungwilder/snowflake_shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 34}, "model": "outsourced:christmas/yungwilder/snowflake_shield_blocking" },
+
         { "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/shield1" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 40}, "model": "outsourced:froggie_set/shield2" },
 
+        { "predicate": { "custom_model_data": 45}, "model": "outsourced:bear_set/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 45}, "model": "outsourced:bear_set/shield_blocking" },
+        
+        { "predicate": { "custom_model_data": 46}, "model": "outsourced:penguin_set/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 46}, "model": "outsourced:penguin_set/shield_blocking" },
         
         { "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/shield_blocking" },

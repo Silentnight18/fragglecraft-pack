@@ -643,6 +643,283 @@
 	"sounds": [
 	   "outsourced:littleroom/turkey/woosh"
 	]
-}
+},
+"littleroom.chocobo.chocobo1":{
+	"sounds": [
+	   "outsourced:littleroom/chocobo/chocobo1"
+	]
+},
+"littleroom.santa.swing1":{
+	"sounds": [
+	   "outsourced:littleroom/santa/swing1"
+	]
+},
+"littleroom.santa.swing2":{
+	"sounds": [
+	   "outsourced:littleroom/santa/swing2"
+	]
+},
+"littleroom.santa.swing3":{
+	"sounds": [
+	   "outsourced:littleroom/santa/swing3"
+	]
+},
+"littleroom.santa.swing4":{
+	"sounds": [
+	   "outsourced:littleroom/santa/swing4"
+	]
+},
+"littleroom.santa.swing5":{
+	"sounds": [
+	   "outsourced:littleroom/santa/swing5"
+	]
+},
+"littleroom.santa.impact1":{
+	"sounds": [
+	   "outsourced:littleroom/santa/impact1"
+	]
+},
+"littleroom.santa.impact2":{
+	"sounds": [
+	   "outsourced:littleroom/santa/impact2"
+	]
+},
+"littleroom.santa.impact3":{
+	"sounds": [
+	   "outsourced:littleroom/santa/impact3"
+	]
+},
+"littleroom.santa.impact4":{
+	"sounds": [
+	   "outsourced:littleroom/santa/impact4"
+	]
+},
+"littleroom.santa.sleigh":{
+	"sounds": [
+	   "outsourced:littleroom/santa/sleigh"
+	]
+},
+"littleroom.santa.sleigh_hit":{
+	"sounds": [
+	   "outsourced:littleroom/santa/sleigh_hit"
+	]
+},
+"littleroom.santa.santa_vox1":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_vox1"
+	]
+},
+"littleroom.santa.santa_vox2":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_vox2"
+	]
+},
+"littleroom.santa.santa_vox3":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_vox3"
+	]
+},
+"littleroom.santa.santa_vox4":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_vox4"
+	]
+},
+"littleroom.santa.santa_vox5":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_vox5"
+	]
+},
+"littleroom.santa.santa_vox6":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_vox6"
+	]
+},
+"littleroom.santa.santa_vox7":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_vox7"
+	]
+},
+"littleroom.santa.santa_pain1":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_pain1"
+	]
+},
+"littleroom.santa.santa_pain2":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_pain2"
+	]
+},
+"littleroom.santa.santa_pain3":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_pain3"
+	]
+},
+"littleroom.santa.santa_pain4":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_pain4"
+	]
+},
+"littleroom.santa.santa_pain5":{
+	"sounds": [
+	   "outsourced:littleroom/santa/santa_pain5"
+	]
+},
+"littleroom.arcade.botw":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/botw"
+	]
+},
+"littleroom.arcade.chronotrigger":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/chronotrigger"
+	]
+},
+"littleroom.arcade.digdug":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/digdug"
+	]
+},
+"littleroom.arcade.doom":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/doom"
+	]
+},
+"littleroom.arcade.gearsofwar":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/gearsofwar"
+	]
+},
+"littleroom.arcade.halflife":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/halflife"
+	]
+},
+"littleroom.arcade.katamari":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/katamari"
+	]
+},
+"littleroom.arcade.left4dead2":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/left4dead2"
+	]
+},
+"littleroom.arcade.minecraft":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/minecraft"
+	]
+},
+"littleroom.arcade.mortalkombat":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/mortalkombat"
+	]
+},
+"littleroom.arcade.pacman":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/pacman"
+	]
+},
+"littleroom.arcade.vtmb":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/arcade/vtmb"
+	]
+},
+"littleroom.vendingmachine":{
+	"sounds": [
+	   "outsourced:littleroom/showcase/vendingmachine"
+	]
+},
+"grinch.cookieeat":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_cookieeat","stream": false}]},
+     "grinch.cookietake":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_cookietake","stream": false}]},
+     "grinch.garlandhit":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_garlandhit","stream": false}]},
+     "grinch.garlandthrow":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_garlandthrow","stream": false}]},
+     "grinch.idle1":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_idle1","stream": false}]},
+     "grinch.idle2":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_idle2","stream": false}]},
+     "grinch.sphereattack":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_sphereattack","stream": false}]},
+     "grinch.spherehit":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_spherehit","stream": false}]},
+     "grinch.treeattack":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_treeattack","stream": false}]},
+     "grinch.treehit":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_treehit","stream": false}]},
+     "grinch.hurt":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_hurt","stream": false}]},
+     "grinch.death":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_death","stream": false}]},
+     "grinch.treethrow":
+	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_treethrow","stream": false}]},
 
+	 "samus.candy_cane_smash": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_skills/candy_cane_smash"
+		]
+	  },
+	  "samus.evergreen_heal": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_skills/evergreen_heal"
+		]
+	  },
+	  "samus.gift_cannon": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_skills/gift_cannon"
+		]
+	  },
+	  "samus.reindeer_scream": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_skills/reindeer_scream"
+		]
+	  },
+	  "samus.reindeer_dash_aura": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_skills/reindeer_dash_aura"
+		]
+	  },
+	  "samus.owl_idle": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_pets/owl_idle"
+		]
+	  },
+	  "samus.owl_skill": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_pets/owl_skill"
+		]
+	  },
+	  "samus.reindeer_idle": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_pets/reindeer_idle"
+		]
+	  },
+	  "samus.snow_owl_skill": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_pets/snow_owl_skill"
+		]
+	  },
+	  "samus.yeti_idle": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_pets/yeti_idle"
+		]
+	  },
+	  "samus.yeti_skill": {
+		"category": "master",
+		"sounds": [
+		  "outsourced:samus/christmas_pets/yeti_skill"
+		]
+	  }
 }
