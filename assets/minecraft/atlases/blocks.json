@@ -1,0 +1,158 @@
+{
+    "sources": [		
+		{
+            "type": "directory",
+            "source": "fraggle",
+            "prefix": "fraggle/"
+        },			
+        {
+            "type": "directory",
+            "source": "flamos_texture",
+            "prefix": "flamos_texture/"
+        },			
+        {
+            "type": "directory",
+            "source": "house_pets_texture",
+            "prefix": "house_pets_texture/"
+        },			
+        {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        },			
+        {
+            "type": "directory",
+            "source": "models",
+            "prefix": "models/"
+        },	
+		
+        {
+            "type": "directory",
+            "source": "crate_items",
+            "prefix": "crate_items/"
+        },		
+		{
+            "type": "directory",
+            "source": "extra",
+            "prefix": "extra/"
+        },		
+		{
+            "type": "directory",
+            "source": "food",
+            "prefix": "food/"
+        },		
+		{
+            "type": "directory",
+            "source": "furniture",
+            "prefix": "furniture/"
+        },		
+		{
+            "type": "directory",
+            "source": "skills",
+            "prefix": "skills/"
+        },		
+		{
+            "type": "directory",
+            "source": "sort",
+            "prefix": "sort/"
+        },		
+		{
+            "type": "directory",
+            "source": "trees",
+            "prefix": "trees/"
+        },		
+		{
+            "type": "directory",
+            "source": "ui",
+            "prefix": "ui/"
+        },		
+		
+		{
+            "type": "directory",
+            "source": "bear_set",
+            "prefix": "bear_set/"
+        },			
+        {
+            "type": "directory",
+            "source": "birthday",
+            "prefix": "birthday/"
+        },			
+        {
+            "type": "directory",
+            "source": "christmas",
+            "prefix": "christmas/"
+        },			
+        {
+            "type": "directory",
+            "source": "duckie_set",
+            "prefix": "duckie_set/"
+        },			
+        {
+            "type": "directory",
+            "source": "feesh",
+            "prefix": "feesh/"
+        },			
+        {
+            "type": "directory",
+            "source": "froggie_set",
+            "prefix": "froggie_set/"
+        },			
+        {
+            "type": "directory",
+            "source": "guns",
+            "prefix": "guns/"
+        },			
+        {
+            "type": "directory",
+            "source": "halloween",
+            "prefix": "halloween/"
+        },			
+        {
+            "type": "directory",
+            "source": "hats",
+            "prefix": "hats/"
+        },			
+        {
+            "type": "directory",
+            "source": "littleroom",
+            "prefix": "littleroom/"
+        },			
+        {
+            "type": "directory",
+            "source": "penguin_set",
+            "prefix": "penguin_set/"
+        },			
+        {
+            "type": "directory",
+            "source": "pixelsonpoint",
+            "prefix": "pixelsonpoint/"
+        },			
+        {
+            "type": "directory",
+            "source": "samus",
+            "prefix": "samus/"
+        },			
+        {
+            "type": "directory",
+            "source": "weapons",
+            "prefix": "weapons/"
+        },	
+		
+        {
+            "type": "directory",
+            "source": "halloween_pack",
+            "prefix": "halloween_pack/"
+        },			
+        {
+            "type": "directory",
+            "source": "winter_pack",
+            "prefix": "winter_pack/"
+        },
+		
+		{
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        }
+    ]
+}
