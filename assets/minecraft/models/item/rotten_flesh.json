@@ -5,6 +5,9 @@
     },
 	"overrides": [		
 		{ "predicate": { "custom_model_data": 3}, "model": "fraggle:extra/fun/rotten_flesh_pristine" },
+        { "predicate": { "custom_model_data": 10}, "model": "fraggle:extra/fun/jack_prism" },
+        { "predicate": { "custom_model_data": 11}, "model": "fraggle:extra/fun/jane_prism" },
+        { "predicate": { "custom_model_data": 12}, "model": "fraggle:extra/fun/unisex_prism" },
 		{ "predicate": { "custom_model_data": 20}, "model": "minecraft:item/rotten_flesh" }
 	]
 }

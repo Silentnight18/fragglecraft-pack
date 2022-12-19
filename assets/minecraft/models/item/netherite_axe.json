@@ -21,11 +21,12 @@
 		{ "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/axe" },
 		{ "predicate": { "custom_model_data": 45}, "model": "outsourced:bear_set/axe" },
 		{ "predicate": { "custom_model_data": 46}, "model": "outsourced:penguin_set/axe" },
-
+		{ "predicate": { "custom_model_data": 47}, "model": "outsourced:christmas/set1/axe" },
+		{ "predicate": { "custom_model_data": 48}, "model": "outsourced:christmas/set2/axe" },
+		{ "predicate": { "custom_model_data": 49}, "model": "outsourced:christmas/set3/xmas_flow_axe" },
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/axe" },
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_axe" },
 		{ "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/axe" },
-
 		{ "predicate": { "custom_model_data": 53}, "model": "outsourced:pixelsonpoint/thanksgiving_axe" },
 		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_axe" },
 		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_axe" },

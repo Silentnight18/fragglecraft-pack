@@ -27,7 +27,8 @@
 		{ "predicate": { "custom_model_data": 35}, "model": "fraggle:extra/fun/undead_blade" },
 		{ "predicate": { "custom_model_data": 36}, "model": "fraggle:extra/fun/carving_knife"},
 		{ "predicate": { "custom_model_data": 37}, "model": "outsourced:christmas/samus/santa_staff" },
-
+		{ "predicate": { "custom_model_data": 38}, "model": "outsourced:christmas/set3/xmas_flow_sword" },
+		{ "predicate": { "custom_model_data": 39}, "model": "outsourced:christmas/set3/xmas_flow_staff" },
 		{ "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/sword" },
 		{ "predicate": { "custom_model_data": 41}, "model": "outsourced:froggie_set/spear" },
 		{ "predicate": { "custom_model_data": 42}, "model": "outsourced:froggie_set/staff" },
@@ -49,11 +50,24 @@
 		{ "predicate": { "custom_model_data": 58}, "model": "outsourced:pixelsonpoint/thanksgiving_sword" },
 		{ "predicate": { "custom_model_data": 59}, "model": "outsourced:pixelsonpoint/blackfriday_sword" },
 		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:pixelsonpoint/christmas_sword" },
-
 		{ "predicate": { "custom_model_data": 61}, "model": "outsourced:penguin_set/sword" },
 		{ "predicate": { "custom_model_data": 62}, "model": "outsourced:penguin_set/spear" },
 		{ "predicate": { "custom_model_data": 63}, "model": "outsourced:penguin_set/staff" },
 		{ "predicate": { "custom_model_data": 64}, "model": "outsourced:penguin_set/hammer" },
+		{ "predicate": { "custom_model_data": 65}, "model": "outsourced:christmas/set1/sword" },
+		{ "predicate": { "custom_model_data": 66}, "model": "outsourced:christmas/set1/spear" },
+		{ "predicate": { "custom_model_data": 67}, "model": "outsourced:christmas/set1/staff" },
+		{ "predicate": { "custom_model_data": 68}, "model": "outsourced:christmas/set1/hammer" },
+		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:christmas/set1/trident" },
+		{ "predicate": { "custom_model_data": 70}, "model": "outsourced:christmas/set1/baton" },
+		{ "predicate": { "custom_model_data": 71}, "model": "outsourced:christmas/set2/sword" },
+		{ "predicate": { "custom_model_data": 72}, "model": "outsourced:christmas/set2/spear" },
+		{ "predicate": { "custom_model_data": 73}, "model": "outsourced:christmas/set2/staff" },
+		{ "predicate": { "custom_model_data": 74}, "model": "outsourced:christmas/set2/hammer" },
+		{ "predicate": { "custom_model_data": 75}, "model": "outsourced:christmas/set2/greatsword" },
+		{ "predicate": { "custom_model_data": 76}, "model": "outsourced:christmas/set2/scythe" },
+		{ "predicate": { "custom_model_data": 77}, "model": "outsourced:christmas/set2/trident" },
+
 
 		{"predicate": {"custom_model_data":600}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 		

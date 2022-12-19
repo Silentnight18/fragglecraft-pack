@@ -5,8 +5,8 @@
     },
 	"overrides": [		
 			
-		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:ui/font_button_invisible" },
-		{ "predicate": { "custom_model_data": 21}, "model": "minecraft:item/paper" },
+		{ "predicate": { "custom_model_data": 15}, "model": "fraggle:ui/font_button_invisible" },
+		{ "predicate": { "custom_model_data": 16}, "model": "minecraft:item/paper" },
 		
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/backpack" },
 		{ "predicate": { "custom_model_data": 31}, "model": "outsourced:duckie_set/hood" },
