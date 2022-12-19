@@ -5,6 +5,9 @@
     },
 	"overrides": [					
 		{ "predicate": { "custom_model_data": 20}, "model": "fraggle:food/raw_dough" },
-		{ "predicate": { "custom_model_data": 21}, "model": "minecraft:item/bread" }
+        { "predicate": { "custom_model_data": 21}, "model": "fraggle:extra/fun/gingerbread_dough" },
+        { "predicate": { "custom_model_data": 22}, "model": "minecraft:item/bread" },
+        { "predicate": { "custom_model_data": 30}, "model": "fraggle:extra/fun/cinnamon" },
+		{ "predicate": { "custom_model_data": 31}, "model": "minecraft:item/bread" }
 	]
 }

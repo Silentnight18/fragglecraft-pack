@@ -17,6 +17,10 @@
 
 		{ "predicate": { "custom_model_data": 46}, "model": "outsourced:penguin_set/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 46}, "model": "outsourced:penguin_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 47}, "model": "outsourced:christmas/set1/fishing" },
+		{ "predicate": { "cast": 1, "custom_model_data": 47}, "model": "outsourced:christmas/set1/fishing_cast" },
+		{ "predicate": { "custom_model_data": 48}, "model": "outsourced:christmas/set2/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 48}, "model": "outsourced:christmas/set2/fishing_rod_cast" },
 
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/fishing" },
 		{ "predicate": { "cast": 1, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/fishing_cast" },

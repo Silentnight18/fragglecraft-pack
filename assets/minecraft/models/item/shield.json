@@ -59,6 +59,12 @@
         
         { "predicate": { "custom_model_data": 46}, "model": "outsourced:penguin_set/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 46}, "model": "outsourced:penguin_set/shield_blocking" },
+        { "predicate": { "custom_model_data": 47}, "model": "outsourced:christmas/yungwilder/snowflake_shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 47}, "model": "outsourced:christmas/yungwilder/snowflake_shield_blocking" },
+        { "predicate": { "custom_model_data": 48}, "model": "outsourced:christmas/set2/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 48}, "model": "outsourced:christmas/set2/shield_blocking" },
+        { "predicate": { "custom_model_data": 49}, "model": "outsourced:christmas/set3/xmas_flow_shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 49}, "model": "outsourced:christmas/set3/xmas_flow_shield_blocking" },
         
         { "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/shield_blocking" },

@@ -19,6 +19,8 @@
 
 		{ "predicate": { "custom_model_data": 45}, "model": "outsourced:bear_set/key" },
 		{ "predicate": { "custom_model_data": 46}, "model": "outsourced:penguin_set/key" },
+		{ "predicate": { "custom_model_data": 47}, "model": "outsourced:christmas/set1/key" },
+		{ "predicate": { "custom_model_data": 48}, "model": "outsourced:christmas/set2/key" },
 
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/key" },
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/goth/goth_key" },
