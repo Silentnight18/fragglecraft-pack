@@ -415,6 +415,7 @@
 		{"predicate": {"custom_model_data":859}, "model": "outsourced:christmas/set2/chest_opening" },
 		{"predicate": {"custom_model_data":860}, "model": "outsourced:christmas/set2/wings" },
 		{"predicate": {"custom_model_data":861}, "model": "outsourced:christmas/set1/backpack" },
+		{"predicate": {"custom_model_data":862}, "model": "outsourced:christmas/elf_on_shelf" },
 		
 
 		{ "predicate": { "custom_model_data": 1000}, "model": "fraggle:food/furniture/drink_keg_closed" },

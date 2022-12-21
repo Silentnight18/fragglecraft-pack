@@ -1,0 +1,6 @@
+{
+    "parent": "fraggle:extra/nubx/traincarts_carriage_full",
+    "textures": {
+        "main": "fraggle:extra/nubx/traincarts_carriage_red_full"
+    }
+}

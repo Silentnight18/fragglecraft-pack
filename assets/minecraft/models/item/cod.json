@@ -43,7 +43,18 @@
 		{ "predicate": { "custom_model_data": 46}, "model": "fraggle:feesh/electric_eel" },
 
 
-        { "predicate": { "custom_model_data": 47}, "model": "minecraft:item/cod" }
+        { "predicate": { "custom_model_data": 47}, "model": "minecraft:item/cod" },
+		{ "predicate": { "custom_model_data": 1225}, "model": "fraggle:extra/fun/coalcarp" },
+		{ "predicate": { "custom_model_data": 1227}, "model": "fraggle:extra/fun/glacialguppy" },
+		{ "predicate": { "custom_model_data": 1228}, "model": "minecraft:item/cod" },
+		{ "predicate": { "custom_model_data": 1233}, "model": "fraggle:extra/fun/gumdropfish" },
+		{ "predicate": { "custom_model_data": 1234}, "model": "minecraft:item/cod" },
+		{ "predicate": { "custom_model_data": 1263}, "model": "fraggle:extra/fun/frostyflagtail" },
+		{ "predicate": { "custom_model_data": 1264}, "model": "minecraft:item/cod" },
+		{ "predicate": { "custom_model_data": 1275}, "model": "fraggle:extra/fun/glacierfish" },
+		{ "predicate": { "custom_model_data": 1276}, "model": "minecraft:item/cod" },
+		
+		{ "predicate": { "custom_model_data": 1300}, "model": "minecraft:item/cod" }
 
 	]
 }

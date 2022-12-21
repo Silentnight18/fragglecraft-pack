@@ -8,6 +8,14 @@
         { "predicate": { "custom_model_data": 10}, "model": "fraggle:extra/fun/jack_prism" },
         { "predicate": { "custom_model_data": 11}, "model": "fraggle:extra/fun/jane_prism" },
         { "predicate": { "custom_model_data": 12}, "model": "fraggle:extra/fun/unisex_prism" },
-		{ "predicate": { "custom_model_data": 20}, "model": "minecraft:item/rotten_flesh" }
+		{ "predicate": { "custom_model_data": 20}, "model": "minecraft:item/rotten_flesh" },
+        {"predicate": {"custom_model_data": 120}, "model": "fraggle:extra/fun/cookie_man_uncooked" },
+        {"predicate": {"custom_model_data": 121}, "model": "fraggle:extra/fun/cookie_sword_uncooked" },
+        {"predicate": {"custom_model_data": 122}, "model": "fraggle:extra/fun/cookie_carrot_uncooked" },
+        {"predicate": {"custom_model_data": 123}, "model": "fraggle:extra/fun/cookie_cube_uncooked" },
+        {"predicate": {"custom_model_data": 124}, "model": "fraggle:extra/fun/cookie_creeper_uncooked" },
+        {"predicate": {"custom_model_data": 125}, "model": "fraggle:extra/fun/cookie_fraggle_uncooked" },
+        {"predicate": {"custom_model_data": 126}, "model": "fraggle:extra/fun/cookie_heart_uncooked" },
+        { "predicate": { "custom_model_data": 130}, "model": "minecraft:item/rotten_flesh" }
 	]
 }
