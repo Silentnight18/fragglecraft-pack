@@ -1,0 +1,7 @@
+{
+    "parent": "fraggle:extra/maxi/coaster_cart_base",
+	"credit": "Made with heart by Max_I",
+    "textures": {
+        "main": "fraggle:extra/maxi/concrete_lime"
+    }
+}
