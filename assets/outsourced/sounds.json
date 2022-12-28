@@ -921,5 +921,200 @@
 		"sounds": [
 		  "outsourced:samus/christmas_pets/yeti_skill"
 		]
-	  }
+	  },
+	  "littleroom.yeti.impact1":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/impact1"
+		]
+		},
+  "littleroom.yeti.impact2":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/impact2"
+		]
+		},
+  "littleroom.yeti.impact3":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/impact3"
+		]
+		},
+  "littleroom.yeti.impact4":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/impact4"
+		]
+		},
+  "littleroom.yeti.swing1":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/swing1"
+		]
+		},
+  "littleroom.yeti.swing2":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/swing2"
+		]
+		},
+  "littleroom.yeti.swing3":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/swing3"
+		]
+		},
+  "littleroom.yeti.swing4":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/swing4"
+		]
+		},
+  "littleroom.yeti.swing5":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/swing5"
+		]
+		},
+  "littleroom.yeti.ground_impact1":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/ground_impact1"
+		]
+		},
+  "littleroom.yeti.ground_impact2":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/ground_impact2"
+		]
+		},
+  "littleroom.yeti.snowball_impact":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/snowball_impact"
+		]
+		},
+  "littleroom.yeti.snowball_roll":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/snowball_roll"
+		]
+		},
+  "littleroom.yeti.yeti_dig":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/yeti_dig"
+		]
+		},
+  "littleroom.yeti.yeti_wind":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/yeti_wind"
+		]
+		},
+  "littleroom.yeti.grunt1":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/grunt1"
+		]
+		},
+  "littleroom.yeti.grunt2":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/grunt2"
+		]
+		},
+  "littleroom.yeti.grunt3":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/grunt3"
+		]
+		},
+  "littleroom.yeti.rage1":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/rage1"
+		]
+		},
+  "littleroom.yeti.rage2":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/rage2"
+		]
+		},
+  "littleroom.yeti.rage3":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/rage3"
+		]
+		},
+  "littleroom.yeti.snow_grab1":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/snow_grab1"
+		]
+		},
+  "littleroom.yeti.snow_grab2":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/snow_grab2"
+		]
+		},
+  "littleroom.yeti.chest_spawn":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/chest_spawn"
+		]
+		},
+  "littleroom.yeti.poof":{
+		"sounds": [
+		   "outsourced:littleroom/yeti/poof"
+		]
+	},
+	"custom.elitecreatures.santa1": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/santa1"
+		]
+	   },
+	   "custom.elitecreatures.santa2": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/santa2"
+		]
+	   },
+	   "custom.elitecreatures.santa3": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/santa3"
+		]
+	   },
+	   "custom.elitecreatures.imp1": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/imp1"
+		]
+	   },
+	   "custom.elitecreatures.krampushoof": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/krampushoof"
+		]
+	   },
+	   "custom.elitecreatures.krampusspike": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/krampusspike"
+		]
+	   },
+	   "custom.elitecreatures.krampusnaughty": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/krampusnaughty"
+		]
+	   },
+	   "custom.elitecreatures.krampushit": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/krampushit"
+		]
+	   },
+	   "custom.elitecreatures.krampus1": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/krampus1"
+		]
+	   },
+	   "custom.elitecreatures.krampuswhip": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/krampuswhip"
+		]
+	   },
+	   "custom.elitecreatures.krampusslash": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/krampusslash"
+		]
+	   },
+	   "custom.elitecreatures.krampusroar": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/krampusroar"
+		]
+	   },
+	   "custom.elitecreatures.krampusstompspike": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/krampusstompspike"
+		]
+	   },
+	   "custom.elitecreatures.sleighjingle": {
+		"sounds": [
+		 "outsourced:custom/elitecreatures/sleighjingle"
+		]
+	   }
 }

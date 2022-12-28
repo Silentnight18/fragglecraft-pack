@@ -75,6 +75,9 @@
         { "predicate": { "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 52}, "model": "outsourced:halloween/saw_set/shield_blocking" },
 
+        { "predicate": { "custom_model_data": 53}, "model": "outsourced:littleroom/yeti_shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 53}, "model": "outsourced:halloween/yeti_shield_blocking" },
+
         { "predicate": { "custom_model_data": 60}, "model": "outsourced:littleroom/voras_tombstone_shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 60}, "model": "outsourced:littleroom/voras_tombstone_shield_blocking" },
 

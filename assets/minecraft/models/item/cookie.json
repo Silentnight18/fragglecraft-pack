@@ -12,8 +12,13 @@
         {"predicate": {"custom_model_data": 124}, "model": "fraggle:extra/fun/cookie_creeper_cooked" },
         {"predicate": {"custom_model_data": 125}, "model": "fraggle:extra/fun/cookie_fraggle_cooked" },
         {"predicate": {"custom_model_data": 126}, "model": "fraggle:extra/fun/cookie_heart_cooked" },
-        {"predicate": {"custom_model_data": 130}, "model": "minecraft:item/cookie" }
-
+        {"predicate": {"custom_model_data": 127}, "model": "fraggle:extra/fun/cookie_lady_cooked" },
+        {"predicate": {"custom_model_data": 128}, "model": "fraggle:extra/fun/cookie_snowflake_cooked" },
+        {"predicate": {"custom_model_data": 129}, "model": "fraggle:extra/fun/cookie_snowman_cooked" },
+        {"predicate": {"custom_model_data": 130}, "model": "fraggle:extra/fun/cookie_star_cooked" },
+        {"predicate": {"custom_model_data": 131}, "model": "fraggle:extra/fun/cookie_tree_cooked" },
+        {"predicate": {"custom_model_data": 132}, "model": "fraggle:extra/fun/cookie_umbrella_cooked" },
+        {"predicate": {"custom_model_data": 133}, "model": "minecraft:item/cookie" }
        
 	]
 }

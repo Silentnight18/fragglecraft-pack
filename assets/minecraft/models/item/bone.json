@@ -15,6 +15,9 @@
 		{ "predicate": { "custom_model_data": 14}, "model": "fraggle:extra/fun/xmassnowglobe5" },
 		{ "predicate": { "custom_model_data": 15}, "model": "fraggle:extra/fun/xmassnowglobe6" },
 		{ "predicate": { "custom_model_data": 16}, "model": "fraggle:extra/fun/xmassnowglobe7" },
-		{ "predicate": { "custom_model_data": 17}, "model": "minecraft:item/bone" }
+
+		{ "predicate": { "custom_model_data": 25}, "model": "fraggle:extra/fun/snowflake" },
+		{ "predicate": { "custom_model_data": 26}, "model": "fraggle:extra/fun/green_prism" },
+		{ "predicate": { "custom_model_data": 27}, "model": "minecraft:item/bone" }
 	]
 }

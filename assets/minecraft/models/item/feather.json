@@ -175,6 +175,7 @@
 		{"predicate": {"custom_model_data":259}, "model": "outsourced:christmas/yungwilder/candycane_pickaxe" },
 		{"predicate": {"custom_model_data":260}, "model": "outsourced:christmas/yungwilder/snowflake_shield" },
 		{"predicate": {"custom_model_data":261}, "model": "outsourced:christmas/yungwilder/snowshovel" },
+		{"predicate": {"custom_model_data":262}, "model": "outsourced:christmas/ec/krampussword" },
 
 		{"predicate": {"custom_model_data":300}, "model": "minecraft:item/feather"}
 	]
