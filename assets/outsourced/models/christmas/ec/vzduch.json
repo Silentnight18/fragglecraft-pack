@@ -1,0 +1,59 @@
+{
+	"__comment": "Designed by Sefreneth with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"vzduch": "outsourced:christmas/ec/vzduch"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ -2, 0, -2 ],
+			"to": [ -1, 1, -1 ],
+			"faces": {
+				"down": { "uv": [ 0, 12, 4, 16 ], "texture": "#vzduch" },
+				"up": { "uv": [ 4, 12, 8, 16 ], "texture": "#vzduch" },
+				"north": { "uv": [ 0, 8, 4, 12 ], "texture": "#vzduch" },
+				"south": { "uv": [ 4, 8, 8, 12 ], "texture": "#vzduch" },
+				"west": { "uv": [ 0, 4, 4, 8 ], "texture": "#vzduch" },
+				"east": { "uv": [ 4, 4, 8, 8 ], "texture": "#vzduch" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 94, 0, 89 ],
+			"translation":  [ -0.695, 3.4782, 0.6956 ],
+			"scale":  [ 0.6173, 0.7, 1.1173 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 94, 0, 89 ],
+			"translation":  [ -0.695, 3.4782, 0.6956 ],
+			"scale":  [ 0.6173, 0.7, 1.1173 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 81, -8, -91 ],
+			"translation":  [ 1.3913, 2.7826, 0.6956 ],
+			"scale":  [ 0.3869, 0.7, 0.8739 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 81, -8, -91 ],
+			"translation":  [ 1.3913, 2.7826, 0.6956 ],
+			"scale":  [ 0.3869, 0.7, 0.8739 ]
+		},
+		"gui": {
+			"rotation":  [ 90, 0, 0 ],
+			"scale":  [ 0.4913, 0.7, 0.7 ]
+		},
+		"head": {
+			"rotation":  [ 90, 0, 180 ],
+			"translation":  [ 0, 7.5, -6.021 ],
+			"scale":  [ 1.8346, 2.191, 1.3823 ]
+		},
+		"ground": {
+			"scale":  [ 0.1608, 0.3, 0.439 ]
+		},
+		"fixed": {
+			"rotation":  [ 90, 0, 0 ],
+			"scale":  [ 0.3869, 0.7, 0.8043 ]
+		}
+	}
+}

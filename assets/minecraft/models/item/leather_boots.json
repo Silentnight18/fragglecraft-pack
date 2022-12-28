@@ -5,6 +5,8 @@
 	  "layer1": "item/leather_boots_overlay"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_boots" }
+		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_boots" },
+		{ "predicate": { "custom_model_data": 1910}, "model": "custom/armor/santa_boots_one" },
+		{ "predicate": { "custom_model_data": 1911}, "model": "custom/armor/santa_boots_two" }
 	]
 }
