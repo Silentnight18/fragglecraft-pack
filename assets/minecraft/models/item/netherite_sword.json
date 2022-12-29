@@ -67,8 +67,10 @@
 		{ "predicate": { "custom_model_data": 75}, "model": "outsourced:christmas/set2/greatsword" },
 		{ "predicate": { "custom_model_data": 76}, "model": "outsourced:christmas/set2/scythe" },
 		{ "predicate": { "custom_model_data": 77}, "model": "outsourced:christmas/set2/trident" },
-		{ "predicate": { "custom_model_data": 78}, "model": "outsourced:christmas/set2/trident" },
-
+		{ "predicate": { "custom_model_data": 78}, "model": "outsourced:christmas/ec/krampussword" },
+		{ "predicate": { "custom_model_data": 79}, "model": "outsourced:christmas/candy/sword" },
+		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:christmas/candy/staff" },
+		{ "predicate": { "custom_model_data": 81}, "model": "outsourced:christmas/diamond/icesword" },
 
 		{"predicate": {"custom_model_data":600}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 		

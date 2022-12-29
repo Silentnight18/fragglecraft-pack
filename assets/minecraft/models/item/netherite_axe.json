@@ -31,6 +31,8 @@
 		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_axe" },
 		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_axe" },
 		{ "predicate": { "custom_model_data": 56}, "model": "outsourced:littleroom/yeti_axe" },
+		{ "predicate": { "custom_model_data": 57}, "model": "outsourced:christmas/candy/axe" },
+		{ "predicate": { "custom_model_data": 58}, "model": "outsourced:christmas/diamond/iceaxe" },
 
 		{ "predicate": { "custom_model_data": 60}, "model": "minecraft:item/netherite_axe" }
 	]

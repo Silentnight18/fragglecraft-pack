@@ -1,0 +1,116 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "outsourced:christmas/christmascosmetics1",
+		"particle": "outsourced:christmas/christmascosmetics1"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [11, 2, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 2.01576, 9.42314]},
+			"faces": {
+				"north": {"uv": [0, 6, 3, 7], "texture": "#0"},
+				"east": {"uv": [3, 6, 6, 7], "texture": "#0"},
+				"south": {"uv": [6, 6, 9, 7], "texture": "#0"},
+				"west": {"uv": [0, 7, 3, 8], "texture": "#0"},
+				"up": {"uv": [3, 3, 0, 0], "texture": "#0"},
+				"down": {"uv": [3, 3, 0, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0.60882, 6.13653],
+			"to": [10, 4.60882, 10.13653],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.5, 2.01576, 9.42314]},
+			"faces": {
+				"north": {"uv": [3, 0, 5, 2], "texture": "#0"},
+				"east": {"uv": [3, 2, 5, 4], "texture": "#0"},
+				"south": {"uv": [3, 4, 5, 6], "texture": "#0"},
+				"west": {"uv": [5, 0, 7, 2], "texture": "#0"},
+				"up": {"uv": [7, 4, 5, 2], "texture": "#0"},
+				"down": {"uv": [7, 4, 5, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.75, 4.01895, 7.6695],
+			"to": [9.25, 6.51895, 11.6695],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 5.76895, 10.1695]},
+			"faces": {
+				"north": {"uv": [4.5, 7, 5.75, 8.25], "texture": "#0"},
+				"east": {"uv": [7, 0, 9, 1.25], "texture": "#0"},
+				"south": {"uv": [6, 7, 7.25, 8.25], "texture": "#0"},
+				"west": {"uv": [7, 1.5, 9, 2.75], "texture": "#0"},
+				"up": {"uv": [4.25, 9, 3, 7], "texture": "#0"},
+				"down": {"uv": [8.25, 3, 7, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 5.86567, 10.39891],
+			"to": [8.75, 7.36567, 14.39891],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.5, 5.11567, 9.89891]},
+			"faces": {
+				"north": {"uv": [8.5, 3, 9.25, 3.75], "texture": "#0"},
+				"east": {"uv": [7, 5, 9, 5.75], "texture": "#0"},
+				"south": {"uv": [8.5, 4, 9.25, 4.75], "texture": "#0"},
+				"west": {"uv": [7.5, 7, 9.5, 7.75], "texture": "#0"},
+				"up": {"uv": [0.75, 10, 0, 8], "texture": "#0"},
+				"down": {"uv": [1.75, 8, 1, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 3.00016, 13.66517],
+			"to": [8.5, 5.00016, 15.66517],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 4.50016, 14.66517]},
+			"faces": {
+				"north": {"uv": [4.5, 8.5, 5, 9.5], "texture": "#0"},
+				"east": {"uv": [2, 8, 3, 9], "texture": "#0"},
+				"south": {"uv": [5, 8.5, 5.5, 9.5], "texture": "#0"},
+				"west": {"uv": [7.5, 8, 8.5, 9], "texture": "#0"},
+				"up": {"uv": [6, 9.5, 5.5, 8.5], "texture": "#0"},
+				"down": {"uv": [6.5, 8.5, 6, 9.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, 0, 0],
+			"translation": [0, 2.5, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, 0, 0],
+			"translation": [0, 2.5, 3]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 5, 0]
+		},
+		"ground": {
+			"translation": [0, 6, 0]
+		},
+		"gui": {
+			"rotation": [-155.5, 40, -180],
+			"translation": [-0.75, 6.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"rotation": [5, 0, 0],
+			"translation": [0, 27.25, 2],
+			"scale": [3, 3, 3]
+		},
+		"fixed": {
+			"translation": [0, 9.5, -3.25],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "christmascosmetics1",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

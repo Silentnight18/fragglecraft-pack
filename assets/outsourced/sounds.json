@@ -1116,5 +1116,12 @@
 		"sounds": [
 		 "outsourced:custom/elitecreatures/sleighjingle"
 		]
-	   }
+	   },
+	   "christmas.bell" : {"sounds":["outsourced:christmas/bell","outsourced:christmas/bell2"]},
+   "christmas.elf" : {"sounds":["outsourced:christmas/elfspeak1","outsourced:christmas/elfspeak2","outsourced:christmas/elfspeak3","outsourced:christmas/elfspeak4","outsourced:christmas/elfspeak5"]},
+   "christmas.santa" : {"sounds":["outsourced:christmas/santa1","outsourced:christmas/santa2","outsourced:christmas/santa3","outsourced:christmas/santa4","outsourced:christmas/santa5"]},
+   "christmas.santa.ho" : {"sounds":["outsourced:christmas/ho"]},
+   "christmas.santa.laugh" : {"sounds":["outsourced:christmas/laugh"]},
+   "christmas.elfwhat" : {"sounds":["outsourced:christmas/elfwhat","outsourced:christmas/elfwhat2"]},
+   "christmas.clap" : {"sounds":["outsourced:christmas/clap"]}
 }
