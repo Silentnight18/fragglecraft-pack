@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/packed_ice",
+    "overrides": [
+		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/evenbiggericecube"},
+		{"predicate": { "custom_model_data": 1300}, "model": "minecraft:block/packed_ice" }
+        ]
+}

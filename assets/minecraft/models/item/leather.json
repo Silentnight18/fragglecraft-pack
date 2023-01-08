@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather"
+    },	
+	"overrides": [	
+
+	{"predicate": {"custom_model_data":1223}, "model": "fraggle:extra/fun/santasrightboot" },
+    {"predicate": {"custom_model_data":1224}, "model": "fraggle:extra/fun/santasleftboot" },
+	{"predicate": {"custom_model_data":1300}, "model": "minecraft:item/leather"}
+	]
+}

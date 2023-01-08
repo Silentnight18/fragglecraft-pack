@@ -5,6 +5,7 @@
 	  "layer1": "item/leather_chestplate_overlay"
 	},
 	"overrides": [
+		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
 		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_chestplate" }
 	]
 }

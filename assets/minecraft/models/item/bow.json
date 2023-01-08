@@ -65,7 +65,6 @@
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 49}, "model": "outsourced:christmas/set3/xmas_flow_bow_pulling_1" },
         { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 49}, "model": "outsourced:christmas/set3/xmas_flow_bow_pulling_2" },
 
-
         { "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/bow" },
         { "predicate": {"pulling":1, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/bow_0" },
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 50}, "model": "outsourced:halloween/base_set/bow_1" },
@@ -96,11 +95,20 @@
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_bow_pulling_1" },
         { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_bow_pulling_2" },
 
+        { "predicate": { "custom_model_data": 56}, "model": "outsourced:ec/newyears/set1/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 56}, "model": "outsourced:ec/newyears/set1/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 56}, "model": "outsourced:ec/newyears/set1/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 56}, "model": "outsourced:ec/newyears/set1/bow_2" },
 
-        {"predicate": {"custom_model_data": 60},"model": "outsourced:littleroom/voras_bow"},
-        {"predicate": {"custom_model_data": 60,"pulling": 1,"pull": 0},"model": "outsourced:littleroom/voras_bow_pulling_0"},
-        {"predicate": {"custom_model_data": 60,"pulling": 1,"pull": 0.65},"model": "outsourced:littleroom/voras_bow_pulling_0"},
-        {"predicate": {"custom_model_data": 60,"pulling": 1,"pull": 0.9},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        { "predicate": { "custom_model_data": 60}, "model": "outsourced:ec/set2/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 60}, "model": "outsourced:ec/set2/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 60}, "model": "outsourced:ec/set2/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 60}, "model": "outsourced:ec/set2/bow_2" },
+
+        {"predicate": {"custom_model_data": 70},"model": "outsourced:littleroom/voras_bow"},
+        {"predicate": {"custom_model_data": 70,"pulling": 1,"pull": 0},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        {"predicate": {"custom_model_data": 70,"pulling": 1,"pull": 0.65},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        {"predicate": {"custom_model_data": 70,"pulling": 1,"pull": 0.9},"model": "outsourced:littleroom/voras_bow_pulling_0"},
 
         { "predicate": { "custom_model_data": 6701}, "model": "outsourced:birthday/em_bridday_m/em_confetti_cannon" },
         {

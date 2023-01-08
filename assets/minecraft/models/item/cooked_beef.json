@@ -7,6 +7,10 @@
 		{ "predicate": { "custom_model_data": 12}, "model": "fraggle:food/hamburger"},
         { "predicate": { "custom_model_data": 13}, "model": "minecraft:item/cooked_beef" },
 
+		{"predicate": {"custom_model_data":6696}, "model": "outsourced:littleroom/jiaozi"},
+		{"predicate": {"custom_model_data":6697}, "model": "outsourced:littleroom/niangao"},
+		{"predicate": {"custom_model_data":6698}, "model": "outsourced:littleroom/tangyuan"},
+		{"predicate": {"custom_model_data":6699}, "model": "outsourced:littleroom/wholefish"},
 		{"predicate": {"custom_model_data":6700}, "model": "outsourced:littleroom/candycane"},
         { "predicate": { "custom_model_data": 6701}, "model": "outsourced:birthday/em_cakes/em_passionfruit_slice" },
 		{ "predicate": { "custom_model_data": 6702}, "model": "outsourced:birthday/em_cakes/em_passionfruit_slice2" },

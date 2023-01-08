@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/carrot"
+    },
+	"overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "minecraft:item/carrot" },
+        {"predicate": {"custom_model_data": 2}, "model": "fraggle:extra/fun/cookie_man_cooked" },
+        {"predicate": {"custom_model_data": 10}, "model": "fraggle:extra/fun/reindeertreat" },
+        {"predicate": {"custom_model_data": 11}, "model": "minecraft:item/carrot" }
+       
+	]
+}

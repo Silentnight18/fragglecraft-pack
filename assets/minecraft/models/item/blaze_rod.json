@@ -25,6 +25,8 @@
 		{ "predicate": { "custom_model_data": 50}, "model": "outsourced:halloween/base_set/key" },
 		{ "predicate": { "custom_model_data": 51}, "model": "outsourced:halloween/goth/goth_key" },
 		{ "predicate": { "custom_model_data": 52}, "model": "fraggle:extra/fun/hallow_boss_key" },
+		{ "predicate": { "custom_model_data": 53}, "model": "outsourced:ec/newyears/set1/key" },
+		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:ec/set2/key" },
 
 		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:littleroom/petnet" },
 

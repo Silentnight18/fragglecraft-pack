@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+    "overrides": [
+		{"predicate": {"custom_model_data":1223}, "model": "fraggle:extra/fun/pinecone"},
+		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/mintleaf"},
+		{"predicate": { "custom_model_data": 1300}, "model": "minecraft:block/oak_sapling" }
+        ]
+}

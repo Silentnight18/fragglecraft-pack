@@ -800,6 +800,14 @@
         { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 46}, "model": "outsourced:penguin_set/crossbow_2" },
         { "predicate": {"charged":1, "custom_model_data": 46}, "model": "outsourced:penguin_set/crossbow_charged" },
 
+		{ "predicate": { "custom_model_data": 47}, "model": "outsourced:ec/newyears/crossbow_arrow" },
+        { "predicate": {"pulling":1, "custom_model_data": 47}, "model": "outsourced:ec/newyears/crossbow_arrow_0" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 47}, "model": "outsourced:ec/newyears/crossbow_arrow_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 47}, "model": "outsourced:ec/newyears/crossbow_arrow_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 47}, "model": "outsourced:ec/newyears/crossbow_arrow_2" },
+        { "predicate": {"charged":1, "custom_model_data": 47}, "model": "outsourced:ec/newyears/crossbow_arrow_charged" },
+        { "predicate": { "charged": 1, "firework": 1, "custom_model_data": 49 }, "model": "outsourced:ec/newyears/crossbow_arrow_firework" },
+
 		{ "predicate": { "custom_model_data": 48}, "model": "outsourced:christmas/set2/crossbow" },
         { "predicate": {"pulling":1, "custom_model_data": 48}, "model": "outsourced:christmas/set2/crossbow_0" },
         { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 48}, "model": "outsourced:christmas/set2/crossbow_1" },
@@ -830,6 +838,12 @@
         { "predicate": {"charged":1, "custom_model_data": 51}, "model": "outsourced:halloween/bat_set/bat_crossbow_arrow" },
         { "predicate": { "charged": 1, "firework": 1, "custom_model_data": 51 }, "model": "outsourced:halloween/bat_set/bat_crossbow_firework" },
 
+		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:ec/set2/crossbow" },
+        { "predicate": {"pulling":1, "custom_model_data": 60}, "model": "outsourced:ec/set2/crossbow_0" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 60}, "model": "outsourced:ec/set2/crossbow_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 60}, "model": "outsourced:ec/set2/crossbow_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 60}, "model": "outsourced:ec/set2/crossbow_2" },
+        { "predicate": {"charged":1, "custom_model_data": 60}, "model": "outsourced:ec/set2/crossbow_charged" },
 
         { "predicate": { "custom_model_data": 61}, "model": "minecraft:item/crossbow" }
 	]

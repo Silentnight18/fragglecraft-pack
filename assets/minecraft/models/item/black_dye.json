@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/black_dye"
+    },	
+	"overrides": [	
+
+	{"predicate": {"custom_model_data":1223}, "model": "fraggle:extra/fun/gumdropbutton" },
+    {"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/reindeerdroppings" },
+	{"predicate": {"custom_model_data":1300}, "model": "minecraft:item/black_dye"}
+	]
+}

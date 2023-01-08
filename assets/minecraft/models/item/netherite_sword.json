@@ -71,6 +71,17 @@
 		{ "predicate": { "custom_model_data": 79}, "model": "outsourced:christmas/candy/sword" },
 		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:christmas/candy/staff" },
 		{ "predicate": { "custom_model_data": 81}, "model": "outsourced:christmas/diamond/icesword" },
+		{ "predicate": { "custom_model_data": 82}, "model": "outsourced:ec/newyears/set1/halberd" },
+		{ "predicate": { "custom_model_data": 83}, "model": "outsourced:ec/newyears/set1/hammer" },
+		{ "predicate": { "custom_model_data": 84}, "model": "outsourced:ec/newyears/set1/hue" },
+		{ "predicate": { "custom_model_data": 85}, "model": "outsourced:ec/newyears/set1/quiver" },
+		{ "predicate": { "custom_model_data": 86}, "model": "outsourced:ec/newyears/set1/spear" },
+		{ "predicate": { "custom_model_data": 87}, "model": "outsourced:ec/newyears/set1/staff" },
+		{ "predicate": { "custom_model_data": 88}, "model": "outsourced:ec/newyears/set1/sword" },
+		{ "predicate": { "custom_model_data": 89}, "model": "outsourced:ec/set2/hammer" },
+		{ "predicate": { "custom_model_data": 90}, "model": "outsourced:ec/set2/mace" },
+		{ "predicate": { "custom_model_data": 91}, "model": "outsourced:ec/set2/sword" },
+		{ "predicate": { "custom_model_data": 92}, "model": "outsourced:ec/set2/trident" },
 
 		{"predicate": {"custom_model_data":600}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 		

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "outsourced:christmas/patterened_pillar_top",
+    "side": "outsourced:christmas/patterened_pillar_side"
+  }
+}

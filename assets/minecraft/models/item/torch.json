@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/torch",
+    "overrides": [
+		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/litcandle"},
+		{"predicate": { "custom_model_data": 1300}, "model": "minecraft:block/torch" }
+        ]
+}

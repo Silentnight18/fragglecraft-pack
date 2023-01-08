@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/beetroot"
+    },	
+	"overrides": [	
+
+	{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/grinchesheart" },
+	{"predicate": {"custom_model_data":1300}, "model": "minecraft:item/beetroot"}
+	]
+}

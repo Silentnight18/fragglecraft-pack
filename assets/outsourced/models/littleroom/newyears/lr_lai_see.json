@@ -1,0 +1,75 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "outsourced:littleroom/lai_see",
+		"particle": "outsourced:littleroom/lai_see"
+	},
+	"elements": [
+		{
+			"from": [4.5, 1, 8],
+			"to": [11.5, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.5, 1, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 6], "texture": "#0"},
+				"east": {"uv": [0, 6, 0.5, 12], "texture": "#0"},
+				"south": {"uv": [3.5, 0, 7, 6], "texture": "#0"},
+				"west": {"uv": [0.5, 6, 1, 12], "texture": "#0"},
+				"up": {"uv": [4.5, 7.5, 1, 7], "texture": "#0"},
+				"down": {"uv": [4.5, 7.5, 1, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 1, 7.9],
+			"to": [11.5, 13, 7.9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.5, 1, 0]},
+			"faces": {
+				"north": {"uv": [9, 4, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 6, 0, 9.5], "texture": "#0"},
+				"south": {"uv": [7, 4, 9, 5.5], "texture": "#0"},
+				"west": {"uv": [0.5, 6, 0.5, 9.5], "texture": "#0"},
+				"up": {"uv": [4.5, 6, 1, 6], "texture": "#0"},
+				"down": {"uv": [4.5, 6.5, 1, 6.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [39, 149, 0],
+			"translation": [-1.25, 3, 2.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [39, 149, 0],
+			"translation": [-1.25, 3, 2.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [-29, 124, 18],
+			"translation": [-0.25, 2.5, 0.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-29, 124, 18],
+			"translation": [-0.25, 2.5, 0.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"rotation": [33, 0, 0],
+			"translation": [0, 1.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [-26, -163, -19],
+			"translation": [0, 1, 0]
+		},
+		"head": {
+			"translation": [0, 1, -7.25]
+		},
+		"fixed": {
+			"translation": [0, 1.5, 0.5],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
