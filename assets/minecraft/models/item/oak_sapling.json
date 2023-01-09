@@ -1,5 +1,8 @@
 {
   "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/oak_sapling"
+  },
     "overrides": [
 		{"predicate": {"custom_model_data":1223}, "model": "fraggle:extra/fun/pinecone"},
 		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/mintleaf"},
