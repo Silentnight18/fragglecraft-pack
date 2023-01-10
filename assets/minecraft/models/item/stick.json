@@ -11,6 +11,8 @@
 		{ "predicate": { "custom_model_data": 69}, "model": "fraggle:extra/fun/ban_hammer" },
 		{ "predicate": { "custom_model_data": 70}, "model": "minecraft:item/stick" },
 		{ "predicate": { "custom_model_data": 420}, "model": "fraggle:extra/fun/ban_hammer" },
+		{ "predicate": { "custom_model_data": 430}, "model": "minecraft:item/stick" },
+		{ "predicate": { "custom_model_data": 1225}, "model": "fraggle:extra/fun/chippedcandy" },
 		{ "predicate": { "custom_model_data": 430}, "model": "minecraft:item/stick" }
 	]
 }

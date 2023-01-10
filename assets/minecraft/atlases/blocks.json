@@ -137,7 +137,11 @@
             "source": "weapons",
             "prefix": "weapons/"
         },	
-		
+		{
+            "type": "directory",
+            "source": "ec",
+            "prefix": "ec/"
+        },	
         {
             "type": "directory",
             "source": "halloween_pack",

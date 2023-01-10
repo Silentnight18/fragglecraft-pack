@@ -99,12 +99,17 @@
 		{ "predicate": { "custom_model_data": 180}, "model": "outsourced:littleroom/turkey_head"},
 		{ "predicate": { "custom_model_data": 181}, "model": "fraggle:extra/fun/cornucopia1"},
 		{ "predicate": { "custom_model_data": 182}, "model": "fraggle:extra/fun/cornucopia2"},
+		{ "predicate": { "custom_model_data": 183}, "model": "outsourced:christmas/ec/christmasskylantern"},
+		
 
 		{ "predicate": { "custom_model_data": 200}, "model": "minecraft:item/paper" },
 		
 		{ "predicate": { "custom_model_data": 1061}, "model": "fraggle/halloween2021/spirit_halloween_giftcard" },
 		{ "predicate": { "custom_model_data": 1062}, "model": "minecraft:item/paper" },
-
+		{ "predicate": { "custom_model_data": 1223}, "model": "fraggle:extra/fun/chippedcandy"},
+		{ "predicate": { "custom_model_data": 1225}, "model": "minecraft:item/paper" },
+		{ "predicate": { "custom_model_data": 1227}, "model": "fraggle:extra/fun/wrappingpaper"},
+		
 		{"predicate": {"custom_model_data":1900}, "model": "outsourced:littleroom/missile"},
 		{"predicate": {"custom_model_data":1916}, "model": "flamos_model/flamos_blaze_leap_1"},
 		{"predicate": {"custom_model_data":1917}, "model": "flamos_model/flamos_blaze_leap_2"},
@@ -152,7 +157,10 @@
 		{"predicate": {"custom_model_data":1959}, "model": "outsourced:christmas/samus/icon_evergreen_heal"},
 		{"predicate": {"custom_model_data":1960}, "model": "outsourced:christmas/samus/icon_gift_cannon"},
 		{"predicate": {"custom_model_data":1961}, "model": "outsourced:christmas/samus/icon_reindeer_dash"},
-
+		{"predicate": {"custom_model_data":1962}, "model": "outsourced:littleroom/newyears/lr_newyear_dragon_classic"},
+		{"predicate": {"custom_model_data":1963}, "model": "outsourced:littleroom/newyears/lr_newyear_dragon_blue"},
+		{"predicate": {"custom_model_data":1964}, "model": "outsourced:littleroom/newyears/lr_newyear_dragon_jade"},
+		{"predicate": {"custom_model_data":1965}, "model": "outsourced:littleroom/newyears/lr_newyear_dragon_red"},
 		{"predicate": {"custom_model_data":7777}, "model": "house_pets_model/dog_treat"},
 		{"predicate": {"custom_model_data":7778}, "model": "house_pets_model/dog_bowl"},
 		{"predicate": {"custom_model_data":7779}, "model": "house_pets_model/cat_bowl"},

@@ -18,6 +18,12 @@
 		{ "predicate": { "custom_model_data": 53}, "model": "outsourced:pixelsonpoint/thanksgiving_hoe" },
 		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_hoe" },
 		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_hoe" },
-		{ "predicate": { "custom_model_data": 60}, "model": "minecraft:item/netherite_hoe" }
+
+		{ "predicate": { "custom_model_data": 57}, "model": "outsourced:christmas/candy/hoe" },
+
+		{ "predicate": { "custom_model_data": 59}, "model": "outsourced:ec/newyears/set1/hoe" },
+		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:ec/set2/hoe" },
+
+		{ "predicate": { "custom_model_data": 70}, "model": "minecraft:item/netherite_hoe" }
 	]
 }

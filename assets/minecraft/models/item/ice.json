@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/ice",
+    "overrides": [
+		{"predicate": {"custom_model_data":1221}, "model": "minecraft:block/ice" },
+		{"predicate": {"custom_model_data":1223}, "model": "fraggle:extra/fun/biggericecube"},
+		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/icecube"},
+		{"predicate": { "custom_model_data": 1300}, "model": "minecraft:block/ice" }
+        ]
+}

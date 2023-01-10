@@ -15,9 +15,32 @@
 		{ "predicate": { "custom_model_data": 14}, "model": "fraggle:extra/fun/xmassnowglobe5" },
 		{ "predicate": { "custom_model_data": 15}, "model": "fraggle:extra/fun/xmassnowglobe6" },
 		{ "predicate": { "custom_model_data": 16}, "model": "fraggle:extra/fun/xmassnowglobe7" },
+		{ "predicate": { "custom_model_data": 17}, "model": "fraggle:extra/fun/xmassnowglobe8" },
+		{ "predicate": { "custom_model_data": 18}, "model": "fraggle:extra/fun/xmassnowglobe9" },
+		{ "predicate": { "custom_model_data": 19}, "model": "fraggle:extra/fun/xmassnowglobe10" },
 
+		{ "predicate": { "custom_model_data": 24}, "model": "fraggle:extra/fun/cookiemagic" },
 		{ "predicate": { "custom_model_data": 25}, "model": "fraggle:extra/fun/snowflake" },
 		{ "predicate": { "custom_model_data": 26}, "model": "fraggle:extra/fun/green_prism" },
-		{ "predicate": { "custom_model_data": 27}, "model": "minecraft:item/bone" }
+		{ "predicate": { "custom_model_data": 27}, "model": "fraggle:extra/fun/santahatbox" },
+		{ "predicate": { "custom_model_data": 28}, "model": "fraggle:extra/fun/santabeardbox" },
+		{ "predicate": { "custom_model_data": 29}, "model": "fraggle:extra/fun/lnycoin" },
+
+		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:ec/newyears/newyear_bunny_blaster" },
+		{ "predicate": { "custom_model_data": 31}, "model": "outsourced:ec/newyears/explosion-1" },
+		{ "predicate": { "custom_model_data": 32}, "model": "outsourced:ec/newyears/explosion-2" },
+		{ "predicate": { "custom_model_data": 33}, "model": "outsourced:ec/newyears/explosion-3" },
+		{ "predicate": { "custom_model_data": 34}, "model": "outsourced:ec/newyears/explosion-4" },
+		{ "predicate": { "custom_model_data": 35}, "model": "outsourced:ec/newyears/explosion-5" },
+		{ "predicate": { "custom_model_data": 36}, "model": "outsourced:ec/newyears/explosion-6" },
+		{ "predicate": { "custom_model_data": 37}, "model": "outsourced:ec/newyears/explosion-7" },
+		{ "predicate": { "custom_model_data": 38}, "model": "outsourced:ec/newyears/explosion-8" },
+		{ "predicate": { "custom_model_data": 39}, "model": "outsourced:ec/newyears/ultimate_firework" },
+		{ "predicate": { "custom_model_data": 40}, "model": "outsourced:ec/newyears/firecracker" },
+		{ "predicate": { "custom_model_data": 41}, "model": "outsourced:ec/newyears/firework" },
+
+		{ "predicate": { "custom_model_data": 42}, "model": "minecraft:item/bone" },
+		{ "predicate": { "custom_model_data": 1225}, "model": "fraggle:extra/fun/dinosaurtooth" },
+		{ "predicate": { "custom_model_data": 1300}, "model": "minecraft:item/bone" }
 	]
 }

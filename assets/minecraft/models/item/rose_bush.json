@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:block/rose_bush_top"
+    },	
+	"overrides": [	
+    {"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/holidayholly" },
+	{"predicate": {"custom_model_data":1300}, "model": "minecraft:block/rose_bush_top"}
+	]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/smooth_stone_slab",
+    "overrides": [
+		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/usedsupernintendo"},
+		{"predicate": { "custom_model_data": 1300}, "model": "minecraft:block/smooth_stone_slab" }
+        ]
+}

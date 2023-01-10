@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/oak_log",
+    "overrides": [
+		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/woodentrain"},
+		{"predicate": { "custom_model_data": 1300}, "model": "minecraft:block/oak_log" }
+        ]
+}

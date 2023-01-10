@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "outsourced:christmas/patterened_floor",
+    "particles": "outsourced:christmas/patterened_floor"
+  }
+}

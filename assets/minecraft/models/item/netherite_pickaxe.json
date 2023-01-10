@@ -26,6 +26,11 @@
 		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:pixelsonpoint/blackfriday_pickaxe" },
 		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:pixelsonpoint/christmas_pickaxe" },
 		{ "predicate": { "custom_model_data": 56}, "model": "outsourced:christmas/yungwilder/candycane_pickaxe" },
-		{ "predicate": { "custom_model_data": 60}, "model": "minecraft:item/netherite_pickaxe" }
+		{ "predicate": { "custom_model_data": 57}, "model": "outsourced:christmas/candy/pickaxe" },
+		{ "predicate": { "custom_model_data": 58}, "model": "outsourced:christmas/diamond/icepickaxe" },
+		{ "predicate": { "custom_model_data": 59}, "model": "outsourced:ec/newyears/set1/pickaxe" },
+		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:ec/set2/pickaxe" },
+
+		{ "predicate": { "custom_model_data": 70}, "model": "minecraft:item/netherite_pickaxe" }
 	]
 }
