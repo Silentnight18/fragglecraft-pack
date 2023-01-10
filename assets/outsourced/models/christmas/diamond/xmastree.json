@@ -3141,7 +3141,9 @@
 			"translation": [0, 12.5, -0.75]
 		},
 		"fixed": {
-			"translation": [0, -3.25, -4.25]
+			"translation": [0, -3.25, -30],
+			"rotation": [-90, 0, 0],
+			"scale": [4, 4, 4]
 		}
 	},
 	"groups": [
