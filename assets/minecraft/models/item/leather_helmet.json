@@ -5,6 +5,8 @@
 	  "layer1": "item/leather_helmet_overlay"
 	},
 	"overrides": [
+		{ "predicate": { "custom_model_data": 1225}, "model": "outsourced:christmas/suits/xmas_helmet" },
+		{ "predicate": { "custom_model_data": 1227}, "model": "outsourced:christmas/suits/jolly_helmet" },
 		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_helmet" }
 	]
 }

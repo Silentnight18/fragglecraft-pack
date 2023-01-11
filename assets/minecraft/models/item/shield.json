@@ -80,9 +80,14 @@
 
         { "predicate": { "custom_model_data": 54}, "model": "outsourced:ec/newyears/set1/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 54}, "model": "outsourced:ec/newyears/set1/shield_blocking" },
+        { "predicate": { "custom_model_data": 55}, "model": "outsourced:christmas/santas_shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 55}, "model": "outsourced:christmas/santas_shield_blocking" },
 
         { "predicate": { "custom_model_data": 60}, "model": "outsourced:ec/set2/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 60}, "model": "outsourced:ec/set2/shield_blocking" },
+        
+        { "predicate": { "custom_model_data": 61}, "model": "outsourced:christmas/set5/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 61}, "model": "outsourced:christmas/set5/shield_blocking" },
 
         { "predicate": { "custom_model_data": 69}, "model": "outsourced:littleroom/voras_tombstone_shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 69}, "model": "outsourced:littleroom/voras_tombstone_shield_blocking" },

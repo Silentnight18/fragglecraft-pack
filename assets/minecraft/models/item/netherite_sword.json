@@ -82,6 +82,8 @@
 		{ "predicate": { "custom_model_data": 90}, "model": "outsourced:ec/set2/mace" },
 		{ "predicate": { "custom_model_data": 91}, "model": "outsourced:ec/set2/sword" },
 		{ "predicate": { "custom_model_data": 92}, "model": "outsourced:ec/set2/trident" },
+		{ "predicate": { "custom_model_data": 93}, "model": "outsourced:christmas/candy_cane_sword" },
+		{ "predicate": { "custom_model_data": 94}, "model": "outsourced:christmas/set5/sword" },
 
 		{"predicate": {"custom_model_data":600}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 		

@@ -416,7 +416,7 @@
 		{"predicate": {"custom_model_data":860}, "model": "outsourced:christmas/set2/wings" },
 		{"predicate": {"custom_model_data":861}, "model": "outsourced:christmas/set1/backpack" },
 		{"predicate": {"custom_model_data":862}, "model": "outsourced:christmas/elf_on_shelf" },
-		{"predicate": {"custom_model_data":863}, "model": "outsourced:christmas/littleroom/yeti_hat" },
+		{"predicate": {"custom_model_data":863}, "model": "outsourced:littleroom/yeti_hat" },
 		{"predicate": {"custom_model_data":864}, "model": "outsourced:christmas/ec/vzduch" },
 		{"predicate": {"custom_model_data":865}, "model": "outsourced:christmas/ec/krampusbag"},
 		{"predicate": {"custom_model_data":866}, "model": "outsourced:christmas/ec/krampussword"},
@@ -524,6 +524,10 @@
 		{ "predicate": { "custom_model_data": 966}, "model": "outsourced:ec/set2/chest" },
 		{ "predicate": { "custom_model_data": 967}, "model": "outsourced:ec/set2/helmet" },
 		{ "predicate": { "custom_model_data": 968}, "model": "outsourced:ec/set2/house_backwear" },
+		{ "predicate": { "custom_model_data": 969}, "model": "outsourced:christmas/toffy_xmas_hat" },
+		{ "predicate": { "custom_model_data": 970}, "model": "outsourced:christmas/santas_hat" },
+		{ "predicate": { "custom_model_data": 971}, "model": "outsourced:christmas/set5/xmas_helmet" },
+		{ "predicate": { "custom_model_data": 972}, "model": "outsourced:christmas/set5/helmet" },
 
 
 
