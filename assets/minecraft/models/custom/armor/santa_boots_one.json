@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "outsourced:christmas/set2/armor/xmas_boots_icon",
-        "layer1": "outsourced:christmas/set2/armor/xmas_boots_icon"
-    }
-}

@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/brick"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 44 }, "model": "outsourced:christmas/bs_candy_cane_sword_bonk" },
+        { "predicate": { "custom_model_data": 45 }, "model": "outsourced:christmas/bs_candy_cane_sword_sharp" },
+        { "predicate": { "custom_model_data": 46 }, "model": "outsourced:christmas/bs_penguin_summoner" },
+        { "predicate": { "custom_model_data": 47 }, "model": "outsourced:christmas/bs_ice_boulder" },
+        { "predicate": { "custom_model_data": 48 }, "model": "outsourced:christmas/bs_ice_boulder_2" },
+        { "predicate": { "custom_model_data": 49 }, "model": "outsourced:christmas/bs_ice_chunk" },
+        { "predicate": { "custom_model_data": 50 }, "model": "outsourced:christmas/bs_ice_chunk_2" },
+        { "predicate": { "custom_model_data": 51 }, "model": "outsourced:christmas/bs_ice_spike_large" },
+        { "predicate": { "custom_model_data": 52 }, "model": "outsourced:christmas/bs_ice_spike_small" }
+    ]
+}

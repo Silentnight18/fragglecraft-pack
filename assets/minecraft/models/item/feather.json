@@ -215,6 +215,16 @@
 		{"predicate": {"custom_model_data":299}, "model": "outsourced:ec/set2/shovel" },
 		{"predicate": {"custom_model_data":300}, "model": "outsourced:ec/set2/sword" },
 		{"predicate": {"custom_model_data":301}, "model": "outsourced:ec/set2/trident" },
+		{"predicate": {"custom_model_data":302}, "model": "outsourced:christmas/candy_cane_sword" },
+		{"predicate": {"custom_model_data":303}, "model": "outsourced:christmas/santas_shield" },
+
+		{"predicate": {"custom_model_data":304}, "model": "outsourced:christmas/set5/axe" },
+		{"predicate": {"custom_model_data":305}, "model": "outsourced:christmas/set5/christmas_bow" },
+		{"predicate": {"custom_model_data":306}, "model": "outsourced:christmas/set5/hoe" },
+		{"predicate": {"custom_model_data":307}, "model": "outsourced:christmas/set5/pickaxe" },
+		{"predicate": {"custom_model_data":308}, "model": "outsourced:christmas/set5/shield" },
+		{"predicate": {"custom_model_data":309}, "model": "outsourced:christmas/set5/shovel" },
+		{"predicate": {"custom_model_data":310}, "model": "outsourced:christmas/set5/sword" },
 
 		{"predicate": {"custom_model_data":320}, "model": "minecraft:item/feather"},
 		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/turtledove" },

@@ -1123,5 +1123,51 @@
    "christmas.santa.ho" : {"sounds":["outsourced:christmas/ho"]},
    "christmas.santa.laugh" : {"sounds":["outsourced:christmas/laugh"]},
    "christmas.elfwhat" : {"sounds":["outsourced:christmas/elfwhat","outsourced:christmas/elfwhat2"]},
-   "christmas.clap" : {"sounds":["outsourced:christmas/clap"]}
+   "christmas.clap" : {"sounds":["outsourced:christmas/clap"]},
+   "custom.cromoknightboss.death": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/cromoknightboss/death1" }, { "name": "outsourced:custom/mobs/cromoknightboss/death2" } ] }, 
+
+   "custom.cromoknightboss.efforta": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/cromoknightboss/efforta1" }, { "name": "outsourced:custom/mobs/cromoknightboss/efforta2" }, { "name": "outsourced:custom/mobs/cromoknightboss/efforta3" } ] },
+   "custom.cromoknightboss.effortc": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/cromoknightboss/effortc1" }, { "name": "outsourced:custom/mobs/cromoknightboss/effortc2" }, { "name": "outsourced:custom/mobs/cromoknightboss/effortc3" } ] },
+   "custom.cromoknightboss.cast": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/cromoknightboss/cast1" }, { "name": "outsourced:custom/mobs/cromoknightboss/cast2" }, { "name": "outsourced:custom/mobs/cromoknightboss/cast3" }, { "name": "outsourced:custom/mobs/cromoknightboss/cast4" } ] },
+   
+   "custom.cromoknightboss.hurt": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/cromoknightboss/hurt1" }, { "name": "outsourced:custom/mobs/cromoknightboss/hurt2" }, { "name": "outsourced:custom/mobs/cromoknightboss/hurt3" } ] }, 
+   "custom.cromoknightboss.hurtedbad": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/cromoknightboss/hurtedbad1" }, { "name": "outsourced:custom/mobs/cromoknightboss/hurtedbad2" } ] },
+   "custom.cromoknightboss.metalhit": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/cromoknightboss/hit1" }, { "name": "outsourced:custom/mobs/cromoknightboss/hit2" } ] }, 
+
+"custom.cromoknights.slashhita": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/fallenhero/slashhit1" }, { "name": "outsourced:custom/mobs/fallenhero/slashhit2" }, { "name": "outsourced:custom/mobs/fallenhero/slashhit3" } ] }, 
+"custom.cromoknights.slashhitb": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/fallenhero/slashhitb1" }, { "name": "outsourced:custom/mobs/fallenhero/slashhitb2" }, { "name": "outsourced:custom/mobs/fallenhero/slashhitb3" } ] }, 
+"custom.cromoknights.herostun": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/spell/fallenhero/stun1" }, { "name": "outsourced:custom/spell/fallenhero/stun2" } ] }, 
+"custom.cromoknights.channelstun": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/spell/fallenhero/channelstun" } ] }, 
+"custom.cromoknights.attackwindup": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/fallenhero/attackwindup1" }, { "name": "outsourced:custom/mobs/fallenhero/attackwindup2" }, { "name": "outsourced:custom/mobs/fallenhero/attackwindup3" }, { "name": "outsourced:custom/mobs/fallenhero/attackwindup4" } ], "subtitle": "Strong blow"  }, 
+"custom.cromoknights.landshockwave": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/spell/fallenhero/landshockwave1" }, { "name": "outsourced:custom/spell/fallenhero/landshockwave2" }, { "name": "outsourced:custom/spell/fallenhero/landshockwave3" } ], "subtitle": "Shockwave" }, 
+
+"custom.cromoknights.hurt": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/fallenreaper/hurtgen1" }, { "name": "outsourced:custom/mobs/fallenreaper/hurtgen2" }, { "name": "outsourced:custom/mobs/fallenreaper/hurtgen3" } ], "subtitle": "Corrupted voices cry" }, 
+"custom.cromoknights.attack4reaper": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/spell/fallenreaper/attack4reaper1" }, { "name": "outsourced:custom/spell/fallenhero/attack4reaper2" }, { "name": "outsourced:custom/spell/fallenhero/attack4reaper3" } ], "subtitle": "Strong swing" }, 
+"custom.cromoknights.grandslashcast": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/spell/fallenhero/granslashcast1" }, { "name": "outsourced:custom/spell/fallenhero/granslashcast2" } ] },
+
+"custom.cromoknights.channelknight": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/cromoknightboss/channelknight1" } ] }, 
+"custom.cromoknights.directionsword": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/cromoknightboss/directioncast1" }, { "name": "outsourced:custom/mobs/cromoknightboss/directioncast2" } ] }, 
+"custom.cromoknights.directioncast": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/cromoknightboss/sword_direction1" }, { "name": "outsourced:custom/mobs/cromoknightboss/sword_direction2" } ] },
+
+"custom.pepperknights.ost": { "category": "music", "sounds": [ { "name": "outsourced:custom/musicem/cromoknightboss/pprknight_ost" } ] },
+"custom.pepperknights.ostfader": { "category": "music", "sounds": [ { "name": "outsourced:custom/musicem/cromoknightboss/pprknight_ost_fader" } ] },
+"custom.emssanta.reload": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/reloadrl" } ], "subtitle": "Rocket launcher reloaded" }, 
+"custom.emssanta.deathfx": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/deathfx" } ], "subtitle": "Something falls down" }, 
+"custom.emssanta.putawayrl": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/putawayrl" } ], "subtitle": "Rocket Launcher Unloaded" }, 
+"custom.emssanta.pulloutrl": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/pulloutrl" } ], "subtitle": "Rocket Launcher loaded" }, 
+"custom.emssanta.shot": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/shot1" }, { "name": "outsourced:custom/mobs/emssanta/shot2" } ], "subtitle": "Rocket Launcher fires"  }, 
+"custom.emssanta.reloadshot": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/reloadshot2" } ], "subtitle": "Rocket Launcher reloading", "attenuation_distance": "16", "volume": "1" }, 
+"custom.emssanta.box": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/box1" }, { "name": "outsourced:custom/mobs/emssanta/box2" }, { "name": "outsourced:custom/mobs/emssanta/box3" } ], "subtitle": "Fist hit", "attenuation_distance": "16", "volume": "1" }, 
+"custom.emssanta.effort": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/effort1" }, { "name": "outsourced:custom/mobs/emssanta/effort2" }, { "name": "outsourced:custom/mobs/emssanta/effort3" } ], "subtitle": "Santa Attacks", "attenuation_distance": "16", "volume": "1" }, 
+"custom.emssanta.hit": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/hit1" }, { "name": "outsourced:custom/mobs/emssanta/hit2" } ], "subtitle": "Strong fist hit", "attenuation_distance": "16", "volume": "1" }, 
+"custom.emssanta.hitmetal": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/hitmetal1" }, { "name": "outsourced:custom/mobs/emssanta/hitmetal2" } ], "subtitle": "Metal hit", "attenuation_distance": "16", "volume": "1" }, 
+"custom.emssanta.frag": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/frag1" }, { "name": "outsourced:custom/mobs/emssanta/frag2" } ], "subtitle": "Grenade thrown", "attenuation_distance": "16", "volume": "1" }, 
+"custom.emssanta.rebound": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/rebound1" }, { "name": "outsourced:custom/mobs/emssanta/rebound2" } ], "subtitle": "Grenade falls", "attenuation_distance": "16", "volume": "1" }, 
+"custom.emssanta.death": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/death1" }, { "name": "outsourced:custom/mobs/emssanta/death2" }, { "name": "outsourced:custom/mobs/emssanta/death3" } ], "subtitle": "Santa Dies", "attenuation_distance": "16" }, 
+"custom.emssanta.hoho": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/hoho1" }, { "name": "outsourced:custom/mobs/emssanta/hoho2" }, { "name": "outsourced:custom/mobs/emssanta/hoho3" }, { "name": "outsourced:custom/mobs/emssanta/hoho4" } ], "subtitle": "Santa Laughs", "attenuation_distance": "16" }, 
+"custom.emssanta.mumble": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/mumble1" }, { "name": "outsourced:custom/mobs/emssanta/mumble2" }, { "name": "outsourced:custom/mobs/emssanta/mumble3" }, { "name": "outsourced:custom/mobs/emssanta/mumble4" } ], "subtitle": "Santa Mumbles", "attenuation_distance": "16" }, 
+"custom.emssanta.hurt": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/hurt1" }, { "name": "outsourced:custom/mobs/emssanta/hurt2" }, { "name": "outsourced:custom/mobs/emssanta/hurt3" }, { "name": "outsourced:custom/mobs/emssanta/hurt4" }, { "name": "outsourced:custom/mobs/emssanta/hurt5" } ], "subtitle": "Santa Hurt", "attenuation_distance": "16" }, 
+"custom.emssanta.attack": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/attack1" }, { "name": "outsourced:custom/mobs/emssanta/attack2" }, { "name": "outsourced:custom/mobs/emssanta/attack3" }, { "name": "outsourced:custom/mobs/emssanta/attack4" } ], "subtitle": "Santa attacks", "attenuation_distance": "16" },
+"custom.emssanta.attackb": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/attackb1" }, { "name": "outsourced:custom/mobs/emssanta/attackb2" } ], "subtitle": "Santa attacks" } 
+
 }

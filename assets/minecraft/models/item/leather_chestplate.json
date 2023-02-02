@@ -5,6 +5,13 @@
 	  "layer1": "item/leather_chestplate_overlay"
 	},
 	"overrides": [
+		{ "predicate": { "custom_model_data": 1225}, "model": "outsourced:christmas/suits/xmas_chestplate" },
+		{ "predicate": { "custom_model_data": 1226}, "model": "outsourced:christmas/suits/christmas_chestplate" },
+		{ "predicate": { "custom_model_data": 1227}, "model": "outsourced:christmas/suits/jolly_chestplate" },
+		{ "predicate": { "custom_model_data": 1228}, "model": "outsourced:christmas/suits/santas_jacket" },
+		{ "predicate": { "custom_model_data": 1229}, "model": "outsourced:christmas/set5/spirit_chestplate" },
+		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
+		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
 		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_chestplate" }
 	]
