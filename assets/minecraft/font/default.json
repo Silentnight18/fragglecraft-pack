@@ -1,0 +1,67 @@
+{
+    "providers": [
+		{
+            "type": "bitmap",
+            "file": "outsourced:emotes/test.png",
+			"ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uE000"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "fraggle:ui/hub_logo.png",
+			"ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uE001"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "fraggle:ui/hub_water.png",
+			"ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uE002"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "outsourced:feesh/mr_grumpy_gills.png",
+			"ascent": 12,
+            "height": 12,
+            "chars": [
+                "\uE003"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "fraggle:skills/mining/ingots/copper_ingot.png",
+			"ascent": 12,
+            "height": 16,
+            "chars": [
+                "\uE004"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "fraggle:skills/mining/ingots/iron_ingot.png",
+			"ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uE005"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "fraggle:crate_items/dragon/dragon_key.png",
+			"ascent": 12,
+            "height": 16,
+            "chars": [
+                "\uE006"
+            ]
+        }
+		]
+}
