@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent":"item/generated",
+	"textures": {
+		"layer0": "outsourced:christmas/newyears/set1/leggings_icon",
+		"layer1": "outsourced:christmas/newyears/set1/leggings_icon"
+	}
+}

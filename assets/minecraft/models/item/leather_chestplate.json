@@ -10,6 +10,8 @@
 		{ "predicate": { "custom_model_data": 1227}, "model": "outsourced:christmas/suits/jolly_chestplate" },
 		{ "predicate": { "custom_model_data": 1228}, "model": "outsourced:christmas/suits/santas_jacket" },
 		{ "predicate": { "custom_model_data": 1229}, "model": "outsourced:christmas/set5/spirit_chestplate" },
+		{ "predicate": { "custom_model_data": 1230}, "model": "outsourced:christmas/newyears/set1/chestplate_icon" },
+		{ "predicate": { "custom_model_data": 1231}, "model": "outsourced:christmas/newyears/set2/lunarset_chestplate" },
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },

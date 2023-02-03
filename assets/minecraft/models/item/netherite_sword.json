@@ -84,7 +84,20 @@
 		{ "predicate": { "custom_model_data": 92}, "model": "outsourced:ec/set2/trident" },
 		{ "predicate": { "custom_model_data": 93}, "model": "outsourced:christmas/candy_cane_sword" },
 		{ "predicate": { "custom_model_data": 94}, "model": "outsourced:christmas/set5/sword" },
+		{ "predicate": { "custom_model_data": 95}, "model": "outsourced:christmas/extra/peppermintpaladinsword" },
+		{ "predicate": { "custom_model_data": 96}, "model": "outsourced:christmas/bs_candy_cane_sword_sharp" },
+		{ "predicate": { "custom_model_data": 97}, "model": "outsourced:christmas/bs_candy_cane_sword_bonk" },
+		{ "predicate": { "custom_model_data": 98}, "model": "outsourced:christmas/newyears/set2/sword" },
+		{ "predicate": { "custom_model_data": 99}, "model": "outsourced:christmas/newyears/set2/greatsword" },
+		{ "predicate": { "custom_model_data": 100}, "model": "outsourced:christmas/newyears/set2/hammer" },
+		{ "predicate": { "custom_model_data": 101}, "model": "outsourced:christmas/newyears/set2/scythe" },
+		{ "predicate": { "custom_model_data": 102}, "model": "outsourced:christmas/newyears/set2/spear" },
+		{ "predicate": { "custom_model_data": 103}, "model": "outsourced:christmas/newyears/set2/staff" },
+		{ "predicate": { "custom_model_data": 104}, "model": "outsourced:christmas/newyears/set2/trident" },
+		{ "predicate": { "custom_model_data": 105}, "model": "outsourced:littleroom/lr_epicsword" },
 
+
+		
 		{"predicate": {"custom_model_data":600}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 		
 		{"predicate": {"custom_model_data":1902}, "model": "flamos_model/flamos_scythe"},

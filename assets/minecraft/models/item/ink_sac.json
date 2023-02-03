@@ -10,6 +10,8 @@
 		{"predicate": {"custom_model_data":4}, "model": "outsourced:littleroom/succubus_heart_small"},
 		{"predicate": {"custom_model_data":5}, "model": "outsourced:littleroom/lillith_demonglaive"},
 		{"predicate": {"custom_model_data":6}, "model": "outsourced:littleroom/succubus_heart_hat"},
-		{"predicate": {"custom_model_data":7}, "model": "outsourced:littleroom/succubus_horn_hat"}
+		{"predicate": {"custom_model_data":7}, "model": "outsourced:littleroom/succubus_horn_hat"},
+		{"predicate": {"custom_model_data":8}, "model": "outsourced:littleroom/kriger_deathbreath"},
+		{"predicate": {"custom_model_data":10}, "model": "minecraft:item/ink_sac"}
         ]
 }

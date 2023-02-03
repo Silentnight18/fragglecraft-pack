@@ -101,6 +101,17 @@
 		{ "predicate": { "custom_model_data": 182}, "model": "fraggle:extra/fun/cornucopia2"},
 		{ "predicate": { "custom_model_data": 183}, "model": "outsourced:christmas/ec/christmasskylantern"},
 		
+		{ "predicate": { "custom_model_data": 184}, "model": "fraggle:extra/fun/angeltreetopper"},
+		{ "predicate": { "custom_model_data": 185}, "model": "fraggle:extra/fun/chippedchimmney"},
+		{ "predicate": { "custom_model_data": 186}, "model": "fraggle:extra/fun/giftcardfraggle"},
+		{ "predicate": { "custom_model_data": 187}, "model": "fraggle:extra/fun/giftcardfrosty"},
+		{ "predicate": { "custom_model_data": 188}, "model": "fraggle:extra/fun/giftcardgrinch"},
+		{ "predicate": { "custom_model_data": 189}, "model": "fraggle:extra/fun/giftcardjack"},
+		{ "predicate": { "custom_model_data": 190}, "model": "fraggle:extra/fun/giftcardrudolph"},
+		{ "predicate": { "custom_model_data": 191}, "model": "fraggle:extra/fun/giftcardsilent"},
+		{ "predicate": { "custom_model_data": 192}, "model": "fraggle:extra/fun/icecicle"},
+		{ "predicate": { "custom_model_data": 193}, "model": "fraggle:extra/fun/krampusantler"},
+		{ "predicate": { "custom_model_data": 194}, "model": "fraggle:extra/fun/lettertosanta"},
 
 		{ "predicate": { "custom_model_data": 200}, "model": "minecraft:item/paper" },
 		

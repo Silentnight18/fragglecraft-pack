@@ -39,7 +39,8 @@
 		{ "predicate": { "custom_model_data": 59}, "model": "outsourced:ec/newyears/set1/axe" },
 		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:ec/set2/axe" },
 		{ "predicate": { "custom_model_data": 61}, "model": "outsourced:christmas/set5/axe" },
-		
+		{ "predicate": { "custom_model_data": 62}, "model": "outsourced:christmas/newyears/set2/axe" },
+
 		{ "predicate": { "custom_model_data": 70}, "model": "minecraft:item/netherite_axe" }
 	]
 }
