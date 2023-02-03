@@ -96,7 +96,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE00a"
+                "\uE00A"
             ]
         },
 		{
@@ -105,7 +105,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE00b"
+                "\uE00B"
             ]
         },
 		{
@@ -114,7 +114,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE00c"
+                "\uE00C"
             ]
         },
 		{
@@ -123,7 +123,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE00d"
+                "\uE00D"
             ]
         },
 		{
@@ -132,7 +132,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE00e"
+                "\uE00E"
             ]
         },
 		{
@@ -141,7 +141,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE00f"
+                "\uE00F"
             ]
         },
 		{
@@ -236,11 +236,11 @@
         },
 		{
             "type": "bitmap",
-            "file": "outsourced:emotes/embarassed_emoji.png",
+            "file": "outsourced:emotes/embarrassed_emoji.png",
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE01a"
+                "\uE01A"
             ]
         },
 		{
@@ -249,7 +249,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE01b"
+                "\uE01B"
             ]
         },
 		{
@@ -258,7 +258,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE01c"
+                "\uE01C"
             ]
         },
 		{
@@ -267,7 +267,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE01d"
+                "\uE01D"
             ]
         },
 		{
@@ -276,7 +276,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE01e"
+                "\uE01E"
             ]
         },
 		{
@@ -285,7 +285,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE01f"
+                "\uE01F"
             ]
         },
 		{
@@ -384,7 +384,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE02a"
+                "\uE02A"
             ]
         },
 		{
@@ -393,7 +393,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE02b"
+                "\uE02B"
             ]
         },
 		{
@@ -402,7 +402,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE02c"
+                "\uE02C"
             ]
         },
 		{
@@ -411,7 +411,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE02d"
+                "\uE02D"
             ]
         },
 		{
@@ -420,7 +420,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE02e"
+                "\uE02E"
             ]
         },
 		{
@@ -429,7 +429,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE02f"
+                "\uE02F"
             ]
         },
 		{
@@ -528,7 +528,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE03a"
+                "\uE03A"
             ]
         },
 		{
@@ -537,7 +537,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE03b"
+                "\uE03B"
             ]
         },
 		{
@@ -546,7 +546,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE03c"
+                "\uE03C"
             ]
         },
 		{
@@ -555,7 +555,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE03d"
+                "\uE03D"
             ]
         },
 		{
@@ -564,7 +564,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE03e"
+                "\uE03E"
             ]
         },
 		{
@@ -573,7 +573,7 @@
 			"ascent": 9,
             "height": 12,
             "chars": [
-                "\uE03f"
+                "\uE03F"
             ]
         },
 		{
