@@ -88,6 +88,8 @@
         
         { "predicate": { "custom_model_data": 61}, "model": "outsourced:christmas/set5/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 61}, "model": "outsourced:christmas/set5/shield_blocking" },
+        { "predicate": { "custom_model_data": 62}, "model": "outsourced:christmas/newyears/set2/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 62}, "model": "outsourced:christmas/newyears/set2/shield_blocking" },
 
         { "predicate": { "custom_model_data": 69}, "model": "outsourced:littleroom/voras_tombstone_shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 69}, "model": "outsourced:littleroom/voras_tombstone_shield_blocking" },

@@ -86,6 +86,16 @@
             "type": "directory",
             "source": "duckie_set",
             "prefix": "duckie_set/"
+        },	
+        {
+            "type": "directory",
+            "source": "emotes",
+            "prefix": "emotes/"
+        },	
+        {
+            "type": "directory",
+            "source": "events",
+            "prefix": "events/"
         },			
         {
             "type": "directory",

@@ -845,7 +845,14 @@
         { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 60}, "model": "outsourced:ec/set2/crossbow_2" },
         { "predicate": {"charged":1, "custom_model_data": 60}, "model": "outsourced:ec/set2/crossbow_charged" },
 
-        { "predicate": { "custom_model_data": 61}, "model": "minecraft:item/crossbow" }
+		{ "predicate": { "custom_model_data": 61}, "model": "outsourced:christmas/newyears/set2/crossbow" },
+        { "predicate": {"pulling":1, "custom_model_data": 61}, "model": "outsourced:christmas/newyears/set2/crossbow_0" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 61}, "model": "outsourced:christmas/newyears/set2/crossbow_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 61}, "model": "outsourced:christmas/newyears/set2/crossbow_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 61}, "model": "outsourced:christmas/newyears/set2/crossbow_2" },
+        { "predicate": {"charged":1, "custom_model_data": 61}, "model": "outsourced:christmas/newyears/set2/crossbow_charged" },
+
+        { "predicate": { "custom_model_data": 70}, "model": "minecraft:item/crossbow" }
 	]
     
 }

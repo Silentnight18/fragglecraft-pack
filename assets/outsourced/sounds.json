@@ -1168,6 +1168,120 @@
 "custom.emssanta.mumble": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/mumble1" }, { "name": "outsourced:custom/mobs/emssanta/mumble2" }, { "name": "outsourced:custom/mobs/emssanta/mumble3" }, { "name": "outsourced:custom/mobs/emssanta/mumble4" } ], "subtitle": "Santa Mumbles", "attenuation_distance": "16" }, 
 "custom.emssanta.hurt": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/hurt1" }, { "name": "outsourced:custom/mobs/emssanta/hurt2" }, { "name": "outsourced:custom/mobs/emssanta/hurt3" }, { "name": "outsourced:custom/mobs/emssanta/hurt4" }, { "name": "outsourced:custom/mobs/emssanta/hurt5" } ], "subtitle": "Santa Hurt", "attenuation_distance": "16" }, 
 "custom.emssanta.attack": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/attack1" }, { "name": "outsourced:custom/mobs/emssanta/attack2" }, { "name": "outsourced:custom/mobs/emssanta/attack3" }, { "name": "outsourced:custom/mobs/emssanta/attack4" } ], "subtitle": "Santa attacks", "attenuation_distance": "16" },
-"custom.emssanta.attackb": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/attackb1" }, { "name": "outsourced:custom/mobs/emssanta/attackb2" } ], "subtitle": "Santa attacks" } 
-
+"custom.emssanta.attackb": { "category": "hostile", "sounds": [ { "name": "outsourced:custom/mobs/emssanta/attackb1" }, { "name": "outsourced:custom/mobs/emssanta/attackb2" } ], "subtitle": "Santa attacks" }, 
+"littleroom.kriger.awaken":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/awaken"
+	]
+},
+"littleroom.kriger.death":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/death"
+	]
+},
+"littleroom.kriger.deathbreath":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/deathbreath"
+	]
+},
+"littleroom.kriger.impact01":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/impact01"
+	]
+},
+"littleroom.kriger.impact02":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/impact02"
+	]
+},
+"littleroom.kriger.impact03":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/impact03"
+	]
+},
+"littleroom.kriger.impact04":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/impact04"
+	]
+},
+"littleroom.kriger.phantom_hit01":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/phantom_hit01"
+	]
+},
+"littleroom.kriger.phantom_hit02":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/phantom_hit02"
+	]
+},
+"littleroom.kriger.phantom_hit03":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/phantom_hit03"
+	]
+},
+"littleroom.kriger.phantom_hit04":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/phantom_hit04"
+	]
+},
+"littleroom.kriger.phantom_swing01":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/phantom_swing01"
+	]
+},
+"littleroom.kriger.phantom_swing02":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/phantom_swing02"
+	]
+},
+"littleroom.kriger.phantom_swing03":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/phantom_swing03"
+	]
+},
+"littleroom.kriger.phantom_swing04":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/phantom_swing04"
+	]
+},
+"littleroom.kriger.stun01":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/stun01"
+	]
+},
+"littleroom.kriger.stun02":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/stun02"
+	]
+},
+"littleroom.kriger.stun03":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/stun03"
+	]
+},
+"littleroom.kriger.summonarms":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/summonarms"
+	]
+},
+"littleroom.kriger.sword_swing01":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/sword_swing01"
+	]
+},
+"littleroom.kriger.sword_swing02":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/sword_swing02"
+	]
+},
+"littleroom.kriger.sword_swing03":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/sword_swing03"
+	]
+},
+"littleroom.kriger.sword_swing04":{
+	"sounds": [
+	   "outsourced:littleroom/kriger/sword_swing04"
+	]
+}
 }

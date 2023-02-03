@@ -6,7 +6,7 @@
 		{"predicate": {"custom_model_data":4}, "model": "minecraft:item/cooked_chicken"},
 		{"predicate": {"custom_model_data":5}, "model": "outsourced:littleroom/xmastreebox"},
 		{"predicate": {"custom_model_data":6}, "model": "outsourced:littleroom/coffee"},
-		{"predicate": {"custom_model_data":7}, "model": "outsourced:littleroom/firecrackers"},
+		{"predicate": {"custom_model_data":7}, "model": "outsourced:littleroom/newyears/firecrackers"},
 		{"predicate": {"custom_model_data":10}, "model": "minecraft:item/template_spawn_egg"}
 	]
 }

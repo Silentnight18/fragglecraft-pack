@@ -10,6 +10,8 @@
 		{ "predicate": { "custom_model_data": 1227}, "model": "outsourced:christmas/suits/jolly_boots" },
 		{ "predicate": { "custom_model_data": 1228}, "model": "outsourced:christmas/suits/santas_boots" },
 		{ "predicate": { "custom_model_data": 1229}, "model": "outsourced:christmas/set5/spirit_boots" },
+		{ "predicate": { "custom_model_data": 1230}, "model": "outsourced:christmas/newyears/set1/boots_icon" },
+		{ "predicate": { "custom_model_data": 1231}, "model": "outsourced:christmas/newyears/set2/lunarset_boots" },
 		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_boots" },
 		{ "predicate": { "custom_model_data": 1910}, "model": "custom/armor/santa_boots_one" },
 		{ "predicate": { "custom_model_data": 1911}, "model": "custom/armor/santa_boots_two" }

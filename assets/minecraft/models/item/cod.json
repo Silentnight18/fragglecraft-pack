@@ -88,8 +88,13 @@
 		{ "predicate": { "custom_model_data": 1308}, "model": "minecraft:item/cod" },
 		{ "predicate": { "custom_model_data": 1311}, "model": "fraggle:extra/fun/jinglebellrockfish" },
 		{ "predicate": { "custom_model_data": 1313}, "model": "fraggle:extra/fun/garlandguppy" },
+		{ "predicate": { "custom_model_data": 1314}, "model": "fraggle:extra/fun/blobberfish" },
+		{ "predicate": { "custom_model_data": 1315}, "model": "fraggle:extra/fun/christmasangler" },
+		{ "predicate": { "custom_model_data": 1316}, "model": "fraggle:extra/fun/christmascoral" },
+		{ "predicate": { "custom_model_data": 1317}, "model": "fraggle:extra/fun/joyfuljellyfish" },
+		{ "predicate": { "custom_model_data": 1318}, "model": "fraggle:extra/fun/rednoseshark" },
 
-		{ "predicate": { "custom_model_data": 1315}, "model": "minecraft:item/cod" }
+		{ "predicate": { "custom_model_data": 1323}, "model": "minecraft:item/cod" }
 
 	]
 }

@@ -12,6 +12,23 @@
         { "predicate": { "custom_model_data": 49 }, "model": "outsourced:christmas/bs_ice_chunk" },
         { "predicate": { "custom_model_data": 50 }, "model": "outsourced:christmas/bs_ice_chunk_2" },
         { "predicate": { "custom_model_data": 51 }, "model": "outsourced:christmas/bs_ice_spike_large" },
-        { "predicate": { "custom_model_data": 52 }, "model": "outsourced:christmas/bs_ice_spike_small" }
+        { "predicate": { "custom_model_data": 52 }, "model": "outsourced:christmas/bs_ice_spike_small" },
+        { "predicate": { "custom_model_data": 53 }, "model": "outsourced:christmas/newyears/lunar_umbrella_1" },
+        { "predicate": { "custom_model_data": 54}, "model": "minecraft:block/custom/noteblock_1" },
+		{ "predicate": { "custom_model_data": 55}, "model": "minecraft:block/custom/noteblock_2" },
+		{ "predicate": { "custom_model_data": 56}, "model": "minecraft:block/custom/noteblock_3" },
+        { "predicate": { "custom_model_data": 57 }, "model": "outsourced:events/valentines/bs_box_of_chocolates" },
+        { "predicate": { "custom_model_data": 58 }, "model": "outsourced:events/valentines/bs_heart_balloons" },
+        { "predicate": { "custom_model_data": 59 }, "model": "outsourced:events/valentines/bs_heart_glasses" },
+        { "predicate": { "custom_model_data": 60 }, "model": "outsourced:events/valentines/bs_love_teddy_bear" },
+        { "predicate": { "custom_model_data": 61 }, "model": "outsourced:events/valentines/bs_ring_box" },
+        { "predicate": { "custom_model_data": 62 }, "model": "outsourced:events/valentines/bs_rose_bouquet" },
+        { "predicate": { "custom_model_data": 63 }, "model": "outsourced:events/valentines/bs_rose_in_glass" },
+        { "predicate": { "custom_model_data": 64 }, "model": "outsourced:events/valentines/bs_candy_heart_1" },
+        { "predicate": { "custom_model_data": 65 }, "model": "outsourced:events/valentines/bs_candy_heart_2" },
+        { "predicate": { "custom_model_data": 66 }, "model": "outsourced:events/valentines/bs_candy_heart_3" },
+        { "predicate": { "custom_model_data": 67 }, "model": "outsourced:events/valentines/bs_candy_heart_4" },
+        { "predicate": { "custom_model_data": 68 }, "model": "outsourced:events/valentines/bs_candy_heart_5" }
+    
     ]
 }
