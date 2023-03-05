@@ -1,0 +1,75 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "outsourced:events/valentines/cupidbow1",
+		"particle": "outsourced:events/valentines/cupidbow1"
+	},
+	"elements": [
+		{
+			"from": [9.74998, 5.8352, 4.79736],
+			"to": [10.94998, 7.0352, 10.67736],
+			"rotation": {"angle": 0, "axis": "x", "origin": [10.34998, 7.3352, 7.67736]},
+			"faces": {
+				"north": {"uv": [13, 15, 14, 16], "texture": "#1"},
+				"east": {"uv": [13, 15, 16, 16], "texture": "#1"},
+				"south": {"uv": [13, 15, 14, 16], "texture": "#1"},
+				"west": {"uv": [13, 15, 16, 16], "texture": "#1"},
+				"up": {"uv": [16, 16, 13, 15], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [16, 15, 13, 16], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [10.34998, -5.2648, -1.92264],
+			"to": [10.34998, 21.1352, 20.87736],
+			"rotation": {"angle": 0, "axis": "z", "origin": [10.34998, -1.3648, 10.07736]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2], "texture": "#1"},
+				"east": {"uv": [11.75, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 2], "texture": "#1"},
+				"west": {"uv": [0, 0, 11.75, 16], "texture": "#1"},
+				"up": {"uv": [0, 5.5, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 5.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [89, 0, 12],
+			"translation": [-3.25, -1.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [89, 0, 12],
+			"translation": [1.25, -1.5, 1.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [94, -30, -30],
+			"translation": [0.5, 3, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [94, -21, 14],
+			"translation": [4.25, 2.5, -1.25]
+		},
+		"ground": {
+			"rotation": [54, 12, 6],
+			"translation": [0, 4, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [72, -134, -78],
+			"translation": [1.25, 1.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -2, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "LEFTarm",
+			"origin": [-3, 12.53191, 1.53546],
+			"children": [0, 1]
+		}
+	]
+}

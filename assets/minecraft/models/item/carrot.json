@@ -7,7 +7,10 @@
         {"predicate": {"custom_model_data": 1}, "model": "minecraft:item/carrot" },
         {"predicate": {"custom_model_data": 2}, "model": "fraggle:extra/fun/cookie_man_cooked" },
         {"predicate": {"custom_model_data": 10}, "model": "fraggle:extra/fun/reindeertreat" },
-        {"predicate": {"custom_model_data": 11}, "model": "minecraft:item/carrot" }
+        {"predicate": { "custom_model_data": 11 }, "model": "outsourced:events/valentines/bs_box_of_chocolates" },
+        {"predicate": { "custom_model_data": 12 }, "model": "outsourced:events/valentines/set2/chocolate_box" },
+        { "predicate": { "custom_model_data": 13 }, "model": "outsourced:events/valentines/furni/chocolate_box" },
+        {"predicate": {"custom_model_data": 20}, "model": "minecraft:item/carrot" }
        
 	]
 }

@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "outsourced:samus/amethyst_texture/spear_pierce3",
+		"particle": "outsourced:samus/amethyst_texture/spear_pierce3"
+	},
+	"elements": [
+		{
+			"from": [-4.5, 7.175, -5.2],
+			"to": [20.5, 7.175, 19.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.5, 8]},
+			"faces": {
+				"north": {"uv": [3.5, 0.5, 5.5, 2.5], "texture": "#0"},
+				"east": {"uv": [3.5, 0.5, 5.5, 2.5], "texture": "#0"},
+				"south": {"uv": [3.5, 0.5, 5.5, 2.5], "texture": "#0"},
+				"west": {"uv": [3.5, 0.5, 5.5, 2.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4.5, -5.75, 7],
+			"to": [20.5, 19.25, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [3.5, 0.5, 5.5, 2.5], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [3.5, 0.5, 5.5, 2.5], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [3.5, 0.5, 5.5, 2.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [3.5, 0.5, 5.5, 2.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [2, -18, 54],
+			"scale": [2, 2, 2]
+		}
+	}
+}

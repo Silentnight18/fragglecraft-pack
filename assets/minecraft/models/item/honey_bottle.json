@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/honey_bottle"
+    },
+	"overrides": [		
+		{"predicate": { "custom_model_data": 14}, "model": "outsourced:events/valentines/set2/love_bomb" },
+		{"predicate": {"custom_model_data":20}, "model": "minecraft:item/honey_bottle"}
+	]
+}

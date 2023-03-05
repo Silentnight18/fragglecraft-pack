@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "outsourced:samus/ender_texture/ender_circle_3",
+		"particle": "outsourced:samus/ender_texture/ender_circle_3"
+	},
+	"elements": [
+		{
+			"from": [-4.3, 7.5, -4.3],
+			"to": [20.3, 7.5, 20.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.5, 8]},
+			"faces": {
+				"north": {"uv": [8, 0, 15.5, 0], "texture": "#0"},
+				"east": {"uv": [8, 0.5, 15.5, 0.5], "texture": "#0"},
+				"south": {"uv": [8, 1, 15.5, 1], "texture": "#0"},
+				"west": {"uv": [8, 1.5, 15.5, 1.5], "texture": "#0"},
+				"up": {"uv": [7.5, 7.5, 0, 0], "texture": "#0"},
+				"down": {"uv": [7.5, 0, 0, 7.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -42.25, 0],
+			"scale": [3, 3, 3]
+		}
+	}
+}

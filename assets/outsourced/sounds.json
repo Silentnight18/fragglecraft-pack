@@ -1283,5 +1283,541 @@
 	"sounds": [
 	   "outsourced:littleroom/kriger/sword_swing04"
 	]
-}
+},
+"samus.kraken_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/mopets2/kraken_idle1",
+	  "outsourced:samus/mopets2/kraken_idle2"
+    ]
+  },
+  "samus.kraken_interact": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/mopets2/kraken_interact"
+    ]
+  },
+  "samus.mage_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/mopets2/mage_idle1",
+	  "outsourced:samus/mopets2/mage_idle2"
+    ]
+  },
+  "samus.mage_interact": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/mopets2/mage_interact"
+    ]
+  },
+  "samus.sprite_interact": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/mopets2/sprite_interact"
+    ]
+  },
+  "samus.sprite_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/mopets2/sprite_idle1",
+	  "outsourced:samus/mopets2/sprite_idle2"
+    ]
+  },
+  "samus.unicorn_interact": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/mopets2/unicorn_interact"
+    ]
+  },
+  "samus.unicorn_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/mopets2/unicorn_idle1",
+	  "outsourced:samus/mopets2/unicorn_idle2"
+    ]
+  },
+  "samus.cupid_bow": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/valentines/cupid_bow1",
+	  "outsourced:samus/valentines/cupid_bow2"
+    ]
+  },
+  "samus.love_hit": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/valentines/love_hit"
+    ]
+  },
+  "samus.love_skill": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/valentines/love_skill"
+    ]
+  },
+  "samus.lovebunny_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/valentines/lovebunny_idle1",
+	  "outsourced:samus/valentines/lovebunny_idle2"
+    ]
+  },
+  "samus.lovebunny_skill": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/valentines/lovebunny_skill"
+    ]
+  },
+  "samus.kobold_archer_bow": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/kobold_archer_bow"
+    ]
+  },
+  "samus.kobold_attack": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/kobold_attack"
+    ]
+  },
+  "samus.kobold_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/kobold_idle"
+    ]
+  },
+  "samus.kobold_warrior_sword": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/kobold_warrior_sword"
+    ]
+  },
+  "samus.mimic_attack": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/mimic_attack"
+    ]
+  },
+  "samus.mimic_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/mimic_idle"
+    ]
+  },
+  "samus.plant_monster_attack": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/plant_monster_attack"
+    ]
+  },
+  "samus.plant_monster_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/plant_monster_idle"
+    ]
+  },
+  "samus.salamander_attack": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/salamander_attack"
+    ]
+  },
+  "samus.salamander_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/salamander_idle"
+    ]
+  },
+  "samus.snail_attack": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/snail_attack"
+    ]
+  },
+  "samus.snail_hit": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/snail_hit"
+    ]
+  },
+  "samus.stone_minion_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/stone_minion_idle"
+    ]
+  },
+  "samus.stone_minion_roll": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/stone_minion_roll"
+    ]
+  },
+  "samus.wraith_attack": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/wraith_attack"
+    ]
+  },
+  "samus.wraith_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/wraith_idle"
+    ]
+  },
+  "samus.stone_golem_attack": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/stone_golem_attack"
+    ]
+  },
+  "samus.stone_golem_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rms_dark_forest/stone_golem_idle"
+    ]
+  },
+  "littleroom.fairies.fairy_flee":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/fairy_flee"
+	]
+},
+"littleroom.fairies.giggle_01":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/giggle_01"
+	]
+},
+"littleroom.fairies.giggle_02":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/giggle_02"
+	]
+},
+"littleroom.fairies.giggle_03":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/giggle_03"
+	]
+},
+"littleroom.fairies.giggle_04":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/giggle_04"
+	]
+},
+"littleroom.fairies.giggle_bottle_01":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/giggle_bottle_01"
+	]
+},
+"littleroom.fairies.giggl_bottlee_02":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/giggle_bottle_02"
+	]
+},
+"littleroom.fairies.giggle_bottle_03":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/giggle_bottle_03"
+	]
+},
+"littleroom.fairies.giggle_bottle_04":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/giggle_bottle_04"
+	]
+},
+"littleroom.fairies.glass_break":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/glass_break"
+	]
+},
+"littleroom.fairies.magic_01":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/magic_01"
+	]
+},
+"littleroom.fairies.magic_02":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/magic_02"
+	]
+},
+"littleroom.fairies.magic_03":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/magic_03"
+	]
+},
+"littleroom.fairies.magic_04":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/magic_04"
+	]
+},
+"littleroom.fairies.magic_05":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/magic_05"
+	]
+},
+"littleroom.fairies.fairy_hmph":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/fairy_hmph"
+	]
+},
+"littleroom.fairies.bottle_grab_01":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/bottle_grab_01"
+	]
+},
+"littleroom.fairies.bottle_grab_02":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/bottle_grab_02"
+	]
+},
+"littleroom.fairies.bottle_grab_03":{
+	"sounds": [
+	   "outsourced:littleroom/fairies/bottle_grab_03"
+	   ]
+},
+"samus.emerald_slash": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/emerald/emerald_slash"
+    ]
+  },
+  "samus.emerald_heal": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/emerald/emerald_heal"
+    ]
+  },
+  "samus.emerald_barrier": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/emerald/emerald_barrier"
+    ]
+  },
+  "samus.prismarine_pull": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/prismarine/prismarine_pull"
+    ]
+  },
+  "samus.prismarine_slash": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/prismarine/prismarine_slash"
+    ]
+  },
+  "samus.prismarine_spin": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/prismarine/prismarine_spin"
+    ]
+  },
+  "samus.amethyst_sparkle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/amethyst/amethyst_sparkle"
+    ]
+  },
+  "samus.shooting_star": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/amethyst/shooting_star"
+    ]
+  },
+  "samus.shooting_star_explosion": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/amethyst/shooting_star_explosion"
+    ]
+  },
+  "samus.spear_pierce": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/amethyst/spear_pierce_1",
+	  "outsourced:samus/amethyst/spear_pierce_2",
+	  "outsourced:samus/amethyst/spear_pierce_3"
+    ]
+  },
+  "samus.discharge": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/discharge"
+    ]
+  },
+  "samus.lightning": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/lightning"
+    ]
+  },
+  "samus.mjolnir_catch": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/mjolnir_catch"
+    ]
+  },
+  "samus.mjolnir_throw": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/mjolnir_throw"
+    ]
+  },
+  "samus.thor_enchant": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/thor_enchant"
+    ]
+  },
+  "samus.thor_hit": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/thor_hit_1",
+	  "outsourced:samus/thor/thor_hit_2",
+	  "outsourced:samus/thor/thor_hit_3"
+    ]
+  },
+  "samus.thunder_clap": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/thunder_clap"
+    ]
+  },
+  "samus.thunder_clap_big": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/thunder_clap_big"
+    ]
+  },
+  "samus.thunder_smash": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/thunder_smash"
+    ]
+  },
+  "samus.thunder_leap": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/thunder_leap"
+    ]
+  },
+  "samus.thunder_clap_medium": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/thor/thunder_clap_medium"
+    ]
+  },
+  "littleroom.dungeon.clay_break":{
+	"sounds": [
+	   "outsourced:littleroom/dungeon/clay_break"
+	]
+},
+"littleroom.dungeon.metal_break":{
+	"sounds": [
+	   "outsourced:littleroom/dungeon/metal_break"
+	]
+},
+"littleroom.dungeon.saw_hit":{
+	"sounds": [
+	   "outsourced:littleroom/dungeon/saw_hit"
+	]
+},
+"littleroom.dungeon.saw_loop":{
+	"sounds": [
+	   "outsourced:littleroom/dungeon/saw_loop"
+	]
+},
+"littleroom.dungeon.wood_break":{
+	"sounds": [
+	   "outsourced:littleroom/dungeon/wood_break"
+	]
+},
+"littleroom.dungeon.spawn_set":{
+	"sounds": [
+	   "outsourced:littleroom/dungeon/spawn_set"
+	]
+},
+"littleroom.dungeon.coin_pickup":{
+	"sounds": [
+	   "outsourced:littleroom/dungeon/coin_pickup"
+	]
+},
+"littleroom.dungeon.loot_open":{
+	"sounds": [
+	   "outsourced:littleroom/dungeon/loot_open"
+	]
+},
+"samus.cod_attack": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/cod/cod_attack"
+    ]
+  },
+  "samus.cod_erupt": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/cod/cod_erupt"
+    ]
+  },
+  "samus.cod_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/cod/cod_idle"
+    ]
+  },
+  "samus.cod_jump": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/cod/cod_jump"
+    ]
+  },
+  "samus.cod_magic": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/cod/cod_magic"
+    ]
+  },
+  "samus.cod_poison": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/cod/cod_poison"
+    ]
+  },
+  "samus.cod_slam": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/cod/cod_slam"
+    ]
+  },
+  "samus.dragon_dash": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rpg_mount/dragon_dash"
+    ]
+  },
+  "samus.dragon_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rpg_mount/dragon_idle"
+    ]
+  },
+  "samus.lizard_dash": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rpg_mount/lizard_dash"
+    ]
+  },
+  "samus.lizard_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rpg_mount/lizard_idle"
+    ]
+  },
+  "samus.sabertooth_dash": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rpg_mount/sabertooth_dash_1",
+	  "outsourced:samus/rpg_mount/sabertooth_dash_2"
+    ]
+  },
+  "samus.sabertooth_idle": {
+    "category": "master",
+    "sounds": [
+      "outsourced:samus/rpg_mount/sabertooth_idle"
+    ]
+  }
 }

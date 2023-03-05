@@ -25,7 +25,15 @@
 		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:ec/set2/hoe" },
 		{ "predicate": { "custom_model_data": 61}, "model": "outsourced:christmas/set5/hoe" },
 		{ "predicate": { "custom_model_data": 62}, "model": "outsourced:christmas/newyears/set2/hoe" },
+		{ "predicate": { "custom_model_data": 63}, "model": "outsourced:events/valentines/set1/hoe" },
+		{ "predicate": { "custom_model_data": 64}, "model": "outsourced:events/valentines/set5/hoe" },
+		{ "predicate": { "custom_model_data": 65}, "model": "outsourced:events/valentines/set3/valentines_hoe" },
+		{ "predicate": { "custom_model_data": 66}, "model": "outsourced:events/valentines/set4/love_hoe" },
 
-		{ "predicate": { "custom_model_data": 70}, "model": "minecraft:item/netherite_hoe" }
+		{ "predicate": { "custom_model_data": 68}, "model": "outsourced:events/patty/set1/hoe" },
+		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set2/hoe" },
+		{ "predicate": { "custom_model_data": 70}, "model": "outsourced:events/patty/set3/clover_hoe" },
+
+		{ "predicate": { "custom_model_data": 80}, "model": "minecraft:item/netherite_hoe" }
 	]
 }

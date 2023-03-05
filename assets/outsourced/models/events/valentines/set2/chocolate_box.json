@@ -1,0 +1,167 @@
+{
+	"credit": "Made with Blockbench, by EnderIzzy124. Contact me on discord @EnderIzzy124#8340!",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "outsourced:events/valentines/set2/chocolate_box_texture",
+		"particle": "outsourced:events/valentines/set2/chocolate_box_texture"
+	},
+	"elements": [
+		{
+			"name": "box",
+			"from": [4, 0, 5],
+			"to": [12, 2, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 8]},
+			"faces": {
+				"north": {"uv": [4.5, 0, 8.5, 1], "texture": "#0"},
+				"east": {"uv": [4.5, 3, 7.5, 4], "texture": "#0"},
+				"south": {"uv": [4.5, 1.5, 8.5, 2.5], "texture": "#0"},
+				"west": {"uv": [4.5, 4.5, 7.5, 5.5], "texture": "#0"},
+				"down": {"uv": [4, 0, 0, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lid",
+			"from": [3.75, 1.5, 4.75],
+			"to": [12.25, 3, 11.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.25, 8]},
+			"faces": {
+				"north": {"uv": [4.5, 6, 8.5, 6.5], "texture": "#0"},
+				"east": {"uv": [4.5, 7, 7.5, 7.5], "texture": "#0"},
+				"south": {"uv": [0, 7, 4, 7.5], "texture": "#0"},
+				"west": {"uv": [0, 8, 3, 8.5], "texture": "#0"},
+				"up": {"uv": [4, 6.5, 0, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lid_under",
+			"from": [3.75, 2.499, 4.75],
+			"to": [12.25, 2.499, 11.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 2.999, 8.25]},
+			"faces": {
+				"down": {"uv": [4, 12.5, 0, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bow_right",
+			"from": [8, 3, 7.5],
+			"to": [10, 5, 8.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 3, 8]},
+			"faces": {
+				"east": {"uv": [8, 3, 8.5, 4], "texture": "#0"},
+				"west": {"uv": [3.5, 8, 4, 9], "texture": "#0"},
+				"up": {"uv": [5.5, 8.5, 4.5, 8], "texture": "#0"},
+				"down": {"uv": [9, 4.5, 8, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bow_left",
+			"from": [6, 3, 7.5],
+			"to": [8, 5, 8.5],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 3, 8]},
+			"faces": {
+				"east": {"uv": [6, 8, 6.5, 9], "texture": "#0"},
+				"west": {"uv": [7, 8, 7.5, 9], "texture": "#0"},
+				"up": {"uv": [9, 7.5, 8, 7], "texture": "#0"},
+				"down": {"uv": [9, 8, 8, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bow_right inverted",
+			"from": [10, 5, 8.5],
+			"to": [8, 3, 7.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 3, 8]},
+			"faces": {
+				"east": {"uv": [3.5, 9, 4, 8], "texture": "#0"},
+				"west": {"uv": [8, 4, 8.5, 3], "texture": "#0"},
+				"up": {"uv": [8, 4.5, 9, 5], "texture": "#0"},
+				"down": {"uv": [4.5, 8.5, 5.5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bow_left inverted",
+			"from": [8, 5, 8.5],
+			"to": [6, 3, 7.5],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 3, 8]},
+			"faces": {
+				"east": {"uv": [7, 9, 7.5, 8], "texture": "#0"},
+				"west": {"uv": [6, 9, 6.5, 8], "texture": "#0"},
+				"up": {"uv": [8, 8, 9, 8.5], "texture": "#0"},
+				"down": {"uv": [8, 7.5, 9, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lid inverted",
+			"from": [12.25, 3, 11.25],
+			"to": [3.75, 1.5, 4.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 7.5, 4, 7], "texture": "#0"},
+				"east": {"uv": [0, 8.5, 3, 8], "texture": "#0"},
+				"south": {"uv": [4.5, 6.5, 8.5, 6], "texture": "#0"},
+				"west": {"uv": [4.5, 7.5, 7.5, 7], "texture": "#0"},
+				"down": {"uv": [0, 6.5, 4, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "heart",
+			"from": [7, 1, 4.725],
+			"to": [9, 3, 4.725],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 2, 4.725]},
+			"faces": {
+				"north": {"uv": [4.5, 9.5, 5.5, 10.5], "texture": "#0"},
+				"south": {"uv": [4.5, 9.5, 5.5, 10.5], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 3.75],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 3],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"translation": [2.5, 8.5, 0],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"translation": [2.5, 8.5, 0],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 6.75, 0],
+			"scale": [1.35, 1.35, 1.35]
+		},
+		"head": {
+			"translation": [0, 19.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -12.75],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "chocolate_box",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+		}
+	]
+}

@@ -18,6 +18,30 @@
 		{"predicate": {"custom_model_data":1968}, "model": "flamos_model/icon_flame_slash"},
 		{"predicate": {"custom_model_data":1969}, "model": "flamos_model/icon_hellfire_slash"},
 		{"predicate": {"custom_model_data":1970}, "model": "flamos_model/icon_inferno_orbs"},
-		{"predicate": {"custom_model_data":1971}, "model": "flamos_model/icon_inferno_wheel"}
+		{"predicate": {"custom_model_data":1971}, "model": "flamos_model/icon_inferno_wheel"},
+		
+		{"predicate": {"custom_model_data":2000}, "model": "outsourced:samus/emerald_model/icon_emerald_slash"},
+		{"predicate": {"custom_model_data":2001}, "model": "outsourced:samus/emerald_model/icon_emerald_barrier"},
+		{"predicate": {"custom_model_data":2002}, "model": "outsourced:samus/amethyst_model/icon_amethyst_pierce"},
+		{"predicate": {"custom_model_data":2003}, "model": "outsourced:samus/amethyst_model/icon_amethyst_sparkle"},
+		{"predicate": {"custom_model_data":2004}, "model": "outsourced:samus/amethyst_model/icon_shooting_star"},
+		{"predicate": {"custom_model_data":2005}, "model": "outsourced:samus/prismarine_model/icon_marine_spin"},
+		{"predicate": {"custom_model_data":2006}, "model": "outsourced:samus/prismarine_model/icon_prismarine_anchor"},
+		{"predicate": {"custom_model_data":2007}, "model": "outsourced:samus/prismarine_model/icon_prismarine_slash"},
+		{"predicate": {"custom_model_data":2008}, "model": "outsourced:samus/phantom_model/icon_phantom_slash"},
+		{"predicate": {"custom_model_data":2009}, "model": "outsourced:samus/phantom_model/icon_scythe_throw"},
+		{"predicate": {"custom_model_data":2010}, "model": "outsourced:samus/phantom_model/icon_shadow_curse"},
+		{"predicate": {"custom_model_data":2011}, "model": "outsourced:samus/phantom_model/icon_ghost_wrath"},
+		{"predicate": {"custom_model_data":2012}, "model": "outsourced:samus/ender_model/icon_ender_ball"},
+		{"predicate": {"custom_model_data":2013}, "model": "outsourced:samus/ender_model/icon_ender_beam"},
+		{"predicate": {"custom_model_data":2014}, "model": "outsourced:samus/ender_model/icon_ender_shadow"},
+		{"predicate": {"custom_model_data":2015}, "model": "outsourced:samus/ender_model/icon_teleport"},
+
+		{"predicate": {"custom_model_data":2022}, "model": "outsourced:samus/thor_model/icon_mighty_thunder"},
+		{"predicate": {"custom_model_data":2023}, "model": "outsourced:samus/thor_model/icon_hammer_strike"},
+		{"predicate": {"custom_model_data":2024}, "model": "outsourced:samus/thor_model/icon_hammer_throw"},
+		{"predicate": {"custom_model_data":2025}, "model": "outsourced:samus/thor_model/icon_asgardian_fury"},
+		{"predicate": {"custom_model_data":2026}, "model": "outsourced:samus/thor_model/icon_thunder_shockwave"},
+		{"predicate": {"custom_model_data":2027}, "model": "outsourced:samus/thor_model/icon_thunder_smash"}
 	]
 }

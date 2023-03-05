@@ -5,6 +5,11 @@
 	  "layer1": "item/leather_chestplate_overlay"
 	},
 	"overrides": [
+		{ "predicate": { "custom_model_data": 1215}, "model": "custom/armor/vstux_chestplate" },
+		{ "predicate": { "custom_model_data": 1216}, "model": "custom/armor/vsdress_chestplate" },
+		{ "predicate": { "custom_model_data": 1217}, "model": "custom/armor/sweetheartset_chestplate" },
+		{ "predicate": { "custom_model_data": 1218}, "model": "custom/armor/valentines_chestplate" },
+		{ "predicate": { "custom_model_data": 1219}, "model": "custom/armor/cupid_chestplate" },
 		{ "predicate": { "custom_model_data": 1225}, "model": "outsourced:christmas/suits/xmas_chestplate" },
 		{ "predicate": { "custom_model_data": 1226}, "model": "outsourced:christmas/suits/christmas_chestplate" },
 		{ "predicate": { "custom_model_data": 1227}, "model": "outsourced:christmas/suits/jolly_chestplate" },
@@ -12,9 +17,24 @@
 		{ "predicate": { "custom_model_data": 1229}, "model": "outsourced:christmas/set5/spirit_chestplate" },
 		{ "predicate": { "custom_model_data": 1230}, "model": "outsourced:christmas/newyears/set1/chestplate_icon" },
 		{ "predicate": { "custom_model_data": 1231}, "model": "outsourced:christmas/newyears/set2/lunarset_chestplate" },
+
+		
+		{ "predicate": { "custom_model_data": 1233}, "model": "custom/armor/eclichchest" },
+		{ "predicate": { "custom_model_data": 1234}, "model": "custom/armor/ecdruidchest" },
+		{ "predicate": { "custom_model_data": 1235}, "model": "custom/armor/patrick_chestplate" },
+		{ "predicate": { "custom_model_data": 1236}, "model": "custom/armor/patrick_v2_chestplate" },
+		{ "predicate": { "custom_model_data": 1237}, "model": "custom/armor/clover_vest" },
+		
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
-		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_chestplate" }
+		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_chestplate" },
+
+		{ "predicate": { "custom_model_data": 2000}, "model": "custom/armor/emerald_chestplate" },
+		{ "predicate": { "custom_model_data": 2001}, "model": "custom/armor/amethyst_chestplate" },
+		{ "predicate": { "custom_model_data": 2002}, "model": "custom/armor/prismarine_chestplate" },
+		{ "predicate": { "custom_model_data": 2003}, "model": "custom/armor/phantom_chestplate" },
+		{ "predicate": { "custom_model_data": 2004}, "model": "custom/armor/ender_chestplate" },
+		{ "predicate": { "custom_model_data": 2006}, "model": "custom/armor/thor_chestplate" }
 	]
 }

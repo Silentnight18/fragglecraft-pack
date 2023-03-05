@@ -91,11 +91,29 @@
         { "predicate": { "custom_model_data": 62}, "model": "outsourced:christmas/newyears/set2/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 62}, "model": "outsourced:christmas/newyears/set2/shield_blocking" },
 
-        { "predicate": { "custom_model_data": 69}, "model": "outsourced:littleroom/voras_tombstone_shield" },
-		{ "predicate": { "blocking": 1, "custom_model_data": 69}, "model": "outsourced:littleroom/voras_tombstone_shield_blocking" },
+        { "predicate": { "custom_model_data": 63}, "model": "outsourced:events/valentines/set1/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 63}, "model": "outsourced:events/valentines/set1/shield_blocking" },
+
+        { "predicate": { "custom_model_data": 64}, "model": "outsourced:events/valentines/set3/valentines_shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 64}, "model": "outsourced:events/valentines/set3/valentines_shield_blocking" },
+        { "predicate": { "custom_model_data": 65}, "model": "outsourced:events/valentines/set5/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 65}, "model": "outsourced:events/valentines/set5/shield_blocking" },
+
+        { "predicate": { "custom_model_data": 68}, "model": "outsourced:events/patty/set1/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 68}, "model": "outsourced:events/patty/set1/shield_blocking" },
+        { "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set2/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 69}, "model": "outsourced:events/patty/set2/shield_blocking" },
+        { "predicate": { "custom_model_data": 70}, "model": "outsourced:events/patty/set3/clover_shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 70}, "model": "outsourced:events/patty/set3/clover_shield_blocking" },
 
 
-        { "predicate": { "custom_model_data": 70}, "model": "minecraft:item/shield" },
-		{ "predicate": { "blocking": 1, "custom_model_data": 70}, "model": "minecraft:item/shield_blocking" }
+
+
+        { "predicate": { "custom_model_data": 79}, "model": "outsourced:littleroom/voras_tombstone_shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 79}, "model": "outsourced:littleroom/voras_tombstone_shield_blocking" },
+
+
+        { "predicate": { "custom_model_data": 80}, "model": "minecraft:item/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 80}, "model": "minecraft:item/shield_blocking" }
     ]
 }

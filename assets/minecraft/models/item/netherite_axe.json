@@ -40,7 +40,15 @@
 		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:ec/set2/axe" },
 		{ "predicate": { "custom_model_data": 61}, "model": "outsourced:christmas/set5/axe" },
 		{ "predicate": { "custom_model_data": 62}, "model": "outsourced:christmas/newyears/set2/axe" },
+		{ "predicate": { "custom_model_data": 63}, "model": "outsourced:events/valentines/set1/axe" },
+		{ "predicate": { "custom_model_data": 64}, "model": "outsourced:events/valentines/set2/love_axe" },
+		{ "predicate": { "custom_model_data": 65}, "model": "outsourced:events/valentines/set3/valentines_axe" },
+		{ "predicate": { "custom_model_data": 66}, "model": "outsourced:events/valentines/set4/love_axe" },
+		{ "predicate": { "custom_model_data": 67}, "model": "outsourced:events/valentines/set5/axe" },
+		{ "predicate": { "custom_model_data": 68}, "model": "outsourced:events/patty/set1/axe" },
+		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set2/axe" },
+		{ "predicate": { "custom_model_data": 70}, "model": "outsourced:events/patty/set3/clover_axe" },
 
-		{ "predicate": { "custom_model_data": 70}, "model": "minecraft:item/netherite_axe" }
+		{ "predicate": { "custom_model_data": 80}, "model": "minecraft:item/netherite_axe" }
 	]
 }

@@ -852,6 +852,35 @@
         { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 61}, "model": "outsourced:christmas/newyears/set2/crossbow_2" },
         { "predicate": {"charged":1, "custom_model_data": 61}, "model": "outsourced:christmas/newyears/set2/crossbow_charged" },
 
+		{ "predicate": { "custom_model_data": 62}, "model": "outsourced:events/valentines/set1/crossbow" },
+        { "predicate": {"pulling":1, "custom_model_data": 62}, "model": "outsourced:events/valentines/set1/crossbow_0" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 62}, "model": "outsourced:events/valentines/set1/crossbow_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 62}, "model": "outsourced:events/valentines/set1/crossbow_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 62}, "model": "outsourced:events/valentines/set1/crossbow_2" },
+        { "predicate": {"charged":1, "custom_model_data": 62}, "model": "outsourced:events/valentines/set1/crossbow_charged" },
+
+		{ "predicate": { "custom_model_data": 63}, "model": "outsourced:events/valentines/set5/crossbow" },
+        { "predicate": {"pulling":1, "custom_model_data": 63}, "model": "outsourced:events/valentines/set5/crossbow_0" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 63}, "model": "outsourced:events/valentines/set5/crossbow_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 63}, "model": "outsourced:events/valentines/set5/crossbow_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 63}, "model": "outsourced:events/valentines/set5/crossbow_2" },
+        { "predicate": {"charged":1, "custom_model_data": 63}, "model": "outsourced:events/valentines/set5/crossbow_charged" },
+
+		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set1/crossbow" },
+        { "predicate": {"pulling":1, "custom_model_data": 69}, "model": "outsourced:events/patty/set1/crossbow_0" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 69}, "model": "outsourced:events/patty/set1/crossbow_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 69}, "model": "outsourced:events/patty/set1/crossbow_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 69}, "model": "outsourced:events/patty/set1/crossbow_2" },
+        { "predicate": {"charged":1, "custom_model_data": 69}, "model": "outsourced:events/patty/set1/crossbow_charged" },
+
+		{ "predicate": { "custom_model_data": 70}, "model": "outsourced:events/patty/set2/crossbow" },
+        { "predicate": {"pulling":1, "custom_model_data": 70}, "model": "outsourced:events/patty/set2/crossbow_0" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 70}, "model": "outsourced:events/patty/set2/crossbow_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 70}, "model": "outsourced:events/patty/set2/crossbow_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 70}, "model": "outsourced:events/patty/set2/crossbow_2" },
+        { "predicate": {"charged":1, "custom_model_data": 70}, "model": "outsourced:events/patty/set2/crossbow_charged" },
+
+
         { "predicate": { "custom_model_data": 70}, "model": "minecraft:item/crossbow" }
 	]
     
