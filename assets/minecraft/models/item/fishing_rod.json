@@ -39,6 +39,20 @@
 
 		{ "predicate": { "custom_model_data": 61}, "model": "outsourced:christmas/newyears/set2/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 61}, "model": "outsourced:christmas/newyears/set2/fishing_rod_cast" },
+
+		{ "predicate": { "custom_model_data": 62}, "model": "outsourced:events/valentines/set1/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 62}, "model": "outsourced:events/valentines/set1/fishing_rod_cast" },
+
+		{ "predicate": { "custom_model_data": 63}, "model": "outsourced:events/valentines/set5/rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 63}, "model": "outsourced:events/valentines/set5/rod_cast" },
+
+		
+		{ "predicate": { "custom_model_data": 68}, "model": "outsourced:events/patty/set1/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 68}, "model": "outsourced:events/patty/set1/fishing_rod_cast" },
+
+		
+		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set2/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 69}, "model": "outsourced:events/patty/set2/fishing_rod_cast" },
 		
 		{ "predicate": { "custom_model_data": 100}, "model": "minecraft:item/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 100}, "model": "minecraft:item/fishing_rod" }

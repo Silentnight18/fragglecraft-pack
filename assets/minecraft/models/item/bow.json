@@ -30,6 +30,11 @@
         { "predicate": {"pulling":1, "pull":0.65}, "model": "minecraft:item/bow_pulling_1" },
         { "predicate": {"pulling":1, "pull":0.9}, "model": "minecraft:item/bow_pulling_2" },
 
+        {"predicate": {"custom_model_data": 14},"model": "outsourced:events/valentines/lrbow/cupidbow_0"},
+        {"predicate": {"custom_model_data": 14,"pulling": 1,"pull": 0},"model": "outsourced:events/valentines/lrbow/cupidbow_1"},
+        {"predicate": {"custom_model_data": 14,"pulling": 1,"pull": 0.65},"model": "outsourced:events/valentines/lrbow/cupidbow_2"},
+        {"predicate": {"custom_model_data": 14,"pulling": 1,"pull": 0.9},"model": "outsourced:events/valentines/lrbow/cupidbow_3"},
+
 		{ "predicate": { "custom_model_data": 30}, "model": "outsourced:duckie_set/bow" },
         { "predicate": {"pulling":1, "custom_model_data": 30}, "model": "outsourced:duckie_set/bow_0" },
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 30}, "model": "outsourced:duckie_set/bow_1" },
@@ -116,10 +121,52 @@
         { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 62}, "model": "outsourced:christmas/newyears/set2/bow_2" },
 
 
-        {"predicate": {"custom_model_data": 70},"model": "outsourced:littleroom/voras_bow"},
-        {"predicate": {"custom_model_data": 70,"pulling": 1,"pull": 0},"model": "outsourced:littleroom/voras_bow_pulling_0"},
-        {"predicate": {"custom_model_data": 70,"pulling": 1,"pull": 0.65},"model": "outsourced:littleroom/voras_bow_pulling_0"},
-        {"predicate": {"custom_model_data": 70,"pulling": 1,"pull": 0.9},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        { "predicate": { "custom_model_data": 63}, "model": "outsourced:events/valentines/set1/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 63}, "model": "outsourced:events/valentines/set1/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 63}, "model": "outsourced:events/valentines/set1/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 63}, "model": "outsourced:events/valentines/set1/bow_2" },
+
+        { "predicate": { "custom_model_data": 64}, "model": "outsourced:events/valentines/set2/love_bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 64}, "model": "outsourced:events/valentines/set2/love_bow_pull_1" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 64}, "model": "outsourced:events/valentines/set2/love_bow_pull_2" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 64}, "model": "outsourced:events/valentines/set2/love_bow_pull_3" },
+
+        { "predicate": { "custom_model_data": 65}, "model": "outsourced:events/valentines/set3/valentines_bow_black" },
+        { "predicate": {"pulling":1, "custom_model_data": 65}, "model": "outsourced:events/valentines/set3/valentines_bow_black_pulling_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 65}, "model": "outsourced:events/valentines/set3/valentines_bow_black_pulling_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 65}, "model": "outsourced:events/valentines/set3/valentines_bow_black_pulling_2" },
+
+        { "predicate": { "custom_model_data": 66}, "model": "outsourced:events/valentines/set3/valentines_bow_pink" },
+        { "predicate": {"pulling":1, "custom_model_data": 66}, "model": "outsourced:events/valentines/set3/valentines_bow_pink_pulling_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 66}, "model": "outsourced:events/valentines/set3/valentines_bow_pink_pulling_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 66}, "model": "outsourced:events/valentines/set3/valentines_bow_pink_pulling_2" },
+
+        { "predicate": { "custom_model_data": 67}, "model": "outsourced:events/valentines/set5/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 67}, "model": "outsourced:events/valentines/set5/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 67}, "model": "outsourced:events/valentines/set5/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 67}, "model": "outsourced:events/valentines/set5/bow_2" },
+
+        { "predicate": { "custom_model_data": 68}, "model": "outsourced:events/valentines/set5/lovebow" },
+        { "predicate": {"pulling":1, "custom_model_data": 68}, "model": "outsourced:events/valentines/set5/lovebow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 68}, "model": "outsourced:events/valentines/set5/lovebow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 68}, "model": "outsourced:events/valentines/set5/lovebow_2" },
+
+        { "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set1/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 69}, "model": "outsourced:events/patty/set1/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 69}, "model": "outsourced:events/patty/set1/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 69}, "model": "outsourced:events/patty/set1/bow_2" },
+        { "predicate": { "custom_model_data": 70}, "model": "outsourced:events/patty/set2/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 70}, "model": "outsourced:events/patty/set2/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 70}, "model": "outsourced:events/patty/set2/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 70}, "model": "outsourced:events/patty/set2/bow_2" },
+
+
+        {"predicate": {"custom_model_data": 80},"model": "outsourced:littleroom/voras_bow"},
+        {"predicate": {"custom_model_data": 80,"pulling": 1,"pull": 0},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        {"predicate": {"custom_model_data": 80,"pulling": 1,"pull": 0.65},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        {"predicate": {"custom_model_data": 80,"pulling": 1,"pull": 0.9},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+
+
 
         { "predicate": { "custom_model_data": 6701}, "model": "outsourced:birthday/em_bridday_m/em_confetti_cannon" },
         {

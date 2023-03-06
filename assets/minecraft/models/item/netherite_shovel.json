@@ -25,7 +25,15 @@
 		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:ec/set2/shovel" },
 		{ "predicate": { "custom_model_data": 61}, "model": "outsourced:christmas/set5/shovel" },
 		{ "predicate": { "custom_model_data": 62}, "model": "outsourced:christmas/newyears/set2/shovel" },
+		{ "predicate": { "custom_model_data": 63}, "model": "outsourced:events/valentines/set1/shovel" },
+		{ "predicate": { "custom_model_data": 64}, "model": "outsourced:events/valentines/set2/love_shovel" },
+		{ "predicate": { "custom_model_data": 65}, "model": "outsourced:events/valentines/set5/shovel" },
+		{ "predicate": { "custom_model_data": 66}, "model": "outsourced:events/valentines/set4/love_shovel" },
 
-		{ "predicate": { "custom_model_data": 70}, "model": "minecraft:item/netherite_shovel" }
+		{ "predicate": { "custom_model_data": 68}, "model": "outsourced:events/patty/set1/shovel" },
+		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set2/shovel" },
+		{ "predicate": { "custom_model_data": 70}, "model": "outsourced:events/patty/set3/clover_shovel" },
+
+		{ "predicate": { "custom_model_data": 80}, "model": "minecraft:item/netherite_shovel" }
 	]
 }

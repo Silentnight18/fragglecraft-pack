@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/writable_book"
+  },
+    "overrides": [
+		{"predicate": {"custom_model_data":14}, "model": "outsourced:events/valentines/furni/valentine_letter"},
+        {"predicate": {"custom_model_data":15}, "model": "outsourced:events/valentines/furni/rose_and_letter"},
+		{"predicate": {"custom_model_data":60}, "model": "minecraft:item/writable_book"}
+        ]
+}

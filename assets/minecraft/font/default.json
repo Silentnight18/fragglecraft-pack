@@ -584,6 +584,142 @@
             "chars": [
                 "\uE040"
             ]
+        },
+		{
+            "type": "bitmap",
+            "file": "outsourced:emotes/bear.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE041"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "outsourced:emotes/gift.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE042"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "outsourced:emotes/rings.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE043"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "outsourced:emotes/rose.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE044"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "outsourced:emotes/vheart.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE045"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "outsourced:emotes/vheart_bow.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE046"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "outsourced:emotes/vheart_tint.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE047"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "outsourced:emotes/vhearts.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE048"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "outsourced:emotes/vhearts_tint.png",
+			"ascent": 9,
+            "height": 24,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:extra/iron_exclaimation_mark.png",
+			"ascent": 9,
+            "height": 24,
+            "chars": [
+                "\uE04a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:extra/gold_exclaimation_mark.png",
+			"ascent": 9,
+            "height": 24,
+            "chars": [
+                "\uE04b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:extra/iron_question_mark.png",
+			"ascent": 9,
+            "height": 24,
+            "chars": [
+                "\uE04c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:extra/gold_question_mark.png",
+			"ascent": 9,
+            "height": 24,
+            "chars": [
+                "\uE04d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:extra/blue_exclaimation_mark.png",
+			"ascent": 9,
+            "height": 24,
+            "chars": [
+                "\uE04e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:extra/blue_question_mark.png",
+			"ascent": 9,
+            "height": 24,
+            "chars": [
+                "\uE04f"
+            ]
         }
+
 		]
 }

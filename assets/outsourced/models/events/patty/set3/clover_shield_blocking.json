@@ -1,0 +1,151 @@
+{
+	"credit": "Made with Blockbench, by EnderIzzy124. Contact me on discord @EnderIzzy124#8340!",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "outsourced:events/patty/set3/clover_shield_texture",
+		"particle": "outsourced:events/patty/set3/clover_shield_texture"
+	},
+	"elements": [
+		{
+			"name": "center",
+			"from": [6, 6, 0.5],
+			"to": [10, 10, 2.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 8, 1.5]},
+			"faces": {
+				"north": {"uv": [4.008, 3.258, 4.992, 4.242], "texture": "#0"},
+				"east": {"uv": [6.242, 6.008, 5.758, 6.992], "texture": "#0"},
+				"south": {"uv": [4.008, 4.508, 4.992, 5.492], "texture": "#0"},
+				"west": {"uv": [5.758, 6.008, 6.242, 6.992], "texture": "#0"},
+				"up": {"uv": [7.492, 4.742, 6.508, 4.258], "texture": "#0"},
+				"down": {"uv": [7.492, 5.008, 6.508, 5.492], "texture": "#0"}
+			}
+		},
+		{
+			"name": "handle_front",
+			"from": [7, 5, 2],
+			"to": [9, 11, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 7, 3]},
+			"faces": {
+				"north": {"uv": [4.008, 5.758, 4.492, 7.242], "texture": "#0"},
+				"east": {"uv": [4.992, 5.758, 4.758, 7.242], "texture": "#0"},
+				"south": {"uv": [5.758, 4.258, 6.242, 5.742], "texture": "#0"},
+				"west": {"uv": [4.758, 5.758, 4.992, 7.242], "texture": "#0"},
+				"up": {"uv": [7.742, 0.742, 7.258, 0.508], "texture": "#0"},
+				"down": {"uv": [7.742, 1.008, 7.258, 1.242], "texture": "#0"}
+			}
+		},
+		{
+			"name": "handle_front",
+			"from": [7, 5, 7],
+			"to": [9, 11, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 7, 7]},
+			"faces": {
+				"north": {"uv": [6.242, 4.258, 5.758, 5.742], "texture": "#0"},
+				"east": {"uv": [4.758, 5.758, 4.992, 7.242], "texture": "#0"},
+				"south": {"uv": [4.492, 5.758, 4.008, 7.242], "texture": "#0"},
+				"west": {"uv": [4.992, 5.758, 4.758, 7.242], "texture": "#0"},
+				"up": {"uv": [7.742, 0.508, 7.258, 0.742], "texture": "#0"},
+				"down": {"uv": [7.742, 1.242, 7.258, 1.008], "texture": "#0"}
+			}
+		},
+		{
+			"name": "handle_bottom",
+			"from": [7, 5, 3],
+			"to": [9, 6, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5.5, 5]},
+			"faces": {
+				"east": {"uv": [8.242, 0.008, 7.258, 0.242], "texture": "#0"},
+				"west": {"uv": [7.258, 0.008, 8.242, 0.242], "texture": "#0"},
+				"up": {"uv": [6.992, 6.742, 6.508, 5.758], "texture": "#0"},
+				"down": {"uv": [6.992, 7.008, 6.508, 7.992], "texture": "#0"}
+			}
+		},
+		{
+			"name": "handle_bottom",
+			"from": [7, 10, 3],
+			"to": [9, 11, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10.5, 5]},
+			"faces": {
+				"east": {"uv": [8.242, 0.242, 7.258, 0.008], "texture": "#0"},
+				"west": {"uv": [7.258, 0.242, 8.242, 0.008], "texture": "#0"},
+				"up": {"uv": [6.992, 7.992, 6.508, 7.008], "texture": "#0"},
+				"down": {"uv": [6.992, 5.758, 6.508, 6.742], "texture": "#0"}
+			}
+		},
+		{
+			"name": "shield",
+			"from": [0.5, 0.5, 0],
+			"to": [15.5, 15.5, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.75, 3.75], "texture": "#0"},
+				"east": {"uv": [5.25, 7.25, 5.5, 11], "texture": "#0"},
+				"south": {"uv": [0, 4, 3.75, 7.75], "texture": "#0"},
+				"west": {"uv": [5.25, 3.25, 5.5, 7], "texture": "#0"},
+				"up": {"uv": [9.5, 3.5, 5.75, 3.25], "texture": "#0"},
+				"down": {"uv": [9.5, 3.75, 5.75, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "clover",
+			"from": [2, 2, -0.5],
+			"to": [14, 14, -0.5],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 8, -0.5]},
+			"faces": {
+				"north": {"uv": [4, 0, 7, 3], "texture": "#0"},
+				"south": {"uv": [4, 0, 7, 3], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [9.78, -47.3, -8.11],
+			"translation": [-1.5, -3.5, 4],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [9.78, -47.3, -8.11],
+			"translation": [-1.5, -3.5, 4],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"firstperson_righthand": {
+			"rotation": [1, 0, 6],
+			"translation": [-2.25, -0.25, 9],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, 0, 6],
+			"translation": [-2.25, -0.25, 9],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"ground": {
+			"translation": [-2, 3, 1.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [14, 145, 4],
+			"translation": [1.25, 0.5, 0],
+			"scale": [0.64, 0.64, 0.64]
+		},
+		"head": {
+			"rotation": [9, -180, 0],
+			"translation": [0, -13, -1.5],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [1.5, 0, 2.5],
+			"scale": [0.55, 0.55, 0.55]
+		}
+	},
+	"groups": [
+		{
+			"name": "clover_shield",
+			"origin": [8, 8, 8],
+			"color": 7,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

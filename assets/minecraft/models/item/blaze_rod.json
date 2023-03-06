@@ -28,6 +28,11 @@
 		{ "predicate": { "custom_model_data": 53}, "model": "outsourced:ec/newyears/set1/key" },
 		{ "predicate": { "custom_model_data": 54}, "model": "outsourced:ec/set2/key" },
 		{ "predicate": { "custom_model_data": 55}, "model": "outsourced:christmas/newyears/set2/key" },
+		{ "predicate": { "custom_model_data": 57}, "model": "outsourced:events/valentines/set1/key" },
+		{ "predicate": { "custom_model_data": 58}, "model": "outsourced:events/valentines/set5/key" },
+
+		{ "predicate": { "custom_model_data": 59}, "model": "outsourced:events/patty/set1/key" },
+		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:events/patty/set2/key" },
 
 		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:littleroom/petnet" },
 

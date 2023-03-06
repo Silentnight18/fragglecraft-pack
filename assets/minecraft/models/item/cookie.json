@@ -18,7 +18,8 @@
         {"predicate": {"custom_model_data": 130}, "model": "fraggle:extra/fun/cookie_star_cooked" },
         {"predicate": {"custom_model_data": 131}, "model": "fraggle:extra/fun/cookie_tree_cooked" },
         {"predicate": {"custom_model_data": 132}, "model": "fraggle:extra/fun/cookie_umbrella_cooked" },
-        {"predicate": {"custom_model_data": 133}, "model": "minecraft:item/cookie" },
+        {"predicate": {"custom_model_data": 133}, "model": "outsourced:events/patty/bs_shamrock_cookies" },
+        {"predicate": {"custom_model_data": 134}, "model": "minecraft:item/cookie" },
         {"predicate": {"custom_model_data": 1223}, "model": "fraggle:extra/fun/cookie_man_cooked" },
         {"predicate": {"custom_model_data": 1225}, "model": "fraggle:extra/fun/cookie_man_cooked" },
         {"predicate": {"custom_model_data": 1300}, "model": "minecraft:item/cookie" }

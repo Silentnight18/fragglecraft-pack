@@ -1,0 +1,99 @@
+{
+	"credit": "Made with Blockbench, by EnderIzzy124. Contact me on discord @EnderIzzy124#8340!",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "outsourced:events/patty/set3/leprechaun_hat_texture",
+		"particle": "outsourced:events/patty/set3/leprechaun_hat_texture"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [4, 6, 4],
+			"to": [12, 11, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.5, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 9, 9.5, 11.5], "texture": "#0"},
+				"east": {"uv": [14, 3, 10, 5.5], "texture": "#0"},
+				"south": {"uv": [10, 0, 14, 2.5], "texture": "#0"},
+				"west": {"uv": [10, 3, 14, 5.5], "texture": "#0"},
+				"up": {"uv": [9.5, 4, 5.5, 0], "texture": "#0"}
+			}
+		},
+		{
+			"name": "body_layer",
+			"from": [3.75, 5.75, 3.75],
+			"to": [12.25, 11.25, 12.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.5, 8]},
+			"faces": {
+				"north": {"uv": [10, 6, 14, 8.5], "texture": "#0"},
+				"east": {"uv": [4, 11, 0, 13.5], "texture": "#0"},
+				"south": {"uv": [10, 9, 14, 11.5], "texture": "#0"},
+				"west": {"uv": [0, 11, 4, 13.5], "texture": "#0"},
+				"up": {"uv": [9.5, 8.5, 5.5, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "rim",
+			"from": [3, 5.75, 3],
+			"to": [13, 6.75, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6.25, 8]},
+			"faces": {
+				"north": {"uv": [4.5, 12, 9.5, 12.5], "texture": "#0"},
+				"east": {"uv": [9.5, 13, 4.5, 13.5], "texture": "#0"},
+				"south": {"uv": [10, 12, 15, 12.5], "texture": "#0"},
+				"west": {"uv": [4.5, 13, 9.5, 13.5], "texture": "#0"},
+				"up": {"uv": [5, 5, 0, 0], "texture": "#0"},
+				"down": {"uv": [5, 5.5, 0, 10.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [30, 135, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"translation": [0, 5.75, 0],
+			"scale": [1.81, 1.81, 1.81]
+		},
+		"fixed": {
+			"scale": [0.75, 0.75, 0.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "leprechaun_hat",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [0, 1, 2]
+		}
+	]
+}

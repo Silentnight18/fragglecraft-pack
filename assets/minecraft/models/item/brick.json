@@ -17,18 +17,47 @@
         { "predicate": { "custom_model_data": 54}, "model": "minecraft:block/custom/noteblock_1" },
 		{ "predicate": { "custom_model_data": 55}, "model": "minecraft:block/custom/noteblock_2" },
 		{ "predicate": { "custom_model_data": 56}, "model": "minecraft:block/custom/noteblock_3" },
-        { "predicate": { "custom_model_data": 57 }, "model": "outsourced:events/valentines/bs_box_of_chocolates" },
+
         { "predicate": { "custom_model_data": 58 }, "model": "outsourced:events/valentines/bs_heart_balloons" },
-        { "predicate": { "custom_model_data": 59 }, "model": "outsourced:events/valentines/bs_heart_glasses" },
-        { "predicate": { "custom_model_data": 60 }, "model": "outsourced:events/valentines/bs_love_teddy_bear" },
-        { "predicate": { "custom_model_data": 61 }, "model": "outsourced:events/valentines/bs_ring_box" },
-        { "predicate": { "custom_model_data": 62 }, "model": "outsourced:events/valentines/bs_rose_bouquet" },
-        { "predicate": { "custom_model_data": 63 }, "model": "outsourced:events/valentines/bs_rose_in_glass" },
-        { "predicate": { "custom_model_data": 64 }, "model": "outsourced:events/valentines/bs_candy_heart_1" },
-        { "predicate": { "custom_model_data": 65 }, "model": "outsourced:events/valentines/bs_candy_heart_2" },
-        { "predicate": { "custom_model_data": 66 }, "model": "outsourced:events/valentines/bs_candy_heart_3" },
-        { "predicate": { "custom_model_data": 67 }, "model": "outsourced:events/valentines/bs_candy_heart_4" },
-        { "predicate": { "custom_model_data": 68 }, "model": "outsourced:events/valentines/bs_candy_heart_5" }
+		{ "predicate": { "custom_model_data": 59 }, "model": "outsourced:events/valentines/furni/red_candle" },
+		{ "predicate": { "custom_model_data": 60 }, "model": "outsourced:events/valentines/furni/yellow_candle" },
+		{ "predicate": { "custom_model_data": 61 }, "model": "outsourced:events/valentines/furni/rose" },
+        { "predicate": { "custom_model_data": 62 }, "model": "outsourced:events/valentines/bs_candy_heart_1" },
+        { "predicate": { "custom_model_data": 63 }, "model": "outsourced:events/valentines/bs_candy_heart_2" },
+        { "predicate": { "custom_model_data": 64 }, "model": "outsourced:events/valentines/bs_candy_heart_3" },
+        { "predicate": { "custom_model_data": 65 }, "model": "outsourced:events/valentines/bs_candy_heart_4" },
+        { "predicate": { "custom_model_data": 66 }, "model": "outsourced:events/valentines/bs_candy_heart_5" },
+        { "predicate": { "custom_model_data": 67 }, "model": "outsourced:events/valentines/furni/hanging_flowers" },
+		{ "predicate": { "custom_model_data": 68 }, "model": "outsourced:events/valentines/furni/hanging_flowers2" },
+		{ "predicate": { "custom_model_data": 69 }, "model": "outsourced:events/valentines/furni/hanging_flowers3" },
+        { "predicate": { "custom_model_data": 70 }, "model": "outsourced:events/valentines/set5/grenade" },
+        { "predicate": { "custom_model_data": 71 }, "model": "outsourced:events/valentines/roseleaves" },
+		{ "predicate": { "custom_model_data": 72 }, "model": "outsourced:events/valentines/roseleaves_giant" },
+        { "predicate": { "custom_model_data": 73 }, "model": "outsourced:events/valentines/furni/champagne_cup" },
+        { "predicate": { "custom_model_data": 74}, "model": "outsourced:furniture/flowers/tall_grass" },
+		{ "predicate": { "custom_model_data": 75}, "model": "outsourced:furniture/flowers/lavender" },
+		{ "predicate": { "custom_model_data": 76}, "model": "outsourced:furniture/flowers/snake_plant" },
+		{ "predicate": { "custom_model_data": 77}, "model": "outsourced:furniture/flowers/sunflower" },
+		{ "predicate": { "custom_model_data": 78}, "model": "outsourced:furniture/flowers/aloe_vera" },
+
+        { "predicate": { "custom_model_data": 80}, "model": "outsourced:events/patty/set1/grenade" },
+        { "predicate": { "custom_model_data": 81}, "model": "outsourced:events/patty/set3/clovers" },
+        { "predicate": { "custom_model_data": 82}, "model": "outsourced:events/patty/bs_shamrock_balloon" },
+        { "predicate": { "custom_model_data": 83}, "model": "outsourced:events/patty/bs_coin_stack_1" },
+        { "predicate": { "custom_model_data": 84}, "model": "outsourced:events/patty/bs_coin_stack_2" },
+        { "predicate": { "custom_model_data": 85}, "model": "outsourced:events/patty/bs_coin_stack_3" },
+        { "predicate": { "custom_model_data": 86}, "model": "outsourced:events/patty/bs_coin_stack_4" },
+        { "predicate": { "custom_model_data": 87}, "model": "outsourced:events/patty/bs_coin_stack_5" },
+        { "predicate": { "custom_model_data": 88}, "model": "outsourced:events/patty/bs_coin_stack_6" },
+        { "predicate": { "custom_model_data": 89}, "model": "outsourced:events/patty/bs_green_mug" },
+        { "predicate": { "custom_model_data": 90}, "model": "outsourced:events/patty/bs_shamrock_stool" },
+        { "predicate": { "custom_model_data": 91}, "model": "outsourced:events/patty/bs_shamrock_wall_decor" },
+        { "predicate": { "custom_model_data": 92}, "model": "outsourced:events/patty/bs_horseshoe_plaque" },
+        { "predicate": { "custom_model_data": 93}, "model": "outsourced:events/patty/set3/clover" },
+        { "predicate": { "custom_model_data": 94}, "model": "outsourced:events/patty/set3/lucky_gold" }
+        
+        
+        
     
     ]
 }
