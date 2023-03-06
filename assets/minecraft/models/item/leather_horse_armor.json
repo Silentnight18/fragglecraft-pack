@@ -793,7 +793,10 @@
 		{ "predicate": { "custom_model_data": 1144 }, "model": "outsourced:events/valentines/furni/teddy_bear" },
 		{ "predicate": { "custom_model_data": 1145 }, "model": "outsourced:events/valentines/furni/teddy_bear_heart" },
 		{ "predicate": { "custom_model_data": 1146 }, "model": "outsourced:events/valentines/furni/valentine_letter" },
-		{ "predicate": { "custom_model_data": 1147 }, "model": "outsourced:events/valentines/furni/wine_cups" },
+		{ "predicate": { "custom_model_data": 1147 }, "model": "outsourced:events/valentines/furni/wine_cups" },		
+		
+		{ "predicate": { "custom_model_data": 1148 }, "model": "outsourced:events/valentines/furni/ring_weareable_small_tintable" },
+		{ "predicate": { "custom_model_data": 1149 }, "model": "outsourced:events/valentines/furni/ring_weareable_large_tintable" },
 
 		{ "predicate": { "custom_model_data": 1150 }, "model": "outsourced:events/valentines/teddy_bear" },
 		{ "predicate": { "custom_model_data": 1151 }, "model": "outsourced:events/valentines/teddy_bear2" },

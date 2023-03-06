@@ -5,9 +5,13 @@
         "layer1": "item/potion"
     },
 	"overrides": [				
-		{ "predicate": { "custom_model_data": 40}, "model": "fraggle:food/drinks/hammer_mug_with_liquid" },
-		{ "predicate": { "custom_model_data": 41}, "model": "fraggle:food/drinks/mug_with_liquid_filling" },
-		{ "predicate": {"custom_model_data": 42}, "model": "minecraft:item/potion" }
+		{ "predicate": {"custom_model_data": 40}, "model": "fraggle:food/drinks/hammer_mug_with_liquid" },
+		{ "predicate": {"custom_model_data": 41}, "model": "fraggle:food/drinks/mug_with_liquid_filling" },
+		
+		{ "predicate": {"custom_model_data": 73}, "model": "outsourced:events/valentines/furni/champagne_cup_tintable" },		
+		{ "predicate": {"custom_model_data": 89}, "model": "outsourced:events/patty/bs_green_mug_tintable" },
+		
+		{ "predicate": {"custom_model_data": 100}, "model": "minecraft:item/potion" }
 
 		]
 }
