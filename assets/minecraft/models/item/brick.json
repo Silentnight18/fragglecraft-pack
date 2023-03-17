@@ -39,7 +39,7 @@
 		{ "predicate": { "custom_model_data": 76}, "model": "outsourced:furniture/flowers/snake_plant" },
 		{ "predicate": { "custom_model_data": 77}, "model": "outsourced:furniture/flowers/sunflower" },
 		{ "predicate": { "custom_model_data": 78}, "model": "outsourced:furniture/flowers/aloe_vera" },
-
+		{ "predicate": { "custom_model_data": 79}, "model": "outsourced:littleroom/caprahorns" },
         { "predicate": { "custom_model_data": 80}, "model": "outsourced:events/patty/set1/grenade" },
         { "predicate": { "custom_model_data": 81}, "model": "outsourced:events/patty/set3/clovers" },
         { "predicate": { "custom_model_data": 82}, "model": "outsourced:events/patty/bs_shamrock_balloon" },
@@ -54,7 +54,9 @@
         { "predicate": { "custom_model_data": 91}, "model": "outsourced:events/patty/bs_shamrock_wall_decor" },
         { "predicate": { "custom_model_data": 92}, "model": "outsourced:events/patty/bs_horseshoe_plaque" },
         { "predicate": { "custom_model_data": 93}, "model": "outsourced:events/patty/set3/clover" },
-        { "predicate": { "custom_model_data": 94}, "model": "outsourced:events/patty/set3/lucky_gold" }
+        { "predicate": { "custom_model_data": 94}, "model": "outsourced:events/patty/set3/lucky_gold" },
+
+        { "predicate": { "custom_model_data": 100}, "model": "fraggle:skills/mining/ores/nodes/adamantite_ore_node" }
         
         
         

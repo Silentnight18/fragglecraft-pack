@@ -48,6 +48,8 @@
 		{ "predicate": { "custom_model_data": 68}, "model": "outsourced:events/patty/set1/axe" },
 		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set2/axe" },
 		{ "predicate": { "custom_model_data": 70}, "model": "outsourced:events/patty/set3/clover_axe" },
+		{ "predicate": { "custom_model_data": 71}, "model": "outsourced:ec/reaper/axe_reaper" },
+		{ "predicate": { "custom_model_data": 72}, "model": "outsourced:ec/rainbow/rainbow_axe" },
 
 		{ "predicate": { "custom_model_data": 80}, "model": "minecraft:item/netherite_axe" }
 	]

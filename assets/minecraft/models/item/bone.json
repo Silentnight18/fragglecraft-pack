@@ -40,6 +40,10 @@
 		{ "predicate": { "custom_model_data": 41}, "model": "outsourced:ec/newyears/firework" },
 
 		{ "predicate": { "custom_model_data": 42}, "model": "minecraft:item/bone" },
+
+		{ "predicate": { "custom_model_data": 100}, "model": "fraggle:extra/fun/snowflake" },
+		
+		{ "predicate": { "custom_model_data": 200}, "model": "minecraft:item/bone" },
 		{ "predicate": { "custom_model_data": 1225}, "model": "fraggle:extra/fun/dinosaurtooth" },
 		{ "predicate": { "custom_model_data": 1300}, "model": "minecraft:item/bone" }
 	]

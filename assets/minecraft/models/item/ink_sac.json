@@ -4,14 +4,21 @@
     "layer0": "minecraft:item/ink_sac"
   },
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "outsourced:littleroom/lillith_crossblade"},
-		{"predicate": {"custom_model_data":2}, "model": "outsourced:littleroom/lillith_meteor"},
-		{"predicate": {"custom_model_data":3}, "model": "outsourced:littleroom/succubus_heart"},
-		{"predicate": {"custom_model_data":4}, "model": "outsourced:littleroom/succubus_heart_small"},
-		{"predicate": {"custom_model_data":5}, "model": "outsourced:littleroom/lillith_demonglaive"},
-		{"predicate": {"custom_model_data":6}, "model": "outsourced:littleroom/succubus_heart_hat"},
-		{"predicate": {"custom_model_data":7}, "model": "outsourced:littleroom/succubus_horn_hat"},
-		{"predicate": {"custom_model_data":8}, "model": "outsourced:littleroom/kriger_deathbreath"},
-		{"predicate": {"custom_model_data":10}, "model": "minecraft:item/ink_sac"}
+		{"predicate": {"custom_model_data":1}, "model": "outsourced:littleroom/carnival_mallet"},
+		{"predicate": {"custom_model_data":2}, "model": "outsourced:littleroom/carnival_prize1"},
+		{"predicate": {"custom_model_data":3}, "model": "outsourced:littleroom/carnival_prize2"},
+		{"predicate": {"custom_model_data":4}, "model": "outsourced:littleroom/carnival_ticket"},
+		{"predicate": {"custom_model_data":5}, "model": "outsourced:littleroom/carnival_npc_hat"},
+		{"predicate": {"custom_model_data":6}, "model": "outsourced:littleroom/carnival_npc_cane"},
+		{"predicate": {"custom_model_data":7}, "model": "outsourced:littleroom/carnival_prize3"},
+		{"predicate": {"custom_model_data":8}, "model": "outsourced:littleroom/carnival_prize4"},
+		{"predicate": {"custom_model_data":9}, "model": "outsourced:littleroom/gui/blue_bear_icon"},
+		{"predicate": {"custom_model_data":10}, "model": "outsourced:littleroom/gui/green_hat_icon"},
+		{"predicate": {"custom_model_data":11}, "model": "outsourced:littleroom/gui/left_arrow_icon"},
+		{"predicate": {"custom_model_data":12}, "model": "outsourced:littleroom/gui/pink_bear_icon"},
+		{"predicate": {"custom_model_data":13}, "model": "outsourced:littleroom/gui/red_hat_icon"},
+		{"predicate": {"custom_model_data":14}, "model": "outsourced:littleroom/gui/right_arrow_icon"},
+		{"predicate": {"custom_model_data":20}, "model": "outsourced:littleroom/kriger_deathbreath"},
+		{"predicate": {"custom_model_data":30}, "model": "minecraft:item/ink_sac"}
         ]
 }

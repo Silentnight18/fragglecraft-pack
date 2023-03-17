@@ -1819,5 +1819,225 @@
     "sounds": [
       "outsourced:samus/rpg_mount/sabertooth_idle"
     ]
-  }
+  },
+  "littleroom.redbirb.wuewue":{
+	"sounds": [
+	   "outsourced:littleroom/redbirb/wuewue"
+	]
+},
+"littleroom.tiamat.attack1":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/attack1"
+	]
+},
+"littleroom.tiamat.attack2":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/attack2"
+	]
+},
+"littleroom.tiamat.attack3":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/attack3"
+	]
+},
+"littleroom.tiamat.death":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/death"
+	]
+},
+"littleroom.tiamat.flinch":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/flinch"
+	]
+},
+"littleroom.tiamat.idle1":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/idle1"
+	]
+},
+"littleroom.tiamat.idle2":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/idle2"
+	]
+},
+"littleroom.tiamat.land":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/land"
+	]
+},
+"littleroom.tiamat.leap":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/leap"
+	]
+},
+"littleroom.tiamat.snarl":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/snarl"
+	]
+},
+"littleroom.tiamat.wingflap1":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/wingflap1"
+	]
+},
+"littleroom.tiamat.wingflap2":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/wingflap2"
+	]
+},
+"littleroom.tiamat.roar":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/roar"
+	]
+},
+"littleroom.tiamat.pillar1":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/pillar1"
+	]
+},
+"littleroom.tiamat.pillar2":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/pillar2"
+	]
+},
+"littleroom.tiamat.pillar3":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/pillar3"
+	]
+},
+"littleroom.tiamat.pillar4":{
+	"sounds": [
+	   "outsourced:littleroom/tiamat/pillar4"
+	]
+},
+"littleroom.cerberus.bark1":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/bark1"
+	]
+},
+"littleroom.cerberus.bark2":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/bark2"
+	]
+},
+"littleroom.cerberus.bark4":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/bark4"
+	]
+},
+"littleroom.cerberus.chain1":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/chain1"
+	]
+},
+"littleroom.cerberus.chain2":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/chain2"
+	]
+},
+"littleroom.cerberus.chain3":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/chain3"
+	]
+},
+"littleroom.cerberus.chains":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/chains"
+	]
+},
+"littleroom.cerberus.chainswing":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/chainswing"
+	]
+},
+"littleroom.cerberus.growl1":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/growl1"
+	]
+},
+"littleroom.cerberus.growl2":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/growl2"
+	]
+},
+"littleroom.cerberus.growl3":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/growl3"
+	]
+},
+"littleroom.cerberus.impact_ground":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/impact_ground"
+	]
+},
+"littleroom.cerberus.impact_ground_big":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/impact_ground_big"
+	]
+},
+"littleroom.cerberus.poof":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/poof"
+	]
+},
+"littleroom.cerberus.styx_rumble":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/styx_rumble"
+	]
+},
+"littleroom.cerberus.wake":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/wake"
+	]
+},
+"littleroom.cerberus.whimper":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/whimper"
+	]
+},
+"littleroom.cerberus.foodbowl":{
+	"sounds": [
+	   "outsourced:littleroom/cerberus/foodbowl"
+	]
+},
+"littleroom.capra.death":{
+	"sounds": [
+	   "outsourced:littleroom/capra/death"
+	]
+},
+"littleroom.capra.despair":{
+	"sounds": [
+	   "outsourced:littleroom/capra/despair"
+	]
+},
+"littleroom.capra.laugh":{
+	"sounds": [
+	   "outsourced:littleroom/capra/laugh"
+	]
+},
+"littleroom.capra.meteorimpact":{
+	"sounds": [
+	   "outsourced:littleroom/capra/meteorimpact"
+	]
+},
+"littleroom.capra.phillip":{
+	"sounds": [
+	   "outsourced:littleroom/capra/phillip"
+	]
+},
+"littleroom.capra.summon":{
+	"sounds": [
+	   "outsourced:littleroom/capra/summon"
+	]
+},
+"littleroom.capra.glide":{
+	"sounds": [
+	   "outsourced:littleroom/capra/glide"
+	]
+},
+"littleroom.capra.stun":{
+	"sounds": [
+	   "outsourced:littleroom/capra/stun"
+	]
+}
 }

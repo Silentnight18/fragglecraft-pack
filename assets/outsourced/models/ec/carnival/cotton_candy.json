@@ -1,0 +1,83 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [24, 24],
+	"textures": {
+		"1": "outsourced:ec/carnival/cotton_candy"
+	},
+	"elements": [
+		{
+			"from": [7.6, 0, 7.6],
+			"to": [8.4, 6, 8.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [8, 9.33333, 8.5, 13.33333], "texture": "#1"},
+				"east": {"uv": [8.66667, 9.33333, 9.16667, 13.33333], "texture": "#1"},
+				"south": {"uv": [9.33333, 8.66667, 9.83333, 12.66667], "texture": "#1"},
+				"west": {"uv": [0, 10, 0.5, 14], "texture": "#1"},
+				"down": {"uv": [5.83333, 8, 5.33333, 8.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.5, 6, 5.5],
+			"to": [10.5, 12, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.1, 4, 7.1]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.33333, 4], "texture": "#1"},
+				"east": {"uv": [3.33333, 0, 6.66667, 4], "texture": "#1"},
+				"south": {"uv": [0, 4, 3.33333, 8], "texture": "#1"},
+				"west": {"uv": [3.33333, 4, 6.66667, 8], "texture": "#1"},
+				"up": {"uv": [10, 3.33333, 6.66667, 0], "texture": "#1"},
+				"down": {"uv": [10, 3.33333, 6.66667, 6.66667], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.25, 12, 6.25],
+			"to": [9.75, 15, 9.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.1, 4, 7.1]},
+			"faces": {
+				"north": {"uv": [0, 8, 2.33333, 10], "texture": "#1"},
+				"east": {"uv": [2.66667, 8, 5, 10], "texture": "#1"},
+				"south": {"uv": [5.33333, 9.33333, 7.66667, 11.33333], "texture": "#1"},
+				"west": {"uv": [9.33333, 6.66667, 11.66667, 8.66667], "texture": "#1"},
+				"up": {"uv": [9, 9, 6.66667, 6.66667], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [24.5, 0, 0],
+			"translation": [0, 2.75, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [24.5, 0, 0],
+			"translation": [0, 2.75, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [-11.31, -2.1, 10.32],
+			"translation": [-1.25, 3.75, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-11.31, -2.1, 10.32],
+			"translation": [-1.25, 3.75, 0.5]
+		},
+		"ground": {
+			"rotation": [45, 0, 0],
+			"translation": [0, 7, 0],
+			"scale": [1.30859, 1.30859, 1.30859]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [0, -0.25, 0],
+			"scale": [1.0957, 1.0957, 1.0957]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -29.75],
+			"scale": [4, 4, 4]
+		}
+	}
+}
