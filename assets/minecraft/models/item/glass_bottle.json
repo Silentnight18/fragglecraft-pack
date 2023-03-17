@@ -9,10 +9,10 @@
 		{"predicate": {"custom_model_data":12}, "model": "minecraft:item/glass_bottle"},
 		{"predicate": {"custom_model_data":40}, "model": "fraggle:food/drinks/hammer_mug_empty"},
 		{"predicate": {"custom_model_data":41}, "model": "minecraft:item/glass_bottle"},
-		
-		{"predicate": {"custom_model_data":73}, "model": "outsourced:events/valentines/furni/champagne_cup_empty" },
-		{"predicate": {"custom_model_data":89}, "model": "outsourced:events/patty/bs_green_mug_empty" },
-		
+		{"predicate": {"custom_model_data":42}, "model": "outsourced:events/valentines/furni/champagne_cup_empty" },
+		{"predicate": {"custom_model_data":43}, "model": "outsourced:events/patty/bs_green_mug_empty" },
+		{"predicate": {"custom_model_data":44}, "model": "minecraft:item/glass_bottle"},
+
 		{"predicate": {"custom_model_data":1224}, "model": "fraggle:extra/fun/brokenlight"},
 		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/brokenornament"},
 		{"predicate": {"custom_model_data":1300}, "model": "minecraft:item/glass_bottle"}

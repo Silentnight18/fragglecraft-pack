@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "outsourced:littleroom/gui/red_hat_icon"
+	},
+	"display": {
+		"gui": {
+			"translation": [-9, 9, 0],
+			"scale": [2.25, 2.25, 2.25]
+		}
+	}
+}
