@@ -41,7 +41,9 @@
 		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set2/pickaxe" },
 		{ "predicate": { "custom_model_data": 70}, "model": "outsourced:events/patty/set3/clover_pickaxe" },
 		{ "predicate": { "custom_model_data": 71}, "model": "outsourced:ec/rainbow/rainbow_pickaxe" },
-		
+		{ "predicate": { "custom_model_data": 72}, "model": "outsourced:events/cat/set1/pickaxe" },
+		{ "predicate": { "custom_model_data": 73}, "model": "outsourced:events/cat/set2/pickaxe" },
+
 		{ "predicate": { "custom_model_data": 80}, "model": "minecraft:item/netherite_pickaxe" }
 	]
 }

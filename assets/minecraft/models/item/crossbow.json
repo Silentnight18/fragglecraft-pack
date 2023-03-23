@@ -880,8 +880,15 @@
         { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 70}, "model": "outsourced:events/patty/set2/crossbow_2" },
         { "predicate": {"charged":1, "custom_model_data": 70}, "model": "outsourced:events/patty/set2/crossbow_charged" },
 
+		{ "predicate": { "custom_model_data": 71}, "model": "outsourced:events/patty/set1/crossbow" },
+        { "predicate": {"pulling":1, "custom_model_data": 71}, "model": "outsourced:events/cat/set1/crossbow_0" },
+        { "predicate": {"pulling":1, "pull":0.58, "custom_model_data": 71}, "model": "outsourced:events/cat/set1/crossbow_1" },
+        { "predicate": {"pulling":1, "pull":1.0, "custom_model_data": 71}, "model": "outsourced:events/cat/set1/crossbow_2" },
+        { "predicate": {"charged":1, "pulling":1, "pull":1.0, "custom_model_data": 71}, "model": "outsourced:events/cat/set1/crossbow_2" },
+        { "predicate": {"charged":1, "custom_model_data": 71}, "model": "outsourced:events/cat/set1/crossbow_charged" },
 
-        { "predicate": { "custom_model_data": 70}, "model": "minecraft:item/crossbow" }
+
+        { "predicate": { "custom_model_data": 80}, "model": "minecraft:item/crossbow" }
 	]
     
 }

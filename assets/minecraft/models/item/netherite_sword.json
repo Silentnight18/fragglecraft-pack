@@ -115,10 +115,10 @@
 		{ "predicate": { "custom_model_data": 123}, "model": "outsourced:events/patty/set1/spear" },
 		{ "predicate": { "custom_model_data": 124}, "model": "outsourced:events/patty/set1/staff" },
 		{ "predicate": { "custom_model_data": 125}, "model": "outsourced:events/patty/set1/sword" },
-		{ "predicate": { "custom_model_data": 126}, "model": "outsourced:events/patty/set1/hammer" },
-		{ "predicate": { "custom_model_data": 127}, "model": "outsourced:events/patty/set1/spear" },
-		{ "predicate": { "custom_model_data": 128}, "model": "outsourced:events/patty/set1/staff" },
-		{ "predicate": { "custom_model_data": 129}, "model": "outsourced:events/patty/set1/sword" },
+		{ "predicate": { "custom_model_data": 126}, "model": "outsourced:events/patty/set2/hammer" },
+		{ "predicate": { "custom_model_data": 127}, "model": "outsourced:events/patty/set2/spear" },
+		{ "predicate": { "custom_model_data": 128}, "model": "outsourced:events/patty/set2/staff" },
+		{ "predicate": { "custom_model_data": 129}, "model": "outsourced:events/patty/set2/sword" },
 		{ "predicate": { "custom_model_data": 130}, "model": "outsourced:events/patty/set3/clover_sword" },
 		{ "predicate": { "custom_model_data": 131}, "model": "outsourced:ec/meowmi/meowmi_sword" },
 		{"predicate": {"custom_model_data":132}, "model": "outsourced:ec/carnival/corn_corn"},
@@ -129,6 +129,13 @@
 		{"predicate": {"custom_model_data":137}, "model": "outsourced:ec/reaper/sword_reaper"},
 		{"predicate": {"custom_model_data":138}, "model": "outsourced:ec/rainbow/rainbow_sword"},
 		{"predicate": {"custom_model_data":139}, "model": "outsourced:littleroom/carnival_mallet"},
+
+		{ "predicate": { "custom_model_data": 140}, "model": "outsourced:events/cat/set1/hammer" },
+		{ "predicate": { "custom_model_data": 141}, "model": "outsourced:events/cat/set1/spear" },
+		{ "predicate": { "custom_model_data": 142}, "model": "outsourced:events/cat/set1/staff" },
+		{ "predicate": { "custom_model_data": 143}, "model": "outsourced:events/cat/set1/sword" },
+		{ "predicate": { "custom_model_data": 144}, "model": "outsourced:events/cat/set2/sword" },
+		{ "predicate": { "custom_model_data": 145}, "model": "outsourced:events/cat/set2/staff" },
 
 		{"predicate": {"custom_model_data":600}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 		

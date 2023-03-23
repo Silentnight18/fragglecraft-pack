@@ -399,7 +399,29 @@
 		{ "predicate": { "custom_model_data": 503}, "model": "fraggle:extra/fun/giftcardfraggle"},
 		{ "predicate": { "custom_model_data": 504}, "model": "fraggle:extra/fun/giftcardsilent"},
 
-		{"predicate": {"custom_model_data":550}, "model": "minecraft:item/feather"},
+		{ "predicate": { "custom_model_data": 600}, "model": "outsourced:events/cat/set1/axe" }, 
+		{ "predicate": { "custom_model_data": 601}, "model": "outsourced:events/cat/set1/bow" }, 
+		{ "predicate": { "custom_model_data": 602}, "model": "outsourced:events/cat/set1/crossbow" }, 
+		{ "predicate": { "custom_model_data": 603}, "model": "outsourced:events/cat/set1/fishing_rod" }, 
+		{ "predicate": { "custom_model_data": 604}, "model": "outsourced:events/cat/set1/hammer" }, 
+		{ "predicate": { "custom_model_data": 605}, "model": "outsourced:events/cat/set1/hoe" }, 
+		{ "predicate": { "custom_model_data": 606}, "model": "outsourced:events/cat/set1/pickaxe" }, 
+		{ "predicate": { "custom_model_data": 607}, "model": "outsourced:events/cat/set1/shield" }, 
+		{ "predicate": { "custom_model_data": 608}, "model": "outsourced:events/cat/set1/shovel" }, 
+		
+		{ "predicate": { "custom_model_data": 610}, "model": "outsourced:events/cat/set1/spear" }, 
+		{ "predicate": { "custom_model_data": 611}, "model": "outsourced:events/cat/set1/staff" }, 
+		{ "predicate": { "custom_model_data": 612}, "model": "outsourced:events/cat/set1/sword" }, 
+		{ "predicate": { "custom_model_data": 613}, "model": "outsourced:events/cat/set2/axe" }, 
+		{ "predicate": { "custom_model_data": 614}, "model": "outsourced:events/cat/set2/bow" }, 
+
+		{ "predicate": { "custom_model_data": 616}, "model": "outsourced:events/cat/set2/hoe" }, 
+		{ "predicate": { "custom_model_data": 617}, "model": "outsourced:events/cat/set2/pickaxe" }, 
+		{ "predicate": { "custom_model_data": 618}, "model": "outsourced:events/cat/set2/shovel" }, 
+		{ "predicate": { "custom_model_data": 619}, "model": "outsourced:events/cat/set2/staff" }, 
+		{ "predicate": { "custom_model_data": 620}, "model": "outsourced:events/cat/set2/sword" }, 
+
+		{"predicate": {"custom_model_data":700}, "model": "minecraft:item/feather"},
 		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/turtledove" },
 		{"predicate": {"custom_model_data":1300}, "model": "minecraft:item/feather"}
 	]
