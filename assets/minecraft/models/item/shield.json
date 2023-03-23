@@ -105,6 +105,8 @@
 		{ "predicate": { "blocking": 1, "custom_model_data": 69}, "model": "outsourced:events/patty/set2/shield_blocking" },
         { "predicate": { "custom_model_data": 70}, "model": "outsourced:events/patty/set3/clover_shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 70}, "model": "outsourced:events/patty/set3/clover_shield_blocking" },
+        { "predicate": { "custom_model_data": 71}, "model": "outsourced:events/cat/set1/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 71}, "model": "outsourced:events/cat/set1/shield_blocking" },
 
 
 

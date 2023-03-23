@@ -53,6 +53,9 @@
 		
 		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set2/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 69}, "model": "outsourced:events/patty/set2/fishing_rod_cast" },
+
+		{ "predicate": { "custom_model_data": 70}, "model": "outsourced:events/cat/set1/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 70}, "model": "outsourced:events/cat/set1/fishing_rod_cast" },
 		
 		{ "predicate": { "custom_model_data": 100}, "model": "minecraft:item/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 100}, "model": "minecraft:item/fishing_rod" }

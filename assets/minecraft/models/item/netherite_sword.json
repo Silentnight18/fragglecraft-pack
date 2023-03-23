@@ -130,6 +130,13 @@
 		{"predicate": {"custom_model_data":138}, "model": "outsourced:ec/rainbow/rainbow_sword"},
 		{"predicate": {"custom_model_data":139}, "model": "outsourced:littleroom/carnival_mallet"},
 
+		{ "predicate": { "custom_model_data": 140}, "model": "outsourced:events/cat/set1/hammer" },
+		{ "predicate": { "custom_model_data": 141}, "model": "outsourced:events/cat/set1/spear" },
+		{ "predicate": { "custom_model_data": 142}, "model": "outsourced:events/cat/set1/staff" },
+		{ "predicate": { "custom_model_data": 143}, "model": "outsourced:events/cat/set1/sword" },
+		{ "predicate": { "custom_model_data": 144}, "model": "outsourced:events/cat/set2/sword" },
+		{ "predicate": { "custom_model_data": 145}, "model": "outsourced:events/cat/set2/staff" },
+
 		{"predicate": {"custom_model_data":600}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 		
 		{"predicate": {"custom_model_data":1902}, "model": "flamos_model/flamos_scythe"},

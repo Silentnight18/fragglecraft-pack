@@ -33,6 +33,9 @@
 
 		{ "predicate": { "custom_model_data": 59}, "model": "outsourced:events/patty/set1/key" },
 		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:events/patty/set2/key" },
+		{ "predicate": { "custom_model_data": 61}, "model": "outsourced:events/cat/set1/key" },
+		{ "predicate": { "custom_model_data": 62}, "model": "outsourced:ec/rainbow/rainbow_key" },
+		
 
 		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:littleroom/petnet" },
 

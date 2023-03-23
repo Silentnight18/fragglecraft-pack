@@ -314,6 +314,15 @@
 		{"predicate": {"custom_model_data":20145}, "model": "outsourced:samus/amethyst_model/amethyst_meteor"},
 		{"predicate": {"custom_model_data":20345}, "model": "outsourced:samus/ender_model/ender_shadow"},
 
+		{"predicate": {"custom_model_data":87600}, "model": "outsourced:events/cat/nocsy_cat_signalstick"},
+		{"predicate": {"custom_model_data":87601}, "model": "outsourced:events/cat/nocsy_cat_icon1"},
+		{"predicate": {"custom_model_data":87602}, "model": "outsourced:events/cat/nocsy_cat_icon2"},
+		{"predicate": {"custom_model_data":87603}, "model": "outsourced:events/cat/nocsy_cat_icon3"},
+		{"predicate": {"custom_model_data":87604}, "model": "outsourced:events/cat/nocsy_cat_icon4"},
+		{"predicate": {"custom_model_data":87605}, "model": "outsourced:events/cat/nocsy_cat_icon5"},
+		{"predicate": {"custom_model_data":87606}, "model": "outsourced:events/cat/nocsy_cat_icon6"},
+		{"predicate": {"custom_model_data":87607}, "model": "outsourced:events/cat/nocsy_cat_icon7"},
+
 		{"predicate": {"custom_model_data":95500}, "model": "outsourced:events/dragons/nocsy_drakonin_egg"},
 		{"predicate": {"custom_model_data":95501}, "model": "outsourced:events/dragons/nocsy_drakonin_scepter"},
 		{"predicate": {"custom_model_data":96401}, "model": "outsourced:events/dragons/nocsy_drakonin_baby_head1"},

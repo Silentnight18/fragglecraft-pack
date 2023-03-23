@@ -118,7 +118,6 @@
 		{ "predicate": { "custom_model_data": 132}, "model": "outsourced:events/patty/bs_shamrock_face" },
 		{ "predicate": { "custom_model_data": 133}, "model": "outsourced:events/patty/bs_shamrock_headband" },
 		{ "predicate": { "custom_model_data": 134}, "model": "outsourced:events/patty/set2/helmet" },
-		
 		{"predicate": {"custom_model_data":135}, "model": "outsourced:ec/carnival/corn_hat"},
 		{"predicate": {"custom_model_data":136}, "model": "outsourced:ec/carnival/corn_popcorn_backpack"},
 		{"predicate": {"custom_model_data":137}, "model": "outsourced:ec/carnival/cotton_candy_backpack"},
@@ -127,9 +126,18 @@
 		{"predicate": {"custom_model_data":140}, "model": "outsourced:ec/carnival/ice_cream_hat"},
 		{"predicate": {"custom_model_data":141}, "model": "outsourced:ec/meowmi/meowmi_ears"},
 		{"predicate": {"custom_model_data":142}, "model": "outsourced:ec/meowmi/meowmi_wings"},
-
-		
-		
+		{ "predicate": { "custom_model_data": 143}, "model": "outsourced:events/cat/set1/backpack" },
+		{ "predicate": { "custom_model_data": 144}, "model": "outsourced:events/cat/set1/chest" },
+		{ "predicate": { "custom_model_data": 145}, "model": "outsourced:events/cat/set1/chest_opening" },
+		{ "predicate": { "custom_model_data": 146}, "model": "outsourced:events/cat/set1/flag" },
+		{ "predicate": { "custom_model_data": 147}, "model": "outsourced:events/cat/set1/headset" },
+		{ "predicate": { "custom_model_data": 148}, "model": "outsourced:events/cat/set1/hood" },
+		{ "predicate": { "custom_model_data": 149}, "model": "outsourced:events/cat/set1/tail" },
+		{"predicate": {"custom_model_data":150}, "model": "outsourced:events/cat/set2/ears"},
+		{"predicate": {"custom_model_data":151}, "model": "outsourced:events/cat/set2/backpack"},
+		{"predicate": {"custom_model_data":152}, "model": "outsourced:ec/rainbow/rainbow_chest"},
+		{"predicate": {"custom_model_data":153}, "model": "outsourced:ec/rainbow/rainbow_glasses"},
+		{"predicate": {"custom_model_data":154}, "model": "outsourced:ec/rainbow/rainbow_sniper"},
 		
 		{ "predicate": { "custom_model_data": 300}, "model": "fraggle:trees/banana_tree_empty" },
 		{ "predicate": { "custom_model_data": 301}, "model": "fraggle:trees/banana_tree_bunches_a" },
