@@ -820,6 +820,14 @@
 		{ "predicate": { "custom_model_data": 1156 }, "model": "outsourced:events/valentines/set5/wing" },
 		{ "predicate": { "custom_model_data": 1157 }, "model": "outsourced:events/valentines/set5/cupid_wings" },
 		
+		
+		
+		{ "predicate": { "custom_model_data": 1160 }, "model": "fraggle:events/easter/dyeable_egg" },		
+		{ "predicate": { "custom_model_data": 1161 }, "model": "fraggle:events/easter/rainbow_dot_egg" },		
+		{ "predicate": { "custom_model_data": 1162 }, "model": "fraggle:events/easter/rainbow_dot_flash_egg" },
+		
+		
+		
 		{ "predicate": { "custom_model_data": 1200}, "model": "fraggle:furniture/events/oktoberfest/blue_banner_wall" },
 		{ "predicate": { "custom_model_data": 1202}, "model": "fraggle:furniture/events/oktoberfest/yellow_banner_wall" },
 		{ "predicate": { "custom_model_data": 1204}, "model": "outsourced:furniture/events/oktoberfest/curtain_closed" },
