@@ -261,6 +261,16 @@
 		{"predicate": {"custom_model_data":2504}, "model": "outsourced:samus/slam_fx_1"},
 		{"predicate": {"custom_model_data":2505}, "model": "outsourced:samus/slam_fx_1"},
 
+		{"predicate": {"custom_model_data":2655}, "model": "outsourced:samus/easter/easter_egg_blue"},
+		{"predicate": {"custom_model_data":2656}, "model": "outsourced:samus/easter/easter_egg_pink"},
+		{"predicate": {"custom_model_data":2657}, "model": "outsourced:samus/easter/easter_egg_yellow"},
+		{"predicate": {"custom_model_data":2658}, "model": "outsourced:samus/easter/easter_slam_1"},
+		{"predicate": {"custom_model_data":2659}, "model": "outsourced:samus/easter/easter_slam_2"},
+		{"predicate": {"custom_model_data":2660}, "model": "outsourced:samus/easter/easter_slam_3"},
+		{"predicate": {"custom_model_data":2661}, "model": "outsourced:samus/easter/easter_slam_4"},
+		{"predicate": {"custom_model_data":2662}, "model": "outsourced:samus/easter/easter_slam_5"},
+		{"predicate": {"custom_model_data":2663}, "model": "outsourced:samus/easter/easter_slam_6"},
+
 		{"predicate": {"custom_model_data":2600}, "model": "outsourced:samus/rpg_mount_model/icon_dragon_desert"},
 		{"predicate": {"custom_model_data":2601}, "model": "outsourced:samus/rpg_mount_model/icon_dragon_glacial"},
 		{"predicate": {"custom_model_data":2602}, "model": "outsourced:samus/rpg_mount_model/icon_dragon_nether"},

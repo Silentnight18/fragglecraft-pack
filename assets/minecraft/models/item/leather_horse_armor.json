@@ -138,7 +138,8 @@
 		{"predicate": {"custom_model_data":152}, "model": "outsourced:ec/rainbow/rainbow_chest"},
 		{"predicate": {"custom_model_data":153}, "model": "outsourced:ec/rainbow/rainbow_glasses"},
 		{"predicate": {"custom_model_data":154}, "model": "outsourced:ec/rainbow/rainbow_sniper"},
-		
+		{ "predicate": { "custom_model_data": 155}, "model": "outsourced:events/bloons/balloon_dyeable" },
+
 		{ "predicate": { "custom_model_data": 300}, "model": "fraggle:trees/banana_tree_empty" },
 		{ "predicate": { "custom_model_data": 301}, "model": "fraggle:trees/banana_tree_bunches_a" },
 		{ "predicate": { "custom_model_data": 302}, "model": "fraggle:trees/banana_tree_bunches_b" },

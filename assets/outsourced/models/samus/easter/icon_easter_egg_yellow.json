@@ -1,0 +1,29 @@
+{
+	"credit": "Made by samus2002",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "outsourced:samus/easter/pet_easter_egg_yellow",
+		"particle": "outsourced:samus/easter/pet_easter_egg_yellow"
+	},
+	"elements": [
+		{
+			"from": [3.5, 3.5, 3.5],
+			"to": [12.5, 12.5, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 4.5, 4.5], "texture": "#0"},
+				"east": {"uv": [0, 5, 4.5, 9.5], "texture": "#0"},
+				"south": {"uv": [5, 0, 9.5, 4.5], "texture": "#0"},
+				"west": {"uv": [5, 5, 9.5, 9.5], "texture": "#0"},
+				"up": {"uv": [4.5, 14.5, 0, 10], "texture": "#0"},
+				"down": {"uv": [14.5, 0, 10, 4.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

@@ -92,8 +92,7 @@
 			"scale": [1.11914, 1.11914, 1.11914]
 		},
 		"head": {
-			"translation": [0, -14.25, 0],
-			"scale": [2.26781, 2.26781, 2.26781]
+			"translation": [0, 14.5, 0]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
@@ -106,8 +105,6 @@
 			"name": "cup",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3]
 		}
 	]

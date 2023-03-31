@@ -719,6 +719,114 @@
             "chars": [
                 "\uE04f"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/caterpillar_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/cherry_blossom_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/chick_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/clover_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/flower_bouquet_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/head_flower_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/plant_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/smelling_flower_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/sprout_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/sun_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/sunflower_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE05a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "outsourced:emotes/spring/tulip_emoji.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE05b"
+            ]
         }
 
 		]

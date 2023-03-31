@@ -151,6 +151,8 @@
 		{"predicate": {"custom_model_data":2007}, "model": "outsourced:samus/thor_model/thor_hammer"},
 		{"predicate": {"custom_model_data":2008}, "model": "outsourced:samus/thor_model/thor_hammer_shiny"},
 
+		{"predicate": {"custom_model_data":2039}, "model": "outsourced:samus/easter_basket"},
+		{"predicate": {"custom_model_data":2040}, "model": "outsourced:samus/easter_basket_shiny"},
 
 		{ "predicate": { "custom_model_data": 2200}, "model": "minecraft:item/netherite_sword" }
 	]
