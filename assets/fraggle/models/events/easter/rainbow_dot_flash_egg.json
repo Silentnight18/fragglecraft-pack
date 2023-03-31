@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "fraggle:events/easter/white_dot",
+		"layer1": "fraggle:events/easter/rainbow_dot_flash"
+	},
+	"display": {
+		"head": {
+			"scale": [4, 4, 4],
+			"translation": [0, 36, 0]
+		}
+	}
+}
