@@ -41,8 +41,11 @@
 		{ "predicate": { "custom_model_data": 44}, "model": "fraggle:feesh/armored_catfish" },
 		{ "predicate": { "custom_model_data": 45}, "model": "fraggle:feesh/red-bellied_piranha" },
 		{ "predicate": { "custom_model_data": 46}, "model": "fraggle:feesh/electric_eel" },
-        { "predicate": { "custom_model_data": 47}, "model": "minecraft:item/cod" },
-		
+		{ "predicate": { "custom_model_data": 47}, "model": "fraggle:feesh/zombie_fish" },
+		{ "predicate": { "custom_model_data": 48}, "model": "fraggle:feesh/sunset_piranha" },
+		{ "predicate": { "custom_model_data": 49}, "model": "fraggle:feesh/emerald_dream_fish" },
+        { "predicate": { "custom_model_data": 60}, "model": "minecraft:item/cod" },
+
 		{ "predicate": { "custom_model_data": 1225}, "model": "fraggle:extra/fun/coalcarp" },
 		{ "predicate": { "custom_model_data": 1227}, "model": "fraggle:extra/fun/glacialguppy" },
 		{ "predicate": { "custom_model_data": 1229}, "model": "fraggle:extra/fun/candycanefish" },

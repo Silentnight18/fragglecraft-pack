@@ -37,6 +37,11 @@
 		{ "predicate": { "custom_model_data": 72}, "model": "outsourced:events/cat/set1/shovel" },
 		{ "predicate": { "custom_model_data": 73}, "model": "outsourced:events/cat/set2/shovel" },
 		
+		{ "predicate": { "custom_model_data": 75}, "model": "outsourced:events/easter/set1/shovel" },
+		{ "predicate": { "custom_model_data": 76}, "model": "outsourced:events/easter/set2/shovel" },
+		{ "predicate": { "custom_model_data": 77}, "model": "outsourced:events/easter/set3/shovel" },
+		{ "predicate": { "custom_model_data": 78}, "model": "outsourced:events/easter/set4/shovel" },
+
 		{ "predicate": { "custom_model_data": 80}, "model": "minecraft:item/netherite_shovel" }
 	]
 }

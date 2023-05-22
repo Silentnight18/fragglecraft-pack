@@ -1,0 +1,66 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "modelengine:entity/bbqhamburgerbun"
+	},
+	"elements": [
+		{
+			"from": [7.98744, 5, 7.9948],
+			"to": [9.98744, 5.5, 9.9948],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8.98744, 5.25, 8.9948]},
+			"faces": {
+				"north": {"uv": [12.5, 0.5, 13.5, 0.75], "texture": "#0"},
+				"east": {"uv": [12.5, 0.5, 13.5, 0.75], "texture": "#0"},
+				"south": {"uv": [12.5, 0.5, 13.5, 0.75], "texture": "#0"},
+				"west": {"uv": [12.5, 0.5, 13.5, 0.75], "texture": "#0"},
+				"up": {"uv": [13.5, 0.5, 14.5, 1.5], "texture": "#0"},
+				"down": {"uv": [13.5, 0.5, 14.5, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.98744, 5, 5.9948],
+			"to": [7.98744, 5.5, 7.9948],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.98744, 5.25, 5.9948]},
+			"faces": {
+				"north": {"uv": [12.5, 0.5, 13.5, 0.75], "texture": "#0"},
+				"east": {"uv": [12.5, 0.5, 13.5, 0.75], "texture": "#0"},
+				"south": {"uv": [12.5, 0.5, 13.5, 0.75], "texture": "#0"},
+				"west": {"uv": [12.5, 0.5, 13.5, 0.75], "texture": "#0"},
+				"up": {"uv": [13.5, 0.5, 14.5, 1.5], "texture": "#0"},
+				"down": {"uv": [13.5, 0.5, 14.5, 1.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.75, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"ground": {
+			"rotation": [24, 0, 0],
+			"translation": [0, 1.25, 0]
+		},
+		"gui": {
+			"rotation": [38, 14, 0],
+			"translation": [0, 4.25, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "bbq_pickle",
+			"origin": [-7.01256, 6, -0.0052],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

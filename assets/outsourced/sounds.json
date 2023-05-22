@@ -829,6 +829,26 @@
 	   "outsourced:littleroom/showcase/vendingmachine"
 	]
 },
+"littleroom.jackpot.spin":{
+	"sounds": [
+	   "outsourced:littleroom/jackpot/spin"
+	]
+},
+"littleroom.jackpot.fail":{
+	"sounds": [
+	   "outsourced:littleroom/jackpot/fail"
+	]
+},
+"littleroom.jackpot.win":{
+	"sounds": [
+	   "outsourced:littleroom/jackpot/win"
+	]
+},
+"littleroom.jackpot.music":{
+	"sounds": [
+	   "outsourced:littleroom/jackpot/music"
+	]
+},
 "grinch.cookieeat":
 	 {"category": "master","sounds": [{"name": "outsourced:grinch/grinch_cookieeat","stream": false}]},
      "grinch.cookietake":
@@ -2038,6 +2058,61 @@
 "littleroom.capra.stun":{
 	"sounds": [
 	   "outsourced:littleroom/capra/stun"
+	]
+},
+"littleroom.magiclantern.apply_element":{
+	"sounds": [
+	   "outsourced:littleroom/magiclantern/apply_element"
+	]
+},
+"littleroom.magiclantern.detect":{
+	"sounds": [
+	   "outsourced:littleroom/magiclantern/detect"
+	]
+},
+"littleroom.magiclantern.set_down":{
+	"sounds": [
+	   "outsourced:littleroom/magiclantern/set_down"
+	]
+},
+"littleroom.bumpercars.bump_01":{
+	"sounds": [
+	   "outsourced:littleroom/bumpercars/bump_01"
+	]
+},
+"littleroom.bumpercars.bump_02":{
+	"sounds": [
+	   "outsourced:littleroom/bumpercars/bump_02"
+	]
+},
+"littleroom.bumpercars.bump_03":{
+	"sounds": [
+	   "outsourced:littleroom/bumpercars/bump_03"
+	]
+},
+"littleroom.bumpercars.bump_04":{
+	"sounds": [
+	   "outsourced:littleroom/bumpercars/bump_04"
+	]
+},
+"littleroom.hotairballoon.breeze":{
+   "sounds": [
+	  "outsourced:littleroom/hotairballoon/breeze"
+   ]
+},
+"littleroom.hotairballoon.rainhit":{
+   "sounds": [
+	  "outsourced:littleroom/hotairballoon/rainhit"
+   ]
+},
+"littleroom.watergun.shoot":{
+  "sounds": [
+	 "outsourced:littleroom/watergun/shoot"
+  ]
+},
+"littleroom.balloons.doot":{
+	"sounds": [
+	   "outsourced:littleroom/balloons/doot"
 	]
 }
 }

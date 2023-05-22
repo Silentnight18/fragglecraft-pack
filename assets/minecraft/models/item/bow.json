@@ -179,6 +179,23 @@
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 74}, "model": "outsourced:events/cat/set2/bow_1" },
         { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 74}, "model": "outsourced:events/cat/set2/bow_2" },
 
+        { "predicate": { "custom_model_data": 75}, "model": "outsourced:events/easter/set1/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 75}, "model": "outsourced:events/easter/set1/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 75}, "model": "outsourced:events/easter/set1/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 75}, "model": "outsourced:events/easter/set1/bow_2" },
+        { "predicate": { "custom_model_data": 76}, "model": "outsourced:events/easter/set2/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 76}, "model": "outsourced:events/easter/set2/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 76}, "model": "outsourced:events/easter/set2/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 76}, "model": "outsourced:events/easter/set2/bow_2" },
+        { "predicate": { "custom_model_data": 77}, "model": "outsourced:events/easter/set3/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 77}, "model": "outsourced:events/easter/set3/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 77}, "model": "outsourced:events/easter/set3/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 77}, "model": "outsourced:events/easter/set3/bow_2" },
+        { "predicate": { "custom_model_data": 78}, "model": "outsourced:events/easter/set4/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 78}, "model": "outsourced:events/easter/set4/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 78}, "model": "outsourced:events/easter/set4/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 78}, "model": "outsourced:events/easter/set4/bow_2" },
+
 
         {"predicate": {"custom_model_data": 80},"model": "outsourced:littleroom/voras_bow"},
         {"predicate": {"custom_model_data": 80,"pulling": 1,"pull": 0},"model": "outsourced:littleroom/voras_bow_pulling_0"},

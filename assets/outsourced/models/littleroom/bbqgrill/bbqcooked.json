@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "modelengine:entity/bbq_grill"
+	},
+	"elements": [
+		{
+			"from": [5.73744, 7.5, 6.4948],
+			"to": [10.73744, 9.5, 11.4948],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.23744, 9.5, 8.9948]},
+			"faces": {
+				"north": {"uv": [14.75, 2.5, 16, 3], "texture": "#0"},
+				"east": {"uv": [14.75, 2.5, 16, 3], "texture": "#0"},
+				"south": {"uv": [14.75, 2.5, 16, 3], "texture": "#0"},
+				"west": {"uv": [14.75, 2.5, 16, 3], "texture": "#0"},
+				"up": {"uv": [14.75, 1.25, 16, 2.5], "texture": "#0"},
+				"down": {"uv": [14.75, 1.25, 16, 2.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [51, 0, 0],
+			"translation": [0, 1.75, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [51, 0, 0],
+			"translation": [0, 1.75, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [51, 0, 0],
+			"translation": [0, 1.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [51, 0, 0],
+			"translation": [0, 1.75, 0]
+		},
+		"ground": {
+			"rotation": [35, 0, 0]
+		},
+		"gui": {
+			"rotation": [31, 40, 0],
+			"translation": [-1.25, -0.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "raw",
+			"origin": [0.23744, 6.5, -0.0052],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

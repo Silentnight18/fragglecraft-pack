@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fraggle:extra/fun/anniversary_shavedicelarge_ice",
+    "layer1": "fraggle:extra/fun/anniversary_shavedicelarge_cup"
+  }
+}

@@ -52,6 +52,10 @@
 		{ "predicate": { "custom_model_data": 72}, "model": "outsourced:ec/rainbow/rainbow_axe" },
 		{ "predicate": { "custom_model_data": 73}, "model": "outsourced:events/cat/set1/axe" },
 		{ "predicate": { "custom_model_data": 74}, "model": "outsourced:events/cat/set2/axe" },
+		{ "predicate": { "custom_model_data": 75}, "model": "outsourced:events/easter/set1/axe" },
+		{ "predicate": { "custom_model_data": 76}, "model": "outsourced:events/easter/set2/axe" },
+		{ "predicate": { "custom_model_data": 77}, "model": "outsourced:events/easter/set3/axe" },
+		{ "predicate": { "custom_model_data": 78}, "model": "outsourced:events/easter/set4/axe" },
 
 		{ "predicate": { "custom_model_data": 80}, "model": "minecraft:item/netherite_axe" }
 	]

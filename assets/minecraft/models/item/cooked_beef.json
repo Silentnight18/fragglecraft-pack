@@ -5,7 +5,13 @@
     },
 	"overrides": [
 		{ "predicate": { "custom_model_data": 12}, "model": "fraggle:food/hamburger"},
-        { "predicate": { "custom_model_data": 13}, "model": "minecraft:item/cooked_beef" },
+		{"predicate": {"custom_model_data":13}, "model": "outsourced:littleroom/bbqgrill/bbqcooked"},
+		{"predicate": {"custom_model_data":14}, "model": "outsourced:littleroom/bbqgrill/bbqburnt"},
+		{"predicate": {"custom_model_data":15}, "model": "outsourced:littleroom/bbqgrill/burgers/burger_cheese_plain"},
+		{"predicate": {"custom_model_data":16}, "model": "outsourced:littleroom/bbqgrill/burgers/burger_cheese_veggies"},
+		{"predicate": {"custom_model_data":17}, "model": "outsourced:littleroom/bbqgrill/burgers/burger_plain"},
+		{"predicate": {"custom_model_data":18}, "model": "outsourced:littleroom/bbqgrill/burgers/burger_plain_veggies"},
+        { "predicate": { "custom_model_data": 20}, "model": "minecraft:item/cooked_beef" },
 
 		{"predicate": {"custom_model_data":6696}, "model": "outsourced:littleroom/jiaozi"},
 		{"predicate": {"custom_model_data":6697}, "model": "outsourced:littleroom/niangao"},

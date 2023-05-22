@@ -7,6 +7,13 @@
 		{"predicate": {"custom_model_data":5}, "model": "outsourced:littleroom/xmastreebox"},
 		{"predicate": {"custom_model_data":6}, "model": "outsourced:littleroom/coffee"},
 		{"predicate": {"custom_model_data":7}, "model": "outsourced:littleroom/newyears/firecrackers"},
-		{"predicate": {"custom_model_data":10}, "model": "minecraft:item/template_spawn_egg"}
+		{"predicate": {"custom_model_data":10}, "model": "minecraft:item/template_spawn_egg"},
+		{"predicate": {"custom_model_data":11}, "model": "outsourced:littleroom/balloon_bundle"},
+		{"predicate": {"custom_model_data":12}, "model": "outsourced:littleroom/balloon_chicken"},
+		{"predicate": {"custom_model_data":13}, "model": "outsourced:littleroom/balloon_creeper"},
+		{"predicate": {"custom_model_data":14}, "model": "outsourced:littleroom/balloon_ghast"},
+		{"predicate": {"custom_model_data":15}, "model": "outsourced:littleroom/balloon_pig"},
+
+		{"predicate": {"custom_model_data":20}, "model": "minecraft:item/template_spawn_egg"}
 	]
 }

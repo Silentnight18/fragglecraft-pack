@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "modelengine:entity/bbqhamburgerbun"
+	},
+	"elements": [
+		{
+			"from": [4.98744, 2.55, 8.9948],
+			"to": [10.98744, 8.55, 8.9948],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.98744, 5.55, 8.9948]},
+			"faces": {
+				"north": {"uv": [9.5, 3, 12.5, 0], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [12.75, 0, 15.75, 0], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [9.5, 0, 12.5, 3], "texture": "#0"},
+				"west": {"uv": [12.75, 0, 15.75, 0], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [12.75, 0, 15.75, 0], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [12.75, 0, 15.75, 0], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.75, -0.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"ground": {
+			"rotation": [24, 0, 0],
+			"translation": [0, 1.25, 0]
+		},
+		"gui": {
+			"rotation": [38, 14, 0],
+			"translation": [0, 4.25, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "bbq_lettuce",
+			"origin": [4.98744, 4, -0.0052],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
