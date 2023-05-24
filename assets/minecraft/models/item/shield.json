@@ -108,7 +108,14 @@
         { "predicate": { "custom_model_data": 71}, "model": "outsourced:events/cat/set1/shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 71}, "model": "outsourced:events/cat/set1/shield_blocking" },
 
-
+        { "predicate": { "custom_model_data": 75}, "model": "outsourced:events/easter/set1/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 75}, "model": "outsourced:events/easter/set1/shield_blocking" },
+        { "predicate": { "custom_model_data": 76}, "model": "outsourced:events/easter/set2/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 76}, "model": "outsourced:events/easter/set2/shield_blocking" },
+        { "predicate": { "custom_model_data": 77}, "model": "outsourced:events/easter/set3/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 77}, "model": "outsourced:events/easter/set3/shield_blocking" },
+        { "predicate": { "custom_model_data": 78}, "model": "outsourced:events/easter/set4/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 78}, "model": "outsourced:events/easter/set4/shield_blocking" },
 
 
         { "predicate": { "custom_model_data": 79}, "model": "outsourced:littleroom/voras_tombstone_shield" },

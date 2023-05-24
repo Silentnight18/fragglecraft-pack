@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/beef"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":11}, "model": "outsourced:littleroom/bbqgrill/bbqraw"},
+        { "predicate": { "custom_model_data": 13}, "model": "minecraft:item/beef" }
+
+	]
+}

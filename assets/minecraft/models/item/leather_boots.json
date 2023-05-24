@@ -24,6 +24,10 @@
 		{ "predicate": { "custom_model_data": 1236}, "model": "custom/armor/patrick_v2_boots" },
 		{ "predicate": { "custom_model_data": 1237}, "model": "custom/armor/clover_shoes" },
 
+		{ "predicate": { "custom_model_data": 1240}, "model": "outsourced:events/easter/set1/boots" },
+		{ "predicate": { "custom_model_data": 1241}, "model": "outsourced:events/easter/set2/boots" },
+		{ "predicate": { "custom_model_data": 1243}, "model": "outsourced:events/easter/set4/boots" },
+
 		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_boots" },
 		{ "predicate": { "custom_model_data": 1910}, "model": "custom/armor/santa_boots_one" },
 		{ "predicate": { "custom_model_data": 1911}, "model": "custom/armor/santa_boots_two" },

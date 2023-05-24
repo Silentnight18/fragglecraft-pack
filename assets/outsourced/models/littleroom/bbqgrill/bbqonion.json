@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "modelengine:entity/bbqhamburgerbun"
+	},
+	"elements": [
+		{
+			"from": [5.98744, 5, 6.9948],
+			"to": [9.98744, 6, 10.9948],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.01256, 6, -0.0052]},
+			"faces": {
+				"north": {"uv": [14, 3.5, 16, 4], "texture": "#0"},
+				"east": {"uv": [14, 3.5, 16, 4], "texture": "#0"},
+				"south": {"uv": [14, 3.5, 16, 4], "texture": "#0"},
+				"west": {"uv": [14, 3.5, 16, 4], "texture": "#0"},
+				"up": {"uv": [14, 1.5, 16, 3.5], "texture": "#0"},
+				"down": {"uv": [14, 1.5, 16, 3.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.75, -0.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 2.75, 0]
+		},
+		"ground": {
+			"rotation": [24, 0, 0],
+			"translation": [0, 1.25, 0]
+		},
+		"gui": {
+			"rotation": [38, 14, 0],
+			"translation": [0, 4.25, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "bbq_onion",
+			"origin": [-1.01256, 5, -0.0052],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

@@ -49,14 +49,21 @@
 		
 		{ "predicate": { "custom_model_data": 68}, "model": "outsourced:events/patty/set1/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 68}, "model": "outsourced:events/patty/set1/fishing_rod_cast" },
-
-		
 		{ "predicate": { "custom_model_data": 69}, "model": "outsourced:events/patty/set2/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 69}, "model": "outsourced:events/patty/set2/fishing_rod_cast" },
-
 		{ "predicate": { "custom_model_data": 70}, "model": "outsourced:events/cat/set1/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 70}, "model": "outsourced:events/cat/set1/fishing_rod_cast" },
 		
+
+		{ "predicate": { "custom_model_data": 75}, "model": "outsourced:events/easter/set1/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 75}, "model": "outsourced:events/easter/set1/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 76}, "model": "outsourced:events/easter/set2/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 76}, "model": "outsourced:events/easter/set2/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 77}, "model": "outsourced:events/easter/set3/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 77}, "model": "outsourced:events/easter/set3/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 78}, "model": "outsourced:events/easter/set4/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 78}, "model": "outsourced:events/easter/set4/fishing_rod_cast" },
+
 		{ "predicate": { "custom_model_data": 100}, "model": "minecraft:item/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 100}, "model": "minecraft:item/fishing_rod" }
 	]

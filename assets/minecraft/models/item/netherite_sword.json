@@ -129,13 +129,42 @@
 		{"predicate": {"custom_model_data":137}, "model": "outsourced:ec/reaper/sword_reaper"},
 		{"predicate": {"custom_model_data":138}, "model": "outsourced:ec/rainbow/rainbow_sword"},
 		{"predicate": {"custom_model_data":139}, "model": "outsourced:littleroom/carnival_mallet"},
-
 		{ "predicate": { "custom_model_data": 140}, "model": "outsourced:events/cat/set1/hammer" },
 		{ "predicate": { "custom_model_data": 141}, "model": "outsourced:events/cat/set1/spear" },
 		{ "predicate": { "custom_model_data": 142}, "model": "outsourced:events/cat/set1/staff" },
 		{ "predicate": { "custom_model_data": 143}, "model": "outsourced:events/cat/set1/sword" },
 		{ "predicate": { "custom_model_data": 144}, "model": "outsourced:events/cat/set2/sword" },
 		{ "predicate": { "custom_model_data": 145}, "model": "outsourced:events/cat/set2/staff" },
+
+		{ "predicate": { "custom_model_data": 146}, "model": "outsourced:events/easter/set1/bigsword" },
+		{ "predicate": { "custom_model_data": 147}, "model": "outsourced:events/easter/set1/double_blade_sword" },
+		{ "predicate": { "custom_model_data": 148}, "model": "outsourced:events/easter/set1/hammer" },
+		{ "predicate": { "custom_model_data": 149}, "model": "outsourced:events/easter/set1/hand_dagger" },
+		{ "predicate": { "custom_model_data": 150}, "model": "outsourced:events/easter/set1/mace" },
+		{ "predicate": { "custom_model_data": 151}, "model": "outsourced:events/easter/set1/sickle" },
+		{ "predicate": { "custom_model_data": 152}, "model": "outsourced:events/easter/set1/spear" },
+		{ "predicate": { "custom_model_data": 153}, "model": "outsourced:events/easter/set1/staff" },
+		{ "predicate": { "custom_model_data": 154}, "model": "outsourced:events/easter/set1/sword" },
+		{ "predicate": { "custom_model_data": 155}, "model": "outsourced:events/easter/set2/battle_axe" },
+		{ "predicate": { "custom_model_data": 156}, "model": "outsourced:events/easter/set2/blade" },
+		{ "predicate": { "custom_model_data": 157}, "model": "outsourced:events/easter/set2/halberd" },
+		{ "predicate": { "custom_model_data": 158}, "model": "outsourced:events/easter/set2/spear" },
+		{ "predicate": { "custom_model_data": 159}, "model": "outsourced:events/easter/set2/staff" },
+		{ "predicate": { "custom_model_data": 160}, "model": "outsourced:events/easter/set2/sword" },
+		{ "predicate": { "custom_model_data": 161}, "model": "outsourced:events/easter/set3/hammer" },
+		{ "predicate": { "custom_model_data": 162}, "model": "outsourced:events/easter/set3/spear" },
+		{ "predicate": { "custom_model_data": 163}, "model": "outsourced:events/easter/set3/staff" },
+		{ "predicate": { "custom_model_data": 164}, "model": "outsourced:events/easter/set3/sword" },
+		{ "predicate": { "custom_model_data": 165}, "model": "outsourced:events/easter/set4/greatsword" },
+		{ "predicate": { "custom_model_data": 166}, "model": "outsourced:events/easter/set4/hammer" },
+		{ "predicate": { "custom_model_data": 167}, "model": "outsourced:events/easter/set4/scythe" },
+		{ "predicate": { "custom_model_data": 168}, "model": "outsourced:events/easter/set4/spear" },
+		{ "predicate": { "custom_model_data": 169}, "model": "outsourced:events/easter/set4/staff" },
+		{ "predicate": { "custom_model_data": 170}, "model": "outsourced:events/easter/set4/sword" },
+		{ "predicate": { "custom_model_data": 171}, "model": "outsourced:events/easter/set4/trident" },
+		{ "predicate": { "custom_model_data": 172}, "model": "outsourced:events/easter/set1/gauntlet" },
+		{ "predicate": { "custom_model_data": 173}, "model": "outsourced:events/easter/set1/axe" },
+		{ "predicate": { "custom_model_data": 174}, "model": "outsourced:events/easter/set4/axe" },
 
 		{"predicate": {"custom_model_data":600}, "model": "outsourced:littleroom/extras/scarecrow_scythe"},
 		
@@ -151,6 +180,8 @@
 		{"predicate": {"custom_model_data":2007}, "model": "outsourced:samus/thor_model/thor_hammer"},
 		{"predicate": {"custom_model_data":2008}, "model": "outsourced:samus/thor_model/thor_hammer_shiny"},
 
+		{"predicate": {"custom_model_data":2039}, "model": "outsourced:samus/easter/easter_basket"},
+		{"predicate": {"custom_model_data":2040}, "model": "outsourced:samus/easter/easter_basket_shiny"},
 
 		{ "predicate": { "custom_model_data": 2200}, "model": "minecraft:item/netherite_sword" }
 	]

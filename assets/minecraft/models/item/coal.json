@@ -42,6 +42,14 @@
 		{"predicate": {"custom_model_data":2024}, "model": "outsourced:samus/thor_model/icon_hammer_throw"},
 		{"predicate": {"custom_model_data":2025}, "model": "outsourced:samus/thor_model/icon_asgardian_fury"},
 		{"predicate": {"custom_model_data":2026}, "model": "outsourced:samus/thor_model/icon_thunder_shockwave"},
-		{"predicate": {"custom_model_data":2027}, "model": "outsourced:samus/thor_model/icon_thunder_smash"}
+		{"predicate": {"custom_model_data":2027}, "model": "outsourced:samus/thor_model/icon_thunder_smash"},
+
+		{"predicate": {"custom_model_data":2120}, "model": "outsourced:samus/easter/icon_carrot_rush"},
+		{"predicate": {"custom_model_data":2121}, "model": "outsourced:samus/easter/icon_easter_eggs"},
+		{"predicate": {"custom_model_data":2122}, "model": "outsourced:samus/easter/icon_easter_onslaught"},
+		{"predicate": {"custom_model_data":2123}, "model": "outsourced:samus/easter/icon_easter_slam"},
+		{"predicate": {"custom_model_data":2124}, "model": "outsourced:samus/easter/icon_rain_of_easter_eggs"},
+		{"predicate": {"custom_model_data":5570}, "model": "outsourced:samus/easter/projectile_egg"},
+		{"predicate": {"custom_model_data":5571}, "model": "outsourced:samus/easter/projectile_fire_egg"}
 	]
 }

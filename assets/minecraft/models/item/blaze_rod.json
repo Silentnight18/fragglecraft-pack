@@ -35,9 +35,17 @@
 		{ "predicate": { "custom_model_data": 60}, "model": "outsourced:events/patty/set2/key" },
 		{ "predicate": { "custom_model_data": 61}, "model": "outsourced:events/cat/set1/key" },
 		{ "predicate": { "custom_model_data": 62}, "model": "outsourced:ec/rainbow/rainbow_key" },
-		
+		{ "predicate": { "custom_model_data": 63}, "model": "outsourced:events/easter/set1/key" },
+		{ "predicate": { "custom_model_data": 64}, "model": "outsourced:events/easter/set2/key" },
+		{ "predicate": { "custom_model_data": 65}, "model": "outsourced:events/easter/set3/key" },
+		{ "predicate": { "custom_model_data": 66}, "model": "outsourced:events/easter/set4/key" },
 
 		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:littleroom/petnet" },
+
+		{ "predicate": { "custom_model_data": 200}, "model": "outsourced:events/easter/set1/staff" },
+		{ "predicate": { "custom_model_data": 201}, "model": "outsourced:events/easter/set2/staff" },
+		{ "predicate": { "custom_model_data": 202}, "model": "outsourced:events/easter/set3/staff" },
+		{ "predicate": { "custom_model_data": 203}, "model": "outsourced:events/easter/set4/staff" },
 
 		{ "predicate": { "custom_model_data": 1000}, "model": "minecraft:item/blaze_rod" }
 	]

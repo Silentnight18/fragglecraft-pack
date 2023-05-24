@@ -24,6 +24,10 @@
 		{ "predicate": { "custom_model_data": 1235}, "model": "custom/armor/patrick_chestplate" },
 		{ "predicate": { "custom_model_data": 1236}, "model": "custom/armor/patrick_v2_chestplate" },
 		{ "predicate": { "custom_model_data": 1237}, "model": "custom/armor/clover_vest" },
+
+		{ "predicate": { "custom_model_data": 1240}, "model": "outsourced:events/easter/set1/chestplate" },
+		{ "predicate": { "custom_model_data": 1241}, "model": "outsourced:events/easter/set2/chestplate" },
+		{ "predicate": { "custom_model_data": 1243}, "model": "outsourced:events/easter/set4/chestplate" },
 		
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
